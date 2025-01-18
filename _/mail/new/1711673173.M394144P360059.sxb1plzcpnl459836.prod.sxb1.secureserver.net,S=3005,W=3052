@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 6JwYF1UPBmZ7fgUAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 28 Mar 2024 17:46:13 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 28 Mar 2024 17:46:13 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rq0Np-001a9J-13
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 28 Mar 2024 17:46:13 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <jwt0iqgL392baqLWgk82sXNaJ1gpRudJUiJ8lUfIH5M@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rq0Np-001a9J-13@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 28 Mar 2024 17:46:13 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rq0Nh-001a7d-1U
+	for hello@decisio.CO.uk;
+	Thu, 28 Mar 2024 17:46:05 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 46.29.234.178
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 46.29.234.178
+Date: Fri, 29 Mar 2024 00:46:05 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <jwt0iqgL392baqLWgk82sXNaJ1gpRudJUiJ8lUfIH5M@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Lorraine Haynie<br>Email: lorraine.haynie@googlemail.com<br>Message: Hi<br /><br />We are a venture sales agency that works with you to uncover the best leads for your industry.<br /><br />After finding targeted leads for you, warm intros are sent to them ensuring a steady steam of viable clients to your website.<br /><br />There are no subscriptions and we only take a small commision on sales that we are able to generate for you.<br /><br />Find out more at: https://decisio.leadsmax.biz<br><br>---<br><br>Date: March 29, 2024<br>Time: 12:46 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68<br>Remote IP: 46.29.234.178<br>Powered by: Elementor<br>
+

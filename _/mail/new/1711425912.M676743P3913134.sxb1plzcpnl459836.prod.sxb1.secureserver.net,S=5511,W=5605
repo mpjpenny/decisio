@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id ELLeJ3hJAmautTsAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 25 Mar 2024 21:05:12 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 25 Mar 2024 21:05:12 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1roy3k-00GQ0h-20
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 25 Mar 2024 21:05:12 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <odNztevlKjEucC8micj5vYz2GoiZAhajvbm1kAaSs@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1711425912-eximdsn-592681741
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1roy3k-00GQ0h-20@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 25 Mar 2024 21:05:12 -0700
+
+--1711425912-eximdsn-592681741
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 oy3krJ8ZK0ZOv :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=P/yZhTAu c=1 sm=1 tr=0 ts=66024978 p=aFH7lWCoAAAA:20 p=liYPR1yUZXy_F-p29XOZ:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=K1WLd7eJ-_eNoVF9fBoA:9 a=z452Rw187uycTMqt:21 a=QEXdDO2ut3YA:10 a=mcZ4rsmXwk4A:10 a=BKmIH5n3VysA:10 a=QNP_dMN1sjQA:10 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1711425912-eximdsn-592681741
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 oy3krJ8ZK0ZOv :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=P/yZhTAu c=1 sm=1 tr=0 ts=66024978 p=aFH7lWCoAAAA:20 p=liYPR1yUZXy_F-p29XOZ:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=K1WLd7eJ-_eNoVF9fBoA:9 a=z452Rw187uycTMqt:21 a=QEXdDO2ut3YA:10 a=mcZ4rsmXwk4A:10 a=BKmIH5n3VysA:10 a=QNP_dMN1sjQA:10 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1711425912-eximdsn-592681741
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1roy3d-00GPyX-2X
+	for hello@decisio.CO.uk;
+	Mon, 25 Mar 2024 21:05:12 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 198.23.128.64
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 198.23.128.64
+Date: Tue, 26 Mar 2024 04:05:05 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <odNztevlKjEucC8micj5vYz2GoiZAhajvbm1kAaSs@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Francis Eichmann<br>Email: francis.eichmann@yahoo.com<br>Message: Hop=
+e this finds you wel,<br /><br />Fact: Roughly 68% of the population never =
+experiences tinnitus, no matter<br />if they have been exposed to loud work=
+places or other ear-harmful<br />environments.<br /><br />This has drawn th=
+e attention of a small group of European researchers who<br />have recently=
+ published their astounding discoveries...<br /><br />Check now: https://ti=
+nyurl.com/yx2jfzea<br /><br />They have found the nucleic acid which makes =
+some immune to developing<br />tinnitus and how everybody can activate it i=
+n a matter of months,<br />possibly even weeks...<br /><br />This is fresh-=
+out-of-the-box info that you won't find anywhere else but in<br />their sho=
+rt documentary.<br /><br />How to stop weird sounds in 3 easy steps: https:=
+//tinyurl.com/yx2jfzea<br><br>---<br><br>Date: March 26, 2024<br>Time: 4:05=
+ am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 =
+(Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.=
+0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36<br>Remote IP: 198.23.128.64=
+<br>Powered by: Elementor<br>
+
+--1711425912-eximdsn-592681741--

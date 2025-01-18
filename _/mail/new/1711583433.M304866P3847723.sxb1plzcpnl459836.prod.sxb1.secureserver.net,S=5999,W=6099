@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id QEzLEcmwBGYrtjoAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 27 Mar 2024 16:50:33 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 27 Mar 2024 16:50:33 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rpd2P-00GDU0-0n
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 27 Mar 2024 16:50:33 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <ODQEZZg8p8MH1qnoNz6TvmTQTKN0mM08z667xOIEGk@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1711583433-eximdsn-1667273720
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rpd2P-00GDU0-0n@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Wed, 27 Mar 2024 16:50:33 -0700
+
+--1711583433-eximdsn-1667273720
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 pd2OrvDyVqA8m :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OqiEyD/t c=1 sm=1 tr=0 ts=6604b0c9 p=XHCLW90JAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=84cTXm3vAAAA:8 a=DFdAxJ_QEwM-hR-ggE8A:9 a=yK3hUG5fbantKB_u:21 a=QEXdDO2ut3YA:10 a=1uWVHL3xi3IA:10 a=qmAmA6iCHWsA:10 a=V57aiiOjk5aKIL1VaXLZ:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=3gWm3jAn84ENXaBijsEo:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1711583433-eximdsn-1667273720
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 pd2OrvDyVqA8m :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OqiEyD/t c=1 sm=1 tr=0 ts=6604b0c9 p=XHCLW90JAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=84cTXm3vAAAA:8 a=DFdAxJ_QEwM-hR-ggE8A:9 a=yK3hUG5fbantKB_u:21 a=QEXdDO2ut3YA:10 a=1uWVHL3xi3IA:10 a=qmAmA6iCHWsA:10 a=V57aiiOjk5aKIL1VaXLZ:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=3gWm3jAn84ENXaBijsEo:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1711583433-eximdsn-1667273720
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rpd2J-00GDDc-02
+	for hello@decisio.CO.uk;
+	Wed, 27 Mar 2024 16:50:32 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 184.174.126.209
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 184.174.126.209
+Date: Wed, 27 Mar 2024 23:50:26 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <ODQEZZg8p8MH1qnoNz6TvmTQTKN0mM08z667xOIEGk@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Elizabet Gowlland<br>Email: elizabet.gowlland22@googlemail.com<br>Mes=
+sage: Weight loss stuck? You may have a toxic fatty acid that blocks weight=
+ loss. <br /><br />According to Newcastle University in England, this fatty=
+ acid forces fat cells to stream into your blood=E2=80=A6 <br /><br />And c=
+auses your body to pack on internal visceral fat. <br /><br />Once this hap=
+pens, your fat-burning metabolism slows down to a crawl=E2=80=A6 your hormo=
+nes completely shut down=E2=80=A6 and your body stores fat instead of burni=
+ng it as energy. <br /><br />Fortunately, a renegade doctor from Japan has =
+uncovered a natural =E2=80=9Cbelly fat Dr=C4=81no=E2=80=9D juice that flush=
+es out this toxic fatty acid from your body. <br /><br />Check now: https:/=
+/tinyurl.com/4f88nb95<br /><br />67,129 folks are drinking this delicious j=
+uice every morning=E2=80=A6 <br /><br />And they=E2=80=99re losing an avera=
+ge of 28 lbs =E2=80=93 in as little as 21 days! <br /><br />>>> drink 1 cup=
+ every morning to lose =E2=80=9Cspare-tire=E2=80=9D belly in record time: h=
+ttps://tinyurl.com/4f88nb95<br /><br />Robert lost 62 lbs of deadly fat clo=
+gging up his arteries and completely transformed his body in his 40s. <br /=
+><br />His wife Sonya also lost 38 lbs and 4 dress sizes=E2=80=A6 and it fo=
+rced her to shop for a whole new wardrobe!<br /><br />To your good health!<=
+br><br>---<br><br>Date: March 27, 2024<br>Time: 11:50 pm<br>Page URL: https=
+://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Fedora; Linux x8=
+6_64; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 184.174.126.209<=
+br>Powered by: Elementor<br>
+
+--1711583433-eximdsn-1667273720--

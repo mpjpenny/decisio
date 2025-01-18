@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id ADkDMggDj2Z7sy0AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 10 Jul 2024 14:54:16 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 10 Jul 2024 14:54:16 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sRfGS-00D2tX-2V
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 10 Jul 2024 14:54:16 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <enP62VZtcXL4tAWdicndMcftoTwjXW6mJBVAnRhnqfk@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1720648456-eximdsn-997597623
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sRfGS-00D2tX-2V@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Wed, 10 Jul 2024 14:54:16 -0700
+
+--1720648456-eximdsn-997597623
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 RfGSserqUAdd1 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=IZlMWnqa c=1 sm=1 tr=0 ts=668f0308 p=8UsxWH0_pMNXoQosExJ6:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=4kmOji7k6h8A:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=pwJIwYC9AAAA:8 a=84cTXm3vAAAA:8 a=K2DQozwjYVuUTd0LCBcA:9 a=c6lDQhlieaIBManU:21 a=QEXdDO2ut3YA:10 a=yV7SMmd7l9IA:10 a=4E-ujq4QkjaEsBYgeP9B:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1720648456-eximdsn-997597623
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 RfGSserqUAdd1 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=IZlMWnqa c=1 sm=1 tr=0 ts=668f0308 p=8UsxWH0_pMNXoQosExJ6:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=4kmOji7k6h8A:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=pwJIwYC9AAAA:8 a=84cTXm3vAAAA:8 a=K2DQozwjYVuUTd0LCBcA:9 a=c6lDQhlieaIBManU:21 a=QEXdDO2ut3YA:10 a=yV7SMmd7l9IA:10 a=4E-ujq4QkjaEsBYgeP9B:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1720648456-eximdsn-997597623
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sRfGI-00D2qo-07
+	for hello@decisio.CO.uk;
+	Wed, 10 Jul 2024 14:54:16 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 223.236.251.10
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 223.236.251.10
+Date: Wed, 10 Jul 2024 21:54:05 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <enP62VZtcXL4tAWdicndMcftoTwjXW6mJBVAnRhnqfk@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Karri South<br>Email: karri.south@yahoo.com<br>Message: Hey Decisio,<=
+br /><br />I hope this message finds you well.<br /><br />Are you looking f=
+or a way to make your website content more engaging and accessible? Look no=
+ further! With Fliki, you can effortlessly transform your written content i=
+nto captivating videos that are sure to grab your audience's attention.<br =
+/><br />Fliki.ai is an innovative tool that allows you to convert your arti=
+cles, blog posts, and other written content into dynamic video presentation=
+s. This is a game-changer for content creators, marketers, and businesses l=
+ooking to expand their reach and enhance user engagement.<br /><br />=3D>> =
+https://fliki-ai.blogspot.com<br /><br />Here=E2=80=99s why you should cons=
+ider using Flik:<br /><br />Easy Conversion: Simply input your text, and Fl=
+ik does the rest, creating a professional video in minutes.<br />Customizab=
+le: Tailor the videos to match your brand=E2=80=99s style with customizable=
+ templates and features.<br />Engaging: Videos are proven to capture more a=
+ttention and increase retention compared to text alone.<br />SEO Benefits: =
+Videos can boost your SEO, making your content more discoverable on search =
+engines.<br />Ready to give it a try? Click on the following affiliate link=
+ to start transforming your website content today: Fliki<br /><br />=3D>> h=
+ttps://fliki-ai.blogspot.com<br /><br />By using this link, you=E2=80=99ll =
+not only experience the benefits of Fliki.ai but also support our continued=
+ efforts to bring you valuable tools and resources.<br /><br />Thank you fo=
+r considering Fliki for your content transformation needs. If you have any =
+questions or need further assistance, please don=E2=80=99t hesitate to reac=
+h out.<br /><br /><br />[Karri South]<br><br>---<br><br>Date: July 10, 2024=
+<br>Time: 9:54 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent=
+: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like=
+ Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51<br>Remote IP: 223.2=
+36.251.10<br>Powered by: Elementor<br>
+
+--1720648456-eximdsn-997597623--

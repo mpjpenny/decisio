@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id AJwaIQD52GMJiwAAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 31 Jan 2023 04:18:24 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 31 Jan 2023 04:18:24 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1pMoee-000Gkv-FH
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 31 Jan 2023 04:18:24 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <fgfxxJc8iMQffiiZAkk8RhH0oXIJF17jJc8jAm0nteE@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pMoee-000Gkv-FH@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Tue, 31 Jan 2023 04:18:24 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1pMoeZ-000Gjg-4U
+	for hello@decisio.CO.uk;
+	Tue, 31 Jan 2023 04:18:19 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 37.139.53.82
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 37.139.53.82
+Date: Tue, 31 Jan 2023 11:18:19 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <fgfxxJc8iMQffiiZAkk8RhH0oXIJF17jJc8jAm0nteE@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: liree<br>Email: dehum@yahoo.com<br>Message: Make yourself rich in future using this financial robot. https://fqxtzbiyr.com/14?r=35846<br><br>---<br><br>Date: January 31, 2023<br>Time: 11:18 am<br>Page URL: <br>User Agent: Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.34 Safari/537.36 Edg/83.0.478.25<br>Remote IP: 37.139.53.82<br>Powered by: Elementor<br>
+

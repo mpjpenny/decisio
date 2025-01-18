@@ -1,0 +1,62 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 4CDWN+FKuWZvhBEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 11 Aug 2024 16:36:01 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 11 Aug 2024 16:36:01 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sdI6T-004p9v-2S
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 11 Aug 2024 16:36:01 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <EMpXRoxNVz5UlU4QXhQVxjFMePF6MYDYFUHQKLaFQ@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sdI6T-004p9v-2S@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 11 Aug 2024 16:36:01 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sdI6K-004oyv-0h
+	for hello@decisio.CO.uk;
+	Sun, 11 Aug 2024 16:35:52 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 77.222.112.83
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 77.222.112.83
+Date: Sun, 11 Aug 2024 23:35:52 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <EMpXRoxNVz5UlU4QXhQVxjFMePF6MYDYFUHQKLaFQ@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Albertdgdgfreawl<br>Email: vfssffssdfdsffffd@gmail.com<br>Message: Th=
+is horoscope prediction is still a top secret! Blind clairvoyant Saint Serg=
+ius from Ternopil, Ukraine - decided that his gift should not be wasted, so=
+ he remotely helps everyone anyone who wants it. People live in different p=
+arts of the country and the world, and not always they have the opportunity=
+ to visit the clairvoyant in person. Saint Sergius only needs a small amoun=
+t of information to read to read your destiny imprint and give you a diagno=
+stic session. It's completely free of charge! <br />It is impossible to dis=
+cuss horoscope with friends and relatives, because so YOU change the true t=
+he course of things, violating your destined path. <br /> <br /> <br />Get =
+horoscope on our website! Click on link -   https://intznak.site/goroskop/x=
+rumer/1/ <br />Get horoscope on our website! Click on link -   https://intz=
+nak.site/goroskop/xrumer/1/ <br />Get help<br><br>---<br><br>Date: August 1=
+1, 2024<br>Time: 11:35 pm<br>Page URL: <br>User Agent: Mozilla/5.0 (Windows=
+ NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Saf=
+ari/537.36<br>Remote IP: 77.222.112.83<br>Powered by: Elementor<br>

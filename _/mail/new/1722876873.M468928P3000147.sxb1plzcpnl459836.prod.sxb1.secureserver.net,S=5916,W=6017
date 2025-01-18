@@ -1,0 +1,101 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 6F40G8kDsWZTxy0AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 05 Aug 2024 09:54:33 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 05 Aug 2024 09:54:33 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sb0yf-00Ch8M-1G
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 05 Aug 2024 09:54:33 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <ybgSXy7wQtLZRyKw6ABIRoB9nweYkidxi1Qjtv1Zs@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1722876873-eximdsn-1718986255
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sb0yf-00Ch8M-1G@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 05 Aug 2024 09:54:33 -0700
+
+--1722876873-eximdsn-1718986255
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 b0yes0ww6SBTW :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=ZIIcmm7b c=1 sm=1 tr=0 ts=66b103c9 p=NXvgB79AWsSNegAvb3oA:9 p=1P1zaDo3dSq_RYmzfL6o:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=yoJbH4e0A30A:10 a=c7naqG_xe-4A:10 a=UqCG9HQmAAAA:8 a=84cTXm3vAAAA:8 a=QEXdDO2ut3YA:10 a=mePw3B3NIdYA:10 a=_7aarQy8x9YA:10 a=-cQ0mYlKFrAA:10 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1722876873-eximdsn-1718986255
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 b0yes0ww6SBTW :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=ZIIcmm7b c=1 sm=1 tr=0 ts=66b103c9 p=NXvgB79AWsSNegAvb3oA:9 p=1P1zaDo3dSq_RYmzfL6o:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=yoJbH4e0A30A:10 a=c7naqG_xe-4A:10 a=UqCG9HQmAAAA:8 a=84cTXm3vAAAA:8 a=QEXdDO2ut3YA:10 a=mePw3B3NIdYA:10 a=_7aarQy8x9YA:10 a=-cQ0mYlKFrAA:10 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1722876873-eximdsn-1718986255
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sb0yY-00CgsO-19
+	for hello@decisio.CO.uk;
+	Mon, 05 Aug 2024 09:54:32 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 169.150.205.144
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 169.150.205.144
+Date: Mon, 5 Aug 2024 16:54:26 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <ybgSXy7wQtLZRyKw6ABIRoB9nweYkidxi1Qjtv1Zs@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Kathrin Sibley<br>Email: morrismi1@outlook.com<br>Message: My name is=
+ Ahmet. I'm a bank staff in a Turkish bank. I've been looking for someone w=
+ho has the same nationality as you. A citizen of your country died in the r=
+ecent earthquake in Turkey, he had in our bank fixed deposit of $11.5 milli=
+on. <br /><br />My Bank management is yet to know of his death. If my bank =
+executive finds out about his death ,They would use the funds for themselve=
+s and get richer and I would like to prevent that from happening only if I =
+get your cooperation, I knew about it because I was his account manager. La=
+st week my bank management held a meeting for the purpose of a bank audit t=
+o note the dormant and abandoned deposit accounts.  I know this will happen=
+ and that's why I'm looking for a solution to deal with this situation beca=
+use if my bank discovers his death, they will divert the funds to the board=
+ of directors.  I don't want that to happen. <br /> <br />I request your co=
+operation to introduce you as the kin/heir of the account as you are of the=
+ same nationality as him.  There is no risk;  the transaction is carried ou=
+t under a legal agreement that protects you from infringement. I suggest we=
+ split the funds, 60/40 and 40 for me. I need this fund for my daughter's s=
+urgery so keep this info confidential. email me so i can provide you with m=
+ore info  reachahmet@proton.me<br><br>---<br><br>Date: August 5, 2024<br>Ti=
+me: 4:54 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozi=
+lla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/605.1.15 (KHTML, like =
+Gecko) Version/15.4 Safari/605.1.15<br>Remote IP: 169.150.205.144<br>Powere=
+d by: Elementor<br>
+
+--1722876873-eximdsn-1718986255--

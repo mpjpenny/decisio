@@ -1,0 +1,78 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 4AvjK4DDfWYmHBYAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 27 Jun 2024 12:54:40 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 27 Jun 2024 12:54:40 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sMvCa-0068gD-2A
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 27 Jun 2024 12:54:40 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <xanWEZGL2iwNwQ9jZJUBj11R9x7sp5Hm8RWShI4sB4@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sMvCa-0068gD-2A@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 27 Jun 2024 12:54:40 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sMvCT-0068eS-1Z
+	for hello@decisio.CO.uk;
+	Thu, 27 Jun 2024 12:54:33 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 156.239.51.79
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 156.239.51.79
+Date: Thu, 27 Jun 2024 19:54:33 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <xanWEZGL2iwNwQ9jZJUBj11R9x7sp5Hm8RWShI4sB4@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Dixie Justice<br>Email: justice.dixie@gmail.com<br>Message: Hi,<br />=
+<br />I hope this email finds you well.<br /><br />My name is Michael, and =
+I=E2=80=99m reaching out to introduce you to an incredible opportunity to e=
+levate your digital marketing skills and start earning from day one with Di=
+gital Wealth Academy (DWA).<br /><br />Are you struggling to find a reliabl=
+e way to make money online? Many people face the same challenge, feeling ov=
+erwhelmed by the sheer volume of information and the steep learning curve. =
+That=E2=80=99s where DWA comes in.<br /><br />Why Digital Wealth Academy?<b=
+r />- Comprehensive Training: From SEO and social media marketing to email =
+campaigns and sales funnels, DWA covers it all.<br />- Master Resell Rights=
+ (MRR): Gain the right to resell our top-tier course and keep 100% of the p=
+rofits.<br />- Proven Success: Our members have transformed their lives, ac=
+hieving financial freedom through our program.<br /><br />What Our Students=
+ Are Saying:<br /><br />=E2=80=9CDWA has been a game-changer for me! Within=
+ three months, I went from zero to making a consistent $5,000 per month. Th=
+e training modules are thorough and easy to follow.=E2=80=9D =E2=80=93 Sara=
+h J.<br /><br />=E2=80=9CThanks to Digital Wealth Academy, I was able to qu=
+it my 9-to-5 job and focus entirely on my online business. The support and =
+resources provided are unparalleled.=E2=80=9D =E2=80=93 Mike T.<br /><br />=
+=E2=80=9CThe Master Resell Rights model is brilliant! It allowed me to star=
+t earning right away without having to create my own products from scratch.=
+=E2=80=9D =E2=80=93 Rachel K.<br /><br />Don=E2=80=99t just take my word fo=
+r it. See how DWA can change your life by visiting https://digitalwealthaca=
+demy.online/.<br /><br />Ready to Get Started?<br /><br />Click https://dig=
+italwealthacademy.online/ to learn more and take the first step towards fin=
+ancial independence.<br /><br />If you have any questions or need further i=
+nformation, feel free to reply to this email. I=E2=80=99m here to help!<br =
+/><br />Best regards,<br /><br />Michael<br><br>---<br><br>Date: June 27, 2=
+024<br>Time: 7:54 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Ag=
+ent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)=
+ Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68<br>Remote IP: 156.239.5=
+1.79<br>Powered by: Elementor<br>

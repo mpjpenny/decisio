@@ -1,0 +1,64 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id aGZBCXDbvWXQHyUAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 02 Feb 2024 23:21:36 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 02 Feb 2024 23:21:36 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rW9PE-00ADs2-0I
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 02 Feb 2024 23:21:36 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <7pa2QMgWj3NqHiwtDbFtQnmXG0ClvJnbnF1bCHvc04@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rW9PE-00ADs2-0I@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 02 Feb 2024 23:21:36 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rW9P8-00ADd5-1v
+	for hello@decisio.CO.uk;
+	Fri, 02 Feb 2024 23:21:30 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 185.220.69.107
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 185.220.69.107
+Date: Sat, 3 Feb 2024 06:21:30 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <7pa2QMgWj3NqHiwtDbFtQnmXG0ClvJnbnF1bCHvc04@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Jacob Porterfield<br>Email: jamaal.porterfield@googlemail.com<br>Mess=
+age: If you hire a wordpress developer in your country, they will charge yo=
+u in two ways <br /><br />1. Project basis<br />2. Hourly Basis<br /><br />=
+Project basis - the minimum rate for a ecommerce website starts $1000, But =
+if you hire us, You can save more than 65%<br />Hourly basis - The minimum =
+rate for an experienced Wordpress developer is $15, But you can hire us at =
+$6/ hour<br />I can send the resume/ CV of my developer and the samples of =
+the work done.<br /><br />More details: https://wpexpertspro.co/website/<br=
+ /><br />We also do Best Monthly SEO Services. Individual SEO strategies, t=
+ailored from the scratch. Generate more leads, sales & revenue.<br />We hel=
+p companies rank page #1 and reach their true potential online. We=E2=80=
+=99ll show you exactly what we=E2=80=99ll do, how much it=E2=80=99ll cost, =
+and how we=E2=80=99re going to crush your competitors.<br />Talk Customized=
+ SEO Strategy with Our Team Today. -  https://digitalpromax.co/la/<br><br>-=
+--<br><br>Date: February 3, 2024<br>Time: 6:21 am<br>Page URL: https://deci=
+sio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebK=
+it/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.=
+51<br>Remote IP: 185.220.69.107<br>Powered by: Elementor<br>

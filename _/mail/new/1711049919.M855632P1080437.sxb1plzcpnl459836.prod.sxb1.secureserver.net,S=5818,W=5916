@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 4GGBMr+M/GV1fBAAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 21 Mar 2024 12:38:39 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 21 Mar 2024 12:38:39 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rnOFL-004XQT-2Z
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 21 Mar 2024 12:38:39 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <fDwy8POjRF1klnm3bR5RYgoEJAVc9vhn3VBR3GVVM@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1711049919-eximdsn-1795074773
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rnOFL-004XQT-2Z@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 21 Mar 2024 12:38:39 -0700
+
+--1711049919-eximdsn-1795074773
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 nOFLr4A9a4D4S :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=W+ebVgWk c=1 sm=1 tr=0 ts=65fc8cbf p=8vHfbW-MFwXkNoDwrWIA:9 p=RZ4iFXbqixbub0UirJMi:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=FlfHxdS5AAAA:8 a=84cTXm3vAAAA:8 a=QEXdDO2ut3YA:10 a=BLBysS_wwugA:10 a=FbrwdjZN4z8A:10 a=3gWm3jAn84ENXaBijsEo:22 a=TLP0qMQHKLcgN60ytP8M:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1711049919-eximdsn-1795074773
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 nOFLr4A9a4D4S :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=W+ebVgWk c=1 sm=1 tr=0 ts=65fc8cbf p=8vHfbW-MFwXkNoDwrWIA:9 p=RZ4iFXbqixbub0UirJMi:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=FlfHxdS5AAAA:8 a=84cTXm3vAAAA:8 a=QEXdDO2ut3YA:10 a=BLBysS_wwugA:10 a=FbrwdjZN4z8A:10 a=3gWm3jAn84ENXaBijsEo:22 a=TLP0qMQHKLcgN60ytP8M:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1711049919-eximdsn-1795074773
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rnOFF-004XP0-1I
+	for hello@decisio.CO.uk;
+	Thu, 21 Mar 2024 12:38:39 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 146.70.181.243
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 146.70.181.243
+Date: Thu, 21 Mar 2024 19:38:33 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <fDwy8POjRF1klnm3bR5RYgoEJAVc9vhn3VBR3GVVM@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: David Coventry<br>Email: coventry.bettina@googlemail.com<br>Message: =
+Have you heard of Se-REM? (Self effective - Rapid Eye Movement). Many peopl=
+e don't know that REM brain activity dramatically improves the processing o=
+f traumatic emotion. It creates peace and empowers the listener. Se-REM is =
+an advanced version of EMDR therapy. It is more powerful because it combine=
+s elements of 6 different therapies, EMDR, hypnosis, mindfulness, Gestalt c=
+hild within work, music therapy, and Awe therapy,(connecting profoundly wit=
+h nature).<br /><br />It has helped thousands of people overcome PTSD, and =
+anxiety. But it is also helpful in a great many situations, loss of any kin=
+d, grief, and even marital counseling. It's mission statement is "Trauma re=
+lief at as close to free as possible". This not-for-profit program download=
+s to a smart phone or computer and can be used in an office or at home. Rea=
+d about it, hear samples, and download at: Se-REM.com. Once you own the pro=
+gram, you are encouraged to give it away to others who will benefit. I prov=
+ide free consultation to all who use the program. Write questions to: david=
+b@se-rem.com.<br /><br />Se-REM.com has a 95% rating on Trustpilot and is i=
+n use in 32 countries.<br><br>---<br><br>Date: March 21, 2024<br>Time: 7:38=
+ pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 =
+(Windows NT 10.0; Win64; x64; rv:114.0) Gecko/20100101 Firefox/114.0<br>Rem=
+ote IP: 146.70.181.243<br>Powered by: Elementor<br>
+
+--1711049919-eximdsn-1795074773--

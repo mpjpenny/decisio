@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id wHGbMlz04matQAQAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 12 Sep 2024 07:02:04 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 12 Sep 2024 07:02:04 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sokOa-001FMB-2W
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 12 Sep 2024 07:02:04 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <EleDtOOp09H0MgNOh2vQ0tkLnlBLAkrIluxrYDApw@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1726149724-eximdsn-766804321
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sokOa-001FMB-2W@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 12 Sep 2024 07:02:04 -0700
+
+--1726149724-eximdsn-766804321
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 okOas4b47RbI6 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=G5zXEMk5 c=1 sm=1 tr=0 ts=66e2f45c p=QpOdChEC9MSt7bhVKJYA:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=EaEq8P2WXUwA:10 a=c7naqG_xe-4A:10 a=3oc9M9_CAAAA:8 a=xudhnk1ZAAAA:8 a=84cTXm3vAAAA:8 a=QEXdDO2ut3YA:10 a=QBN1UJujx8gA:10 a=-FEs8UIgK8oA:10 a=QZ1iqyj-dYNKi6wzt-Ph:22 a=5dnHhOfv88bRrKSptYvm:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1726149724-eximdsn-766804321
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 okOas4b47RbI6 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=G5zXEMk5 c=1 sm=1 tr=0 ts=66e2f45c p=QpOdChEC9MSt7bhVKJYA:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=EaEq8P2WXUwA:10 a=c7naqG_xe-4A:10 a=3oc9M9_CAAAA:8 a=xudhnk1ZAAAA:8 a=84cTXm3vAAAA:8 a=QEXdDO2ut3YA:10 a=QBN1UJujx8gA:10 a=-FEs8UIgK8oA:10 a=QZ1iqyj-dYNKi6wzt-Ph:22 a=5dnHhOfv88bRrKSptYvm:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1726149724-eximdsn-766804321
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sokOL-001F0q-0z
+	for hello@decisio.CO.uk;
+	Thu, 12 Sep 2024 07:02:04 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 31.217.248.16
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 31.217.248.16
+Date: Thu, 12 Sep 2024 14:01:49 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <EleDtOOp09H0MgNOh2vQ0tkLnlBLAkrIluxrYDApw@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Phil Stewart<br>Email: noreplyhere@aol.com<br>Message: By reading this message you just proved that contact form blasting works great for advertising. After all, the main battle to advertising is getting people to actually read your ad and you just did that. Now let's get your ad blasted out there and get you some sales, followers, youtube views, etc.. Now offering high volume blasting plans designed specially for affiliate marketers and agencies.Explore my website for details<br /><br />http://tm9chg.contactformblasting.xyz<br><br>---<br><br>Date: September 12, 2024<br>Time: 2:01 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edge/44.18363.8131<br>Remote IP: 31.217.248.16<br>Powered by: Elementor<br>
+
+
+--1726149724-eximdsn-766804321--

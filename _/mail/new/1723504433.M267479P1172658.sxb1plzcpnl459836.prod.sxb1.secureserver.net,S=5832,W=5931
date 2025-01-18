@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id kJfxDjGXumay5BEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 12 Aug 2024 16:13:53 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 12 Aug 2024 16:13:53 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sdeEb-00529O-0b
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 12 Aug 2024 16:13:53 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <dpQYTHs4DgxlSDh7i0wcrI109I0XjLkrtljlu9N5Sg@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723504433-eximdsn-1862046908
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sdeEb-00529O-0b@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 12 Aug 2024 16:13:53 -0700
+
+--1723504433-eximdsn-1862046908
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 deEZsZo1SSBTW :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=ZIIcmm7b c=1 sm=1 tr=0 ts=66ba9731 p=NB4TKsKIebVHOMz2:21 p=ynf397kLNMkrMv6CBOYx:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=yoJbH4e0A30A:10 a=c7naqG_xe-4A:10 a=AAvYLDLOAAAA:8 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=qfso54oAxHLVTx-q0FYA:9 a=QEXdDO2ut3YA:10 a=6RxHIl_4xMoA:10 a=zY0JdQc1-4EAyPf5TuXT:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1723504433-eximdsn-1862046908
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 deEZsZo1SSBTW :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=ZIIcmm7b c=1 sm=1 tr=0 ts=66ba9731 p=NB4TKsKIebVHOMz2:21 p=ynf397kLNMkrMv6CBOYx:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=yoJbH4e0A30A:10 a=c7naqG_xe-4A:10 a=AAvYLDLOAAAA:8 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=qfso54oAxHLVTx-q0FYA:9 a=QEXdDO2ut3YA:10 a=6RxHIl_4xMoA:10 a=zY0JdQc1-4EAyPf5TuXT:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1723504433-eximdsn-1862046908
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sdeES-00527D-2u
+	for hello@decisio.CO.uk;
+	Mon, 12 Aug 2024 16:13:51 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 138.199.35.44
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 138.199.35.44
+Date: Mon, 12 Aug 2024 23:13:44 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <dpQYTHs4DgxlSDh7i0wcrI109I0XjLkrtljlu9N5Sg@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Antje Meister<br>Email: antje.meister@msn.com<br>Message: Hello,<br /=
+><br />I hope this email finds you well.<br /> We are reaching out to intro=
+duce M.I.H Marketing Agency, the ideal partner for elevating your brand. Ou=
+r expertise in innovative strategies, tailored campaigns, and data-driven r=
+esults sets us apart. <br /><br />By partnering with us, we can enhance you=
+r brand with the use of:<br />=E2=80=A2 Software development <br />=
+=E2=80=A2 AI development<br />=E2=80=A2 App development<br />=E2=80=A2 Webs=
+ite development<br />=E2=80=A2 Cyber security<br />=E2=80=A2 Virtual privat=
+e servers<br />=E2=80=A2 SEO, SMO, SEM, SERP<br />=E2=80=A2 Digital design<=
+br />=E2=80=A2 Social media marketing<br />=E2=80=A2 International law and =
+accouting<br />=E2=80=A2 Clothing design and supply<br />=E2=80=A2 White la=
+bel writers<br />=E2=80=A2 White label courses<br /><br />If the service th=
+at you are looking for is not listed please reach out to us,as this list do=
+es not include all of the services we provide.<br /><br />Ready to take you=
+r marketing to the next level? Let's schedule a zoom meeting to discuss how=
+ M.I.H can drive your business forward.<br /><br />Best regards,<br />M.I.H=
+ Marketing Agency  <br />marketingagency.mih@gmail.com<br><br>---<br><br>Da=
+te: August 12, 2024<br>Time: 11:13 pm<br>Page URL: https://decisio.co.uk/co=
+ntact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit=
+/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36<br>Remote IP: 13=
+8.199.35.44<br>Powered by: Elementor<br>
+
+--1723504433-eximdsn-1862046908--

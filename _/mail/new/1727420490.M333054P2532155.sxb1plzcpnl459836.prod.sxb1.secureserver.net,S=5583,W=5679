@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id kLy+EkpY9mY7oyYAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 27 Sep 2024 00:01:30 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 27 Sep 2024 00:01:30 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1su4yo-00AnJF-0n
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 27 Sep 2024 00:01:30 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <o42Xkc0xhvtDsPn6P1jtrm6EtHAY3qILuDy2yrtTXzs@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1727420490-eximdsn-709929300
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1su4yo-00AnJF-0n@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 27 Sep 2024 00:01:30 -0700
+
+--1727420490-eximdsn-709929300
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 u4ynsJ1dgQgFL :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YfZ25BRf c=1 sm=1 tr=0 ts=66f6584a p=T9ldJt5KIaObdG1hT_p_:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=EaEq8P2WXUwA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=m008DKh7AAAA:8 a=84cTXm3vAAAA:8 a=zlvC2SzeQHM5qKarv5IA:9 a=A4m3SJ_G5rit_4Ez:21 a=QEXdDO2ut3YA:10 a=uf968dy7hyEA:10 a=EHjrFXGLRCaPdk9OIwAG:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1727420490-eximdsn-709929300
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 u4ynsJ1dgQgFL :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YfZ25BRf c=1 sm=1 tr=0 ts=66f6584a p=T9ldJt5KIaObdG1hT_p_:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=EaEq8P2WXUwA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=m008DKh7AAAA:8 a=84cTXm3vAAAA:8 a=zlvC2SzeQHM5qKarv5IA:9 a=A4m3SJ_G5rit_4Ez:21 a=QEXdDO2ut3YA:10 a=uf968dy7hyEA:10 a=EHjrFXGLRCaPdk9OIwAG:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1727420490-eximdsn-709929300
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1su4yf-00AnGl-1P
+	for hello@decisio.CO.uk;
+	Fri, 27 Sep 2024 00:01:29 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 122.177.176.65
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 122.177.176.65
+Date: Fri, 27 Sep 2024 07:01:21 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <o42Xkc0xhvtDsPn6P1jtrm6EtHAY3qILuDy2yrtTXzs@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Dora Kilgour<br>Email: kilgour.dora@gmail.com<br>Message: Hey Decisio=
+,<br /><br />Are you dreaming of financial freedom? I=E2=80=99ve been in yo=
+ur shoes. But now, I=E2=80=99m waking up every day to $1,233 in passive inc=
+ome=E2=80=94effortlessly.<br /><br />How? It=E2=80=99s all thanks to AI Tra=
+ffic Secrets =E2=80=94a powerful collection of AI tools and training that s=
+kyrocketed my business. These tools work seamlessly, automating my traffic,=
+ boosting engagement, and driving consistent income.<br /><br />=3D>> https=
+://ai-traffic-secrets.blogspot.com/<br /><br />The best part? I use these t=
+ools every day. They=E2=80=99re designed to be simple and effective, so you=
+ can start generating results right away=E2=80=94no tech expertise required=
+!<br /><br />If you=E2=80=99re ready to unleash the full potential of AI an=
+d make passive income while you sleep, check out AI Traffic Secrets today!<=
+br /><br />=3D>> https://ai-traffic-secrets.blogspot.com/<br /><br />Cheers=
+,  <br />[Dora Kilgour]<br><br>---<br><br>Date: September 27, 2024<br>Time:=
+ 7:01 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla=
+/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko=
+) Chrome/114.0.0.0 Safari/537.36<br>Remote IP: 122.177.176.65<br>Powered by=
+: Elementor<br>
+
+--1727420490-eximdsn-709929300--

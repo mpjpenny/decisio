@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 6E7vHxb+Jmb2iSQAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 22 Apr 2024 17:17:26 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 22 Apr 2024 17:17:26 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rz3qg-00A9i4-1X
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 22 Apr 2024 17:17:26 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <uPyki9mZNwpIgpgGNr0WDOV6VfZ8l8Txo81B5v1mXnI@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rz3qg-00A9i4-1X@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 22 Apr 2024 17:17:26 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rz3qb-00A9fX-01
+	for hello@decisio.CO.uk;
+	Mon, 22 Apr 2024 17:17:21 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 5.254.106.8
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 5.254.106.8
+Date: Tue, 23 Apr 2024 00:17:20 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <uPyki9mZNwpIgpgGNr0WDOV6VfZ8l8Txo81B5v1mXnI@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Mark Churchill<br>Email: churchill.myron@gmail.com<br>Message: Advantages of hiring a Developer:<br /><br />Specialized Expertise<br />Tailored Customization and Control<br />Time and Cost Efficiency<br />Custom Plugin Development<br />SEO Optimization<br />Ongoing Support and Maintenance<br />Seamless Integration and Migration<br />Scalability for Business Growth<br /><br />Hire a web developer now from us. Contact us at https://wpexpertspro.co/website/?src=a21decisio.co.uk<br><br>---<br><br>Date: April 23, 2024<br>Time: 12:17 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36<br>Remote IP: 5.254.106.8<br>Powered by: Elementor<br>
+

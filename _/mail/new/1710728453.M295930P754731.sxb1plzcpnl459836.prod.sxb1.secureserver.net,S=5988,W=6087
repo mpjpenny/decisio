@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id UIchEQWl92UrhAsAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 17 Mar 2024 19:20:53 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 17 Mar 2024 19:20:53 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rm2cP-003BNA-0l
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 17 Mar 2024 19:20:53 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <bMbEGNnUXBwfA8RLVWmW7qZciD63nCO59Cq6hh2zo@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710728453-eximdsn-895336805
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rm2cP-003BNA-0l@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 17 Mar 2024 19:20:53 -0700
+
+--1710728453-eximdsn-895336805
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 m2cOrh10yteo8 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Y5VbsQeN c=1 sm=1 tr=0 ts=65f7a505 p=ehONAz68AAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=PdGf4mlcLkCSH8C_knMA:9 a=PwV-Rl0IIqbvHY3k:21 a=QEXdDO2ut3YA:10 a=P8T5DgHakbQA:10 a=TRTWw7LkaI4A:10 a=8gisE5GcvCUA:10 a=zHcUaWIn5cSiP3WxpD99:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Deme6UxtmoxOTJSDJxhX:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1710728453-eximdsn-895336805
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 m2cOrh10yteo8 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Y5VbsQeN c=1 sm=1 tr=0 ts=65f7a505 p=ehONAz68AAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=PdGf4mlcLkCSH8C_knMA:9 a=PwV-Rl0IIqbvHY3k:21 a=QEXdDO2ut3YA:10 a=P8T5DgHakbQA:10 a=TRTWw7LkaI4A:10 a=8gisE5GcvCUA:10 a=zHcUaWIn5cSiP3WxpD99:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Deme6UxtmoxOTJSDJxhX:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1710728453-eximdsn-895336805
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rm2cI-003BLy-36
+	for hello@decisio.CO.uk;
+	Sun, 17 Mar 2024 19:20:52 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 107.173.137.71
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 107.173.137.71
+Date: Mon, 18 Mar 2024 02:20:46 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <bMbEGNnUXBwfA8RLVWmW7qZciD63nCO59Cq6hh2zo@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Mitchell Merrifield<br>Email: mitchell.merrifield@gmail.com<br>Messag=
+e: 2.4 trillion dollars=E2=80=A6<br /><br />A sum almost 3 times larger tha=
+n our defense budget<br /><br />In 2023 this staggering amount of money flo=
+wed into Big Tech companies developing Artificial intelligence=E2=80=A6<br =
+/><br />Such an enormous pile of cash can make corporations ignore warnings=
+<br /><br />Disregard the dangers of their actions<br /><br />And hide from=
+ the public the truth about what may be the most dangerous technology since=
+ the atomic bomb=E2=80=A6<br /><br />If you=E2=80=99ve ever had a bad feeli=
+ng about artificial intelligence,<br /><br />Perhaps it is God=E2=80=99s wa=
+y of warning you that<br /><br />AI is NOT here for what you think=E2=80=
+=A6<br /><br />See here: https://tinyurl.com/4pz7c7ky<br /><br />Blinded by=
+ the trillion-dollar profits,<br /><br />Big Tech has no idea of what it ha=
+s unleashed upon the world.<br /><br />And they may have already lost contr=
+ol of their own creation<br /><br />This short documentary exposes 5 shocki=
+ng facts misguided tech gurus are desperately trying to hide=E2=80=A6<br />=
+<br />Therefore, it could be scrubbed off the internet at any moment.<br />=
+<br />Click here to watch it right now: https://tinyurl.com/4pz7c7ky<br><br=
+>---<br><br>Date: March 18, 2024<br>Time: 2:20 am<br>Page URL: https://deci=
+sio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)=
+ AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/=
+89.0.4447.51<br>Remote IP: 107.173.137.71<br>Powered by: Elementor<br>
+
+--1710728453-eximdsn-895336805--

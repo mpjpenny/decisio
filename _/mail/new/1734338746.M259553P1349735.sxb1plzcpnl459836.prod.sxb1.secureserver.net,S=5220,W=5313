@@ -1,0 +1,93 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id uNJwDrroX2dnmBQAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 16 Dec 2024 01:45:46 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 16 Dec 2024 01:45:46 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1tN6ja-005wKr-0a
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 16 Dec 2024 01:45:46 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <ExP9COFhvIPRtu05Sj5sOXWv3vllCbwYm0zhZKdQI@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1734338746-eximdsn-22248568
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tN6ja-005wKr-0a@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 16 Dec 2024 01:45:46 -0700
+
+--1734338746-eximdsn-22248568
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 N6jZtEXQNuJ7X :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=a6fK9VSF c=1 sm=1 tr=0 ts=675fe8ba p=5JV8shkGy0r498Hx5ZYA:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=RZcAm9yDv7YA:10 a=c7naqG_xe-4A:10 a=84cTXm3vAAAA:8 a=UqCG9HQmAAAA:8 a=QEXdDO2ut3YA:10 a=DzN8tf9TC_La8NuA8fC7:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1734338746-eximdsn-22248568
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 N6jZtEXQNuJ7X :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=a6fK9VSF c=1 sm=1 tr=0 ts=675fe8ba p=5JV8shkGy0r498Hx5ZYA:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=RZcAm9yDv7YA:10 a=c7naqG_xe-4A:10 a=84cTXm3vAAAA:8 a=UqCG9HQmAAAA:8 a=QEXdDO2ut3YA:10 a=DzN8tf9TC_La8NuA8fC7:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1734338746-eximdsn-22248568
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1tN6jO-005wHV-2s
+	for hello@decisio.CO.uk;
+	Mon, 16 Dec 2024 01:45:45 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 212.102.46.50
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 212.102.46.50
+Date: Mon, 16 Dec 2024 08:45:34 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <ExP9COFhvIPRtu05Sj5sOXWv3vllCbwYm0zhZKdQI@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Vai<br>Email: no-reply@reply.message<br>Message: Hi, I'm Vai Michael,=
+ a seasoned copywriter and content strategist with over 12 years of experie=
+nce helping brands like yours create compelling and impactful content. From=
+ blog posts and articles to SEO-driven web content, e-commerce product desc=
+riptions, business service write-ups, newsletters, brochures, and detailed =
+SOPs=E2=80=94I=E2=80=99ve done it all. I pride myself on delivering content=
+ that not only meets the brief but also resonates with the audience and dri=
+ves results. My rate is a competitive $50 per 1,000 words, ensuring you get=
+ top-tier quality without breaking the bank. If you're looking to enhance y=
+our content or have any projects in mind, I=E2=80=99d love to chat about ho=
+w I can help. <br /><br />Feel free to drop me a line at hireonline4455@out=
+look.com<br><br>---<br><br>Date: December 16, 2024<br>Time: 8:45 am<br>Page=
+ URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Linux=
+ x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537=
+.36<br>Remote IP: 212.102.46.50<br>Powered by: Elementor<br>
+
+--1734338746-eximdsn-22248568--

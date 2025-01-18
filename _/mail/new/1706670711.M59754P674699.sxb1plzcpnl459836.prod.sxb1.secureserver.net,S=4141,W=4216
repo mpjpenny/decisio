@@ -1,0 +1,75 @@
+Return-Path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id CDXeAne6uWWLSwoAphIfxA
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 30 Jan 2024 20:11:51 -0700
+Return-path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 30 Jan 2024 20:11:51 -0700
+Received: from root by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rV10w-002pda-3B
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 30 Jan 2024 20:11:51 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Installatron] WordPress 6.4.3 now available (security release)
+Date: Tue, 30 Jan 2024 20:11:50 -0700
+ From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+ Message-ID: <1f33c8d17b5d55e1c60ebece34c5411f@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+ X-Mailer: Installatron Plugin 9.1.61 (335)
+ Return-Path: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+ MIME-Version: 1.0
+ Content-Type: text/plain; charset=UTF-8
+ Content-Transfer-Encoding: 8bit
+Message-Id: <E1rV10w-002pda-3B@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+This is an automated email from Installatron. To change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 6.4.3 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- https://www.decisio.co.uk
+
+
+The changes for this version are:
+
+This security and maintenance release features 5 bug fixes on Core, 16 bug fixes for the Block Editor, and 2 security fixes.
+
+Security
+* Fixed a PHP File Upload bypass via Plugin Installer (requiring admin privileges)
+* Fixed an RCE POP Chains vulnerability
+
+Core - Bug Fixes
+* Text isnt highlighted when editing a page in latest Chrome Dev and Canary
+* Update default PHP version used in local Docker Environment for older branches
+* wp-login.php: login messages/errors
+* Deprecated print_emoji_styles produced during embed
+* Attachment pages are only disabled for users that are logged in
+
+Block Editor - Bug Fixes
+* Fix block rename control shown in “Advanced” for unsupported blocks
+* Query block: remove unnecessary class
+* Fix duotone not showing in site editor style block level styles
+* Query Loop – Add accessibility markup at the end of the loop in all cases.
+* Background Image Support: Hide the background image reset button when there’s no image
+* Background image support: Fix focus loss when resetting background image
+* Autocomplete: Fix Voiceover not announcing suggestions
+* Fix pattern category renaming causing potential duplicate categories
+* Patterns: use existing download function for JSON downloads to fix non-ASCII encoding
+* Add context for translators to any unclear usage of “synced”
+* Image block: Add check for lightbox values during image block migration
+* Image Block: Enable image block to be selected correctly when clicked
+* Reduce specificity of default Cover text color styles.
+* Image Block: Fix deprecation when width/height attribute is number
+* Text selection: show CSS hack to Safari only.
+* SlotFill: Allow contextual SlotFillProviders
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report. To unsubscribe from all notifications follow this link: https://installatron.com/unsubscribe?id=MDE3ZDkyYTMyN2Q1YmE3NWY3MGE4ZDNiNzUyY2Y0NjNmMTY5MTc3OA%3D%3D%3Aedfa6tzuu6ys%40sxb1plzcpnl459836.prod.sxb1.secureserver.net
+

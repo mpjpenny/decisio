@@ -1,0 +1,113 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id qNAqKiVbvGMseCYAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 09 Jan 2023 11:21:25 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 09 Jan 2023 11:21:25 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1pEwlx-00AeSv-L1
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 09 Jan 2023 11:21:25 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <oCEmqKMjvUQE1t3UbV2rNcwC7Yusw4mdOYVIDXYCPk@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1673288485-eximdsn-1314693248
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pEwlx-00AeSv-L1@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 09 Jan 2023 11:21:25 -0700
+
+--1673288485-eximdsn-1314693248
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Ewlxp83Do3oQV :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=SfYxNNdu c=1 sm=1 tr=0 ts=63bc5b25 p=eLufOj_phPsA:10 p=xzM2_G-fAAAA:8 p=6ZeTWu1C_EUA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=RvmDmJFTN0MA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=jXepu7I2rph4WwAwqLoA:9 a=vRJnXkxu7GBcxRAN:21 a=QEXdDO2ut3YA:10 a=hCnhmpw-GlUA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=qYY-0e5v0Ec2vUMr2GDV:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=R5LvI2F2ZDXFC5kb1RPk:22 ::
+    100.00
+
+--1673288485-eximdsn-1314693248
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Ewlxp83Do3oQV :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=SfYxNNdu c=1 sm=1 tr=0 ts=63bc5b25 p=eLufOj_phPsA:10 p=xzM2_G-fAAAA:8 p=6ZeTWu1C_EUA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=RvmDmJFTN0MA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=jXepu7I2rph4WwAwqLoA:9 a=vRJnXkxu7GBcxRAN:21 a=QEXdDO2ut3YA:10 a=hCnhmpw-GlUA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=qYY-0e5v0Ec2vUMr2GDV:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=R5LvI2F2ZDXFC5kb1RPk:22 :: 100.00
+
+--1673288485-eximdsn-1314693248
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1pEwlT-00Ae4j-0t
+	for hello@decisio.CO.uk;
+	Mon, 09 Jan 2023 11:21:25 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 23.90.40.100
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 23.90.40.100
+Date: Mon, 9 Jan 2023 18:20:54 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <oCEmqKMjvUQE1t3UbV2rNcwC7Yusw4mdOYVIDXYCPk@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Eric Jones<br>Email: ericjonesmyemail@gmail.com<br>Message: Hey, this=
+ is Eric and I ran across decisio.co.uk a few minutes ago.<br /><br />Looks=
+ great=E2=80=A6 but now what?<br /><br />By that I mean, when someone like =
+me finds your website =E2=80=93 either through Search or just bouncing arou=
+nd =E2=80=93 what happens next?  Do you get a lot of leads from your site, =
+or at least enough to make you happy?<br /><br />Honestly, most business we=
+bsites fall a bit short when it comes to generating paying customers. Studi=
+es show that 70% of a site=E2=80=99s visitors disappear and are gone foreve=
+r after just a moment.<br /><br />Here=E2=80=99s an idea=E2=80=A6<br /> <br=
+ />How about making it really EASY for every visitor who shows up to get a =
+personal phone call you as soon as they hit your site=E2=80=A6<br /> <br />=
+You can =E2=80=93<br />  <br />Talk With Web Visitor is a software widget t=
+hat=E2=80=99s works on your site, ready to capture any visitor=E2=80=99s Na=
+me, Email address and Phone Number.  It signals you the moment they let you=
+ know they=E2=80=99re interested =E2=80=93 so that you can talk to that lea=
+d while they=E2=80=99re literally looking over your site.<br /><br />CLICK =
+HERE http://jumboleadmagnet.com to try out a Live Demo with Talk With Web V=
+isitor now to see exactly how it works.<br /><br />You=E2=80=99ll be amazed=
+ - the difference between contacting someone within 5 minutes versus a half=
+-hour or more later could increase your results 100-fold.<br /><br />It get=
+s even better=E2=80=A6 once you=E2=80=99ve captured their phone number, wit=
+h our new SMS Text With Lead feature, you can automatically start a text (S=
+MS) conversation.<br />  <br />That way, even if you don=E2=80=99t close a =
+deal right away, you can follow up with text messages for new offers, conte=
+nt links, even just =E2=80=9Chow you doing?=E2=80=9D notes to build a relat=
+ionship.<br /><br />Pretty sweet =E2=80=93 AND effective.<br /><br />CLICK =
+HERE http://jumboleadmagnet.com to discover what Talk With Web Visitor can =
+do for your business.<br /><br />You could be converting up to 100X more le=
+ads today!<br /><br />Eric<br />PS: Talk With Web Visitor offers a FREE 14 =
+days trial =E2=80=93 and it even includes International Long Distance Calli=
+ng. <br />You have customers waiting to talk with you right now=E2=80=A6 do=
+n=E2=80=99t keep them waiting. <br />CLICK HERE http://jumboleadmagnet.com =
+to try Talk With Web Visitor now.<br /><br />If you'd like to unsubscribe c=
+lick here http://jumboleadmagnet.com/unsubscribe.aspx?d=3Ddecisio.co.uk<br>=
+<br>---<br><br>Date: January 9, 2023<br>Time: 6:20 pm<br>Page URL: https://=
+decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; =
+x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 =
+Edg/103.0.1264.71<br>Remote IP: 23.90.40.100<br>Powered by: Elementor<br>
+
+--1673288485-eximdsn-1314693248--

@@ -1,0 +1,76 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 8PMTMH0u8Wb6xggAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 23 Sep 2024 02:01:49 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 23 Sep 2024 02:01:49 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1ssex3-00344x-2L
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 23 Sep 2024 02:01:49 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <3Z62gMZZoOpYd6dwSFLv8diTudUjmYOnum9F3havsuw@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ssex3-00344x-2L@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 23 Sep 2024 02:01:49 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1ssewt-0033gL-0i
+	for hello@decisio.CO.uk;
+	Mon, 23 Sep 2024 02:01:39 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 186.179.18.160
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 186.179.18.160
+Date: Mon, 23 Sep 2024 09:01:39 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <3Z62gMZZoOpYd6dwSFLv8diTudUjmYOnum9F3havsuw@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Eric Jones<br>Email: ericjonesmyemail@gmail.com<br>Message: To the de=
+cisio.co.uk Administrator. my name is Eric and I=E2=80=99m betting you=
+=E2=80=99d like your website decisio.co.uk to generate more leads.<br /><br=
+ />Here=E2=80=99s how:<br />Web Visitors Into Leads is a software widget th=
+at=E2=80=99s works on your site, ready to capture any visitor=E2=80=99s Nam=
+e, Email address and Phone Number.  It signals you as soon as they say they=
+=E2=80=99re interested =E2=80=93 so that you can talk to that lead while th=
+ey=E2=80=99re still there at decisio.co.uk.<br /><br />Web Visitors Into Le=
+ads =E2=80=93 CLICK HERE https://blazeleadgeneration.com for a live demo no=
+w.<br /><br />And now that you=E2=80=99ve got their phone number, our new S=
+MS Text With Lead feature enables you to start a text (SMS) conversation =
+=E2=80=93 answer questions, provide more info, and close a deal that way.<b=
+r /><br />If they don=E2=80=99t take you up on your offer then, just follow=
+ up with text messages for new offers, content links, even just how you doi=
+ng? notes to build a relationship.<br /><br />CLICK HERE https://blazeleadg=
+eneration.com to discover what Web Visitors Into Leads can do for your busi=
+ness.<br /><br />The difference between contacting someone within 5 minutes=
+ versus a half-hour means you could be converting up to 100X more leads tod=
+ay!<br /><br />Try Web Visitors Into Leads and get more leads now.<br /><br=
+ />Eric<br />PS: The studies show 7 out of 10 visitors don=E2=80=99t hang a=
+round =E2=80=93 you can=E2=80=99t afford to lose them!<br />Web Visitors In=
+to Leads offers a FREE 14 days trial =E2=80=93 and it even includes Interna=
+tional Long Distance Calling. <br />You have customers waiting to talk with=
+ you right now=E2=80=A6 don=E2=80=99t keep them waiting. <br />CLICK HERE h=
+ttps://blazeleadgeneration.com to try Web Visitors Into Leads now.<br /><br=
+ />If you'd like to unsubscribe click here https://blazeleadgeneration.com/=
+unsubscribe.aspx?d=3Ddecisio.co.uk<br><br>---<br><br>Date: September 23, 20=
+24<br>Time: 9:01 am<br>Page URL: https://decisio.co.uk/contact/<br>User Age=
+nt: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:114.0) Gecko/20100101 Firefox/=
+114.0<br>Remote IP: 186.179.18.160<br>Powered by: Elementor<br>

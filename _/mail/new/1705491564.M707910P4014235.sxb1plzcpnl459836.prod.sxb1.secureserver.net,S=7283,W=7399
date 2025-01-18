@@ -1,0 +1,116 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id CJG1KWy8p2WbQD0AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 17 Jan 2024 04:39:24 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 17 Jan 2024 04:39:24 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rQ4GS-00Gqhg-25
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 17 Jan 2024 04:39:24 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <ffcUjMgW5SbrhzaWwVMRNAYdCWOFyRnwmOYVKqQY1xo@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1705491564-eximdsn-2097587748
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rQ4GS-00Gqhg-25@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Wed, 17 Jan 2024 04:39:24 -0700
+
+--1705491564-eximdsn-2097587748
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Q4GSr4n54NbNC :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=MNjDm9Zl c=1 sm=1 tr=0 ts=65a7bc6c p=URgyOTyUAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=dEuoMetlWLkA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=uXQ5HKj4Pz4y6JjLx-MA:9 a=usQfNO_aa-hrPrMX:21 a=QEXdDO2ut3YA:10 a=q9tf-zlc6a8A:10 a=fQPTyS6vbLAA:10 a=w2tT6TMOnjYNPCdFW2kF:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1705491564-eximdsn-2097587748
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Q4GSr4n54NbNC :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=MNjDm9Zl c=1 sm=1 tr=0 ts=65a7bc6c p=URgyOTyUAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=dEuoMetlWLkA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=uXQ5HKj4Pz4y6JjLx-MA:9 a=usQfNO_aa-hrPrMX:21 a=QEXdDO2ut3YA:10 a=q9tf-zlc6a8A:10 a=fQPTyS6vbLAA:10 a=w2tT6TMOnjYNPCdFW2kF:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1705491564-eximdsn-2097587748
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rQ4GM-00Gqfr-0o
+	for hello@decisio.CO.uk;
+	Wed, 17 Jan 2024 04:39:24 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 23.82.104.33
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 23.82.104.33
+Date: Wed, 17 Jan 2024 11:39:18 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <ffcUjMgW5SbrhzaWwVMRNAYdCWOFyRnwmOYVKqQY1xo@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Jennifer Cooper<br>Email: torgerson.laurie@yahoo.com<br>Message: Hey =
+there,<br /><br />Was looking at your site today and I thought this would p=
+robably interest you.<br /><br />Are you tired of managing staff who lack t=
+he expertise to handle complex tasks? Feeling overwhelmed by the thought of=
+ diving into AI? Look no further! We have the game-changing solution you've=
+ been waiting for: Myaa's Remote Live Agents, expertly trained in AI.<br />=
+<br />Imagine having the best of both worlds - a remote live personal assis=
+tant who is also an expert at leveraging the power of thousands of Chat AI =
+Agents. With Myaa, that's exactly what you get. Our Live Agents are trained=
+ to perfection in writing excellent prompts and harnessing the capabilities=
+ of our AI Agents. <br /><br />But here's the exciting part: we are offerin=
+g a one-week free trial for you to experience the transformative capabiliti=
+es of our agents firsthand. No obligations, no strings attached. Just an op=
+portunity to see how our Remote Live Agents, the experts in leveraging AI t=
+echnology, can revolutionize the way you manage your business. <br /><br />=
+But this offer is only good this week, for the first 20 clients, so you nee=
+d to claim your Remote Live Agent Now, before you miss out.  <br /><br />Sc=
+hedule a call with us by clicking the link below and secure your one-week f=
+ree trial: <br /><br />https://bit.ly/myaa-live-agent<br /><br />With our R=
+emote Live Agents equipped with AI, you can: <br /><br />=E2=80=A2=09Delega=
+te a variety of tasks and projects, boosting your productivity. <br />=
+=E2=80=A2=09Ensure daily progress by leveraging internal and external resou=
+rces through our agents.<br />=E2=80=A2=09Reclaim your time to focus on bus=
+iness growth rather than administrative tasks.<br /><br />And that's not al=
+l! This FREE Remote Live Agent offer is valued at over $400, and you are ge=
+tting it for ABSOLUTELY FREE. Don't miss out on this incredible opportunity=
+! <br /><br />Click the link below to schedule a call and claim your one-we=
+ek free trial: <br /><br />https://bit.ly/myaa-live-agent<br /><br />If you=
+ have any questions or need further information, please don't hesitate to r=
+each out. We are here to assist you every step of the way. <br /><br />Chee=
+rs,<br />Jennifer Cooper <br /><br />P.S. Act fast! This exclusive offer is=
+ only available for a limited time and to a select few. Don't miss your cha=
+nce to experience the power of our Remote Live Agents trained in AI. Schedu=
+le your call today!<br><br>---<br><br>Date: January 17, 2024<br>Time: 11:39=
+ am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 =
+(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome=
+/114.0.0.0 Safari/537.36<br>Remote IP: 23.82.104.33<br>Powered by: Elemento=
+r<br>
+
+--1705491564-eximdsn-2097587748--

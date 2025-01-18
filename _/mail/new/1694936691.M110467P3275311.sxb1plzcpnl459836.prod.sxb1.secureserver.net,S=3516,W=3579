@@ -1,0 +1,63 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id AHMxBnOuBmUv+jEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 17 Sep 2023 00:44:51 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 17 Sep 2023 00:44:51 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1qhmSZ-00DnBi-1L
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 17 Sep 2023 00:44:51 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <HSNngAlT4hOC9iwcBdE08b8OKAng8MZTnXYAKzQ@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qhmSZ-00DnBi-1L@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 17 Sep 2023 00:44:51 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1qhmST-00Dn9h-Mp
+	for hello@decisio.CO.uk;
+	Sun, 17 Sep 2023 00:44:45 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 169.150.205.248
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 169.150.205.248
+Date: Sun, 17 Sep 2023 07:44:45 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <HSNngAlT4hOC9iwcBdE08b8OKAng8MZTnXYAKzQ@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Ilse Masterson<br>Email: ilse.masterson@yahoo.com<br>Message: JOIN FU=
+NNEL BASE AND GET :<br /><br />Smart Funnel Booster:<br /><br />Optimize yo=
+ur funnel by displaying social proof on your website, deeply analyze your v=
+isitors' behavior and fully control your sales funnel<br /><br />Drive Micr=
+o Conversions:<br /><br />Skyrocket your sales with the power of micro conv=
+ersions! Bring your visitors to the next sales funnel stage by displaying n=
+otifications <br /><br />Verified Video Reviews:<br />Implement user-genera=
+ted content into your marketing strategy. Show verified video reviews to bu=
+ild trust & increase conversion rates on your website or landing page.<br /=
+>Increase Funnel Profit:<br />Constantly upgrade your funnel and triple you=
+r profit with advanced tools to properly attract visitors, generate their c=
+onfidence and convert them into loyal customers.<br /><br />GET IT NOW AT: =
+ https://funnelbase.net/<br><br>---<br><br>Date: September 17, 2023<br>Time=
+: 7:44 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozill=
+a/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Geck=
+o) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1264.71<br>Remote IP: 169.150.2=
+05.248<br>Powered by: Elementor<br>

@@ -1,0 +1,82 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id SzQwEqBiCWYVxTMAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 31 Mar 2024 06:18:24 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 31 Mar 2024 06:18:24 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rqv4q-00EEcI-0m
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 31 Mar 2024 06:18:24 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <ocKCh2tCGnCnSQtIgVoI9bqILorNyoZuoAek7Kmg@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rqv4q-00EEcI-0m@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 31 Mar 2024 06:18:24 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rqv4k-00EEar-2h
+	for hello@decisio.CO.uk;
+	Sun, 31 Mar 2024 06:18:18 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 117.64.77.48
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 117.64.77.48
+Date: Sun, 31 Mar 2024 13:18:18 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <ocKCh2tCGnCnSQtIgVoI9bqILorNyoZuoAek7Kmg@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Anastasia Catherine<br>Email: affiliate@beautikini.us<br>Message: Hi =
+, website<br /><br />At Beautikini, we specialize in creating high-quality,=
+ INNOVATIVE PERIOD SWIMWEAR and UNDERWEAR designed to offer a blend of styl=
+e, protection, and comfort. Our dedication lies in providing solutions that=
+ make period days worry-free, with products that feature unique designs and=
+ superior comfort. We're committed to supporting women's health and confide=
+nce, enhancing their lifestyle during periods.<br /><br />Apply Here On Sha=
+re A Sale: https://bkni.us/collab<br /><br />Learn More About Our Affiliate=
+ Program: https://bkni.us/collab-email/<br /><br />How Our Products Work: h=
+ttps://bkni.us/PeriodSwimwear/<br /><br />By collaborating with us, you'll =
+enjoy AT LEAST 15% COMMISSION, supporting a meaningful cause. Benefits for =
+our partners include HIGH CONVERSION RATES, making our products exceptional=
+ly advantageous for affiliate marketing partners. <br /><br />Additionally,=
+ we equip our partners with an array of promotional materials, including SO=
+CIAL MEDIA POSTERS, VIDEO CONTENT, AND FREE MARKETING TOOLS, to ensure you =
+have everything you need to effectively market our products and maximize yo=
+ur earnings<br /><br />Why Partner with Beautikini?<br /><br />Exclusive Ma=
+rket Edge: Dive into a unique niche with us.<br />Significant Sales Volume:=
+ Proven by our status as a top performer on Amazon.<br />Recognition from L=
+eading Outlets: Including TEENVOGUE, WOMEN'S HEALTH, and HEALTH.<br />FDA-A=
+pproved Products: Your assurance of our commitment to quality.<br />Innovat=
+ion in Design and Manufacturing: We set the standards.<br />Competitive Com=
+mission Structure: Designed to grow as you do.<br />Extensive Promotion Opp=
+ortunities: Leverage wide endorsement on platforms like TikTok.<br />Global=
+ Support for 30-Day Unconditional Free Returns in 24 countries, enhancing c=
+onsumer trust.<br />Free Shipping on any product within the USA, increasing=
+ appeal to US consumers.<br />Learn more about our commitment to customer s=
+atisfaction and our 30-Day Unconditional Free Returns policy here.<br /><br=
+ />Our products boast HIGH CONVERSION RATES, LOW RETURN RATES, and are supp=
+orted by a comprehensive after-sales service team. This makes partnering wi=
+th us not just lucrative but also rewarding.<br /><br />We look forward to =
+a fruitful partnership and making a significant impact together!<br><br>---=
+<br><br>Date: March 31, 2024<br>Time: 1:18 pm<br>Page URL: https://decisio.=
+co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/5=
+37.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51<b=
+r>Remote IP: 117.64.77.48<br>Powered by: Elementor<br>

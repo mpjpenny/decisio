@@ -1,0 +1,99 @@
+--- 
+files: 
+  certificate: 
+    decisio_co_uk_ae6a4_6b0c3_1747834413_6c21becd9b530661aede8df0e370c988: 
+      created: '1713533618'
+      domains: 
+        - decisio.co.uk
+        - www.decisio.co.uk
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: decisio.co.uk and www.decisio.co.uk 1713533618.0
+      id: decisio_co_uk_ae6a4_6b0c3_1747834413_6c21becd9b530661aede8df0e370c988
+      is_self_signed: 0
+      issuer.commonName: Go Daddy Secure Certificate Authority - G2
+      issuer.organizationName: GoDaddy.com, Inc.
+      key_algorithm: rsaEncryption
+      modulus: ae6a497a81dfbb8248d5704956879b5796a413c55d3f722973f10d6d72e85caa5fc8f18eb11e6290f20c60dc7fdd56262fff5eda104fe3086a1c9ff28c385a51f60ca2acd72b538c3266b8e13ec39b67516fd37683a09bbd4c36a1ebaaa0d4f6ee8e2a50e387023ca2b6f102cd3c7aecf92d1054bd8a3dff2a896c204ede893f6bcb70481a601b5e6b4055f73ffca8d0ac8b1929858e3fc2af3b08df751d8d3176b3a2b8d27593bb4d9a469695e9a089131ab92b81d58ce8d1e70df5cdd6972756c85dcb71fd6dde7f7d8a08f84f85a77155c33e33ff92b732c924ad45bba4831e674b9c2602b8f664e92c498849926fe3c19a328fb39d8ae785e6d3cc16b0c3
+      modulus_length: 2048
+      not_after: '1747834413'
+      not_before: '1713533613'
+      serial: 890646d3180d3cab
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: decisio.co.uk
+      validation_type: dv
+  csr: 
+    decisio_co_uk_a61b9_5077d_2b36c5986f004650bc4d52099fcbb2e1: 
+      commonName: decisio.co.uk
+      created: '1686926334'
+      domains: 
+        - decisio.co.uk
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: decisio.co.uk
+      id: decisio_co_uk_a61b9_5077d_2b36c5986f004650bc4d52099fcbb2e1
+      key_algorithm: rsaEncryption
+      modulus: a61b9358b3118d417706edea8ef6909e8ab5105d52eafeb122dde841ed4982aff98b42c6fffea5faccb745f46781e9ca42c3d35acde11543fced1ad29be7bd98898de0d49268f1ba9a8a8ca263f26b6532aee3b5cab242a5dfb1e38773582cd701d3dbe82d8f8680b53a4149cb7bb4c0ea7e393e0da8b7f061f25ab9a075d9248c215a3f37bcaae32c633ac362d35ab1516e46f83793c244978d68ac4778376b028c31ba4f8d6f0928532d92ff4d5a8e6a58aaf8f1ea961263b5a32263b4a03348415c5e8546a5fd4cd6cf97feb5019c8640c4f20bcab3eee52df524c0fcb20a70a5f327907c510a37f97f088d1307cf8a73937a54989b3e670a62e10f45077d
+    decisio_co_uk_ae6a4_6b0c3_3e60199c7a05ae3bbb83bd9b044f3082: 
+      commonName: decisio.co.uk
+      created: '1713533612'
+      domains: 
+        - decisio.co.uk
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: decisio.co.uk 1713533612.0
+      id: decisio_co_uk_ae6a4_6b0c3_3e60199c7a05ae3bbb83bd9b044f3082
+      key_algorithm: rsaEncryption
+      modulus: ae6a497a81dfbb8248d5704956879b5796a413c55d3f722973f10d6d72e85caa5fc8f18eb11e6290f20c60dc7fdd56262fff5eda104fe3086a1c9ff28c385a51f60ca2acd72b538c3266b8e13ec39b67516fd37683a09bbd4c36a1ebaaa0d4f6ee8e2a50e387023ca2b6f102cd3c7aecf92d1054bd8a3dff2a896c204ede893f6bcb70481a601b5e6b4055f73ffca8d0ac8b1929858e3fc2af3b08df751d8d3176b3a2b8d27593bb4d9a469695e9a089131ab92b81d58ce8d1e70df5cdd6972756c85dcb71fd6dde7f7d8a08f84f85a77155c33e33ff92b732c924ad45bba4831e674b9c2602b8f664e92c498849926fe3c19a328fb39d8ae785e6d3cc16b0c3
+  key: 
+    a61b9_5077d_98dee85da3057038fba1e1393f8affe8: 
+      created: '1686926333'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: decisio.co.uk
+      id: a61b9_5077d_98dee85da3057038fba1e1393f8affe8
+      key_algorithm: rsaEncryption
+      modulus: a61b9358b3118d417706edea8ef6909e8ab5105d52eafeb122dde841ed4982aff98b42c6fffea5faccb745f46781e9ca42c3d35acde11543fced1ad29be7bd98898de0d49268f1ba9a8a8ca263f26b6532aee3b5cab242a5dfb1e38773582cd701d3dbe82d8f8680b53a4149cb7bb4c0ea7e393e0da8b7f061f25ab9a075d9248c215a3f37bcaae32c633ac362d35ab1516e46f83793c244978d68ac4778376b028c31ba4f8d6f0928532d92ff4d5a8e6a58aaf8f1ea961263b5a32263b4a03348415c5e8546a5fd4cd6cf97feb5019c8640c4f20bcab3eee52df524c0fcb20a70a5f327907c510a37f97f088d1307cf8a73937a54989b3e670a62e10f45077d
+      modulus_length: 2048
+    ae6a4_6b0c3_e724086273b4594d179b5bf6d15558c4: 
+      created: '1713533611'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: decisio.co.uk and www.decisio.co.uk
+      id: ae6a4_6b0c3_e724086273b4594d179b5bf6d15558c4
+      key_algorithm: rsaEncryption
+      modulus: ae6a497a81dfbb8248d5704956879b5796a413c55d3f722973f10d6d72e85caa5fc8f18eb11e6290f20c60dc7fdd56262fff5eda104fe3086a1c9ff28c385a51f60ca2acd72b538c3266b8e13ec39b67516fd37683a09bbd4c36a1ebaaa0d4f6ee8e2a50e387023ca2b6f102cd3c7aecf92d1054bd8a3dff2a896c204ede893f6bcb70481a601b5e6b4055f73ffca8d0ac8b1929858e3fc2af3b08df751d8d3176b3a2b8d27593bb4d9a469695e9a089131ab92b81d58ce8d1e70df5cdd6972756c85dcb71fd6dde7f7d8a08f84f85a77155c33e33ff92b732c924ad45bba4831e674b9c2602b8f664e92c498849926fe3c19a328fb39d8ae785e6d3cc16b0c3
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      ae6a497a81dfbb8248d5704956879b5796a413c55d3f722973f10d6d72e85caa5fc8f18eb11e6290f20c60dc7fdd56262fff5eda104fe3086a1c9ff28c385a51f60ca2acd72b538c3266b8e13ec39b67516fd37683a09bbd4c36a1ebaaa0d4f6ee8e2a50e387023ca2b6f102cd3c7aecf92d1054bd8a3dff2a896c204ede893f6bcb70481a601b5e6b4055f73ffca8d0ac8b1929858e3fc2af3b08df751d8d3176b3a2b8d27593bb4d9a469695e9a089131ab92b81d58ce8d1e70df5cdd6972756c85dcb71fd6dde7f7d8a08f84f85a77155c33e33ff92b732c924ad45bba4831e674b9c2602b8f664e92c498849926fe3c19a328fb39d8ae785e6d3cc16b0c3: 
+        decisio_co_uk_ae6a4_6b0c3_1747834413_6c21becd9b530661aede8df0e370c988: ~
+    subject.commonName: 
+      decisio.co.uk: 
+        decisio_co_uk_ae6a4_6b0c3_1747834413_6c21becd9b530661aede8df0e370c988: ~
+  csr: 
+    commonName: 
+      decisio.co.uk: 
+        decisio_co_uk_a61b9_5077d_2b36c5986f004650bc4d52099fcbb2e1: ~
+        decisio_co_uk_ae6a4_6b0c3_3e60199c7a05ae3bbb83bd9b044f3082: ~
+    modulus: 
+      a61b9358b3118d417706edea8ef6909e8ab5105d52eafeb122dde841ed4982aff98b42c6fffea5faccb745f46781e9ca42c3d35acde11543fced1ad29be7bd98898de0d49268f1ba9a8a8ca263f26b6532aee3b5cab242a5dfb1e38773582cd701d3dbe82d8f8680b53a4149cb7bb4c0ea7e393e0da8b7f061f25ab9a075d9248c215a3f37bcaae32c633ac362d35ab1516e46f83793c244978d68ac4778376b028c31ba4f8d6f0928532d92ff4d5a8e6a58aaf8f1ea961263b5a32263b4a03348415c5e8546a5fd4cd6cf97feb5019c8640c4f20bcab3eee52df524c0fcb20a70a5f327907c510a37f97f088d1307cf8a73937a54989b3e670a62e10f45077d: 
+        decisio_co_uk_a61b9_5077d_2b36c5986f004650bc4d52099fcbb2e1: ~
+      ae6a497a81dfbb8248d5704956879b5796a413c55d3f722973f10d6d72e85caa5fc8f18eb11e6290f20c60dc7fdd56262fff5eda104fe3086a1c9ff28c385a51f60ca2acd72b538c3266b8e13ec39b67516fd37683a09bbd4c36a1ebaaa0d4f6ee8e2a50e387023ca2b6f102cd3c7aecf92d1054bd8a3dff2a896c204ede893f6bcb70481a601b5e6b4055f73ffca8d0ac8b1929858e3fc2af3b08df751d8d3176b3a2b8d27593bb4d9a469695e9a089131ab92b81d58ce8d1e70df5cdd6972756c85dcb71fd6dde7f7d8a08f84f85a77155c33e33ff92b732c924ad45bba4831e674b9c2602b8f664e92c498849926fe3c19a328fb39d8ae785e6d3cc16b0c3: 
+        decisio_co_uk_ae6a4_6b0c3_3e60199c7a05ae3bbb83bd9b044f3082: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      decisio.co.uk and www.decisio.co.uk 1713533618.0: decisio_co_uk_ae6a4_6b0c3_1747834413_6c21becd9b530661aede8df0e370c988
+  csr: 
+    friendly_name: 
+      decisio.co.uk: decisio_co_uk_a61b9_5077d_2b36c5986f004650bc4d52099fcbb2e1
+      decisio.co.uk 1713533612.0: decisio_co_uk_ae6a4_6b0c3_3e60199c7a05ae3bbb83bd9b044f3082
+  key: 
+    friendly_name: 
+      decisio.co.uk: a61b9_5077d_98dee85da3057038fba1e1393f8affe8
+      decisio.co.uk and www.decisio.co.uk: ae6a4_6b0c3_e724086273b4594d179b5bf6d15558c4
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      a61b9358b3118d417706edea8ef6909e8ab5105d52eafeb122dde841ed4982aff98b42c6fffea5faccb745f46781e9ca42c3d35acde11543fced1ad29be7bd98898de0d49268f1ba9a8a8ca263f26b6532aee3b5cab242a5dfb1e38773582cd701d3dbe82d8f8680b53a4149cb7bb4c0ea7e393e0da8b7f061f25ab9a075d9248c215a3f37bcaae32c633ac362d35ab1516e46f83793c244978d68ac4778376b028c31ba4f8d6f0928532d92ff4d5a8e6a58aaf8f1ea961263b5a32263b4a03348415c5e8546a5fd4cd6cf97feb5019c8640c4f20bcab3eee52df524c0fcb20a70a5f327907c510a37f97f088d1307cf8a73937a54989b3e670a62e10f45077d: a61b9_5077d_98dee85da3057038fba1e1393f8affe8
+      ae6a497a81dfbb8248d5704956879b5796a413c55d3f722973f10d6d72e85caa5fc8f18eb11e6290f20c60dc7fdd56262fff5eda104fe3086a1c9ff28c385a51f60ca2acd72b538c3266b8e13ec39b67516fd37683a09bbd4c36a1ebaaa0d4f6ee8e2a50e387023ca2b6f102cd3c7aecf92d1054bd8a3dff2a896c204ede893f6bcb70481a601b5e6b4055f73ffca8d0ac8b1929858e3fc2af3b08df751d8d3176b3a2b8d27593bb4d9a469695e9a089131ab92b81d58ce8d1e70df5cdd6972756c85dcb71fd6dde7f7d8a08f84f85a77155c33e33ff92b732c924ad45bba4831e674b9c2602b8f664e92c498849926fe3c19a328fb39d8ae785e6d3cc16b0c3: ae6a4_6b0c3_e724086273b4594d179b5bf6d15558c4

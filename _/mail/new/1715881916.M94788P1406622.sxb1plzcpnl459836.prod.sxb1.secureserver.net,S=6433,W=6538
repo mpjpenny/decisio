@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id ELzeBLxHRmaedhUAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 16 May 2024 10:51:56 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 16 May 2024 10:51:56 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1s7fGm-005vM1-02
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 16 May 2024 10:51:56 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <tRspkavlJEvOKTLNk0Y9EyKbDMzpvxt5qI2uek6658@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1715881916-eximdsn-1004819161
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s7fGm-005vM1-02@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 16 May 2024 10:51:56 -0700
+
+--1715881916-eximdsn-1004819161
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 7fGlsazWjSTx0 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=bqyHB1ai c=1 sm=1 tr=0 ts=664647bb p=MTXg8JMWAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=TpHVaj0NuXgA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=4DNTmA24-_3XidRop80A:9 a=0J7jmyo6VGCjCr7q:21 a=QEXdDO2ut3YA:10 a=Wy8W53emOxYA:10 a=Wbo4OmI56KUA:10 a=5YyvPUnqIO8A:10 a=cQ36epr74cOvgpYlSbRG:22 a=ASGqDSWa1uVckBUHRTv3:22 a=WOnK1Kb-jXfZH2aM7jlW:22 a=ZT_8zCgGubuJgGonBfBE:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1715881916-eximdsn-1004819161
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 7fGlsazWjSTx0 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=bqyHB1ai c=1 sm=1 tr=0 ts=664647bb p=MTXg8JMWAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=TpHVaj0NuXgA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=4DNTmA24-_3XidRop80A:9 a=0J7jmyo6VGCjCr7q:21 a=QEXdDO2ut3YA:10 a=Wy8W53emOxYA:10 a=Wbo4OmI56KUA:10 a=5YyvPUnqIO8A:10 a=cQ36epr74cOvgpYlSbRG:22 a=ASGqDSWa1uVckBUHRTv3:22 a=WOnK1Kb-jXfZH2aM7jlW:22 a=ZT_8zCgGubuJgGonBfBE:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1715881916-eximdsn-1004819161
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1s7fGf-005vJg-1m
+	for hello@decisio.CO.uk;
+	Thu, 16 May 2024 10:51:55 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 23.106.16.91
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 23.106.16.91
+Date: Thu, 16 May 2024 17:51:49 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <tRspkavlJEvOKTLNk0Y9EyKbDMzpvxt5qI2uek6658@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Theresa Smith<br>Email: rock.dominik@gmail.com<br>Message: Hello,<br =
+/><br />Do you struggle with the choice of chilling out, working more hours=
+, or going to the gym?<br /><br />No need to choose anymore, we have the pe=
+rfect solution for you - EleBands! <br /><br />EleBands offers ultra-thin, =
+fashionable all day wearable body weight bands that seamlessly integrate in=
+to your daily routine. Burn up to 1,500 calories a day by simply wearing ou=
+r bands on your wrist, ankle, and waist while you go about your normal day.=
+ <br /><br />This week, we are giving 20% off to the first 20 customers. <b=
+r /><br />=EF=82=A7 Lose Weight <br />=EF=82=A7 Build Strength<br />=
+=EF=82=A7 Tone Body<br />=EF=82=A7 Look And Feel Great<br /><br />THEY LOOK=
+ HOT!! SEE FOR YOURSELF: https://bit.ly/elebands-news<br /> <br />***Get 20=
+% OFF with this coupon code: 20%OFF<br /><br />Imagine achieving your dream=
+ body by just going about your day. With EleBands, it's possible.<br /><br =
+/>Many of our clients are losing 2-3 pounds per week while experiencing sig=
+nificant health improvements. Plus, our clients tell us they receive compli=
+ments all the time when they wear thier EleBands. <br /><br />People from a=
+ll walks of life, including top athletes, celebrites and fitness enthusiast=
+ love our bands and we are confident you will love them to.  <br /><br />Be=
+autiful Bands To Choose From: <br /><br />=EF=82=A7 We have multiple colors=
+ and 10 styles to choose from. <br />=EF=82=A7 We have sets from 3lb to 30l=
+bs to meet a range of fitness goals.<br /><br />THEY LOOK SO GOOD!! SEE FOR=
+ YOURSELF: https://bit.ly/elebands-news<br /><br />***Get 20% OFF with this=
+ coupon code: 20%OFF<br /><br />Theresa Smith<br><br>---<br><br>Date: May 1=
+6, 2024<br>Time: 5:51 pm<br>Page URL: https://decisio.co.uk/contact/<br>Use=
+r Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM=
+L, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36<b=
+r>Remote IP: 23.106.16.91<br>Powered by: Elementor<br>
+
+--1715881916-eximdsn-1004819161--

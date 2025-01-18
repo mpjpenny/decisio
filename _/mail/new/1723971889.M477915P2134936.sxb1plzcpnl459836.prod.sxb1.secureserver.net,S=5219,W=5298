@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id GE7xGzG5wWaYkyAAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 18 Aug 2024 02:04:49 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 18 Aug 2024 02:04:49 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sfbqD-00956Q-1J
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 18 Aug 2024 02:04:49 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <nE9kYuLn5UvixPO586YYoBMW3DLYK3XDWjW29T5gs@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723971889-eximdsn-2027684737
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sfbqD-00956Q-1J@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 18 Aug 2024 02:04:49 -0700
+
+--1723971889-eximdsn-2027684737
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 fbqDsFIP4JWeA :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cK8rsUeN c=1 sm=1 tr=0 ts=66c1b931 p=wVLwXOidAAAA:8 p=TcReEv-t-n-1JlgHppRx:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=yoJbH4e0A30A:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=_Xbja6MPmiAV_TlSiiwA:9 a=QEXdDO2ut3YA:10 a=LzwliEfwuYcA:10 a=5SxQEEYjdvEA:10 a=GSXwDrah95cA:10 a=rKpReB_YRHWvVEe9oZpb:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=m_J-OTWgEjulO5XHBsfh:22 ::
+    100.00
+
+--1723971889-eximdsn-2027684737
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 fbqDsFIP4JWeA :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cK8rsUeN c=1 sm=1 tr=0 ts=66c1b931 p=wVLwXOidAAAA:8 p=TcReEv-t-n-1JlgHppRx:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=yoJbH4e0A30A:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=_Xbja6MPmiAV_TlSiiwA:9 a=QEXdDO2ut3YA:10 a=LzwliEfwuYcA:10 a=5SxQEEYjdvEA:10 a=GSXwDrah95cA:10 a=rKpReB_YRHWvVEe9oZpb:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=m_J-OTWgEjulO5XHBsfh:22 :: 100.00
+
+--1723971889-eximdsn-2027684737
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sfbq7-00951J-1F
+	for hello@decisio.CO.uk;
+	Sun, 18 Aug 2024 02:04:49 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 45.74.24.34
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 45.74.24.34
+Date: Sun, 18 Aug 2024 09:04:43 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <nE9kYuLn5UvixPO586YYoBMW3DLYK3XDWjW29T5gs@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Ashli Mercado<br>Email: ashli.mercado9@gmail.com<br>Message: Hi,<br /><br />Are you looking for a quick and hassle-free business loan?<br /><br />We offer a variety of options to suit your needs, including Expansion loans, startup loans, heavy equipment loans, home loans, real estate development loans, construction loans, working capital loans, bridge loans, inventory financing, merchant cash advances, and franchise financing. <br /><br />Get the funding you need to achieve your goals with ease. Apply now at www.fundcrownsltd.com/apply-now or email at Loan@fundcrownsltd.com<br /><br />Best regards. <br />Dylan Pham<br><br>---<br><br>Date: August 18, 2024<br>Time: 9:04 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51<br>Remote IP: 45.74.24.34<br>Powered by: Elementor<br>
+
+
+--1723971889-eximdsn-2027684737--

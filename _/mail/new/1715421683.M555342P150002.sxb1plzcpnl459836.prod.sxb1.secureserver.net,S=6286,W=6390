@@ -1,0 +1,104 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id oGdVIPNBP2bySQIAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 11 May 2024 03:01:23 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 11 May 2024 03:01:23 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1s5jXf-000dvf-1Z
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 11 May 2024 03:01:23 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <J8B8aAVa5iNWntzP1A45syGPpPcswRtUTGHU3BvAg@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1715421683-eximdsn-2060545579
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s5jXf-000dvf-1Z@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 11 May 2024 03:01:23 -0700
+
+--1715421683-eximdsn-2060545579
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 5jXes6VQqJYXz :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=L8PWQPT8 c=1 sm=1 tr=0 ts=663f41f3 p=CvLZxFmWAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=TpHVaj0NuXgA:10 a=c7naqG_xe-4A:10 a=69EAbJreAAAA:8 a=84cTXm3vAAAA:8 a=d5Kx1X_9Q2VRK9O7L2cA:9 a=3yL6nm_E3od9SzaN:21 a=QEXdDO2ut3YA:10 a=Xdmxlj_YwCkA:10 a=D-p-GUgMMz0A:10 a=OlUEeBNNtsa85_XQETH0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=DOIpJmcSShHcJ-WrTLR_:22 a=zY0JdQc1-4EAyPf5TuXT:22 ::
+    100.00
+
+--1715421683-eximdsn-2060545579
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 5jXes6VQqJYXz :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=L8PWQPT8 c=1 sm=1 tr=0 ts=663f41f3 p=CvLZxFmWAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=TpHVaj0NuXgA:10 a=c7naqG_xe-4A:10 a=69EAbJreAAAA:8 a=84cTXm3vAAAA:8 a=d5Kx1X_9Q2VRK9O7L2cA:9 a=3yL6nm_E3od9SzaN:21 a=QEXdDO2ut3YA:10 a=Xdmxlj_YwCkA:10 a=D-p-GUgMMz0A:10 a=OlUEeBNNtsa85_XQETH0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=DOIpJmcSShHcJ-WrTLR_:22 a=zY0JdQc1-4EAyPf5TuXT:22 :: 100.00
+
+--1715421683-eximdsn-2060545579
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1s5jXZ-000dsw-05
+	for hello@decisio.CO.uk;
+	Sat, 11 May 2024 03:01:22 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 149.34.252.18
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 149.34.252.18
+Date: Sat, 11 May 2024 10:01:16 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <J8B8aAVa5iNWntzP1A45syGPpPcswRtUTGHU3BvAg@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: John Loewe<br>Email: danial.loewe@hotmail.com<br>Message: Dear decisi=
+o.co.uk webmaster,<br /><br />I am very excited to share with you a new gro=
+undbreaking publication that will stir the scientific community: "Secrets o=
+f the Winds, Discovery Chronicles of Earth's=E2=80=99 Galactic Odyssey" Thi=
+s compelling new book unveils significant geological evidence that will red=
+efine our understanding of extraterrestrial life.<br /><br />Inside 'Secret=
+s of the Winds=E2=80=99; <br />- Revolutionary Findings:  Journey through t=
+he portal as I reveal how recent geological discoveries have unearthed sign=
+s of ancient extraterrestrial life forms.<br />- Earth's Hidden Blueprints:=
+ Learn about the enigmatic geological formations, and world - changing even=
+ts that have been shaped by forces beyond our world.<br />- A Bold Perspect=
+ive: Expert insights with stunning microscope fossils and correlating Googl=
+e Earth images, this book offers a fresh and riveting look at our planet's =
+history and its cosmic connections.<br /><br />Whether you're a geologist, =
+scientist, engineer or simply captivated by the mysteries of the universe, =
+"Secrets of the Winds" promises to take you on an enlightening adventure.<b=
+r /><br />I would be honored if you could share this news with your audienc=
+e. For more information or to request a review copy, please reply to this e=
+mail and visit my engaging website.<br /><br />Thank you for your time and =
+consideration. Enjoy discovering these amazing secrets for yourself!<br /><=
+br />Warm regards,<br /><br />Johnny Tesone, explore@geovortex.net<br />Geo=
+logist, Author, GeoVortex, www.geovortex.net<br><br>---<br><br>Date: May 11=
+, 2024<br>Time: 10:01 am<br>Page URL: https://decisio.co.uk/contact/<br>Use=
+r Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Geck=
+o) Chrome/114.0.0.0 Safari/537.36<br>Remote IP: 149.34.252.18<br>Powered by=
+: Elementor<br>
+
+--1715421683-eximdsn-2060545579--

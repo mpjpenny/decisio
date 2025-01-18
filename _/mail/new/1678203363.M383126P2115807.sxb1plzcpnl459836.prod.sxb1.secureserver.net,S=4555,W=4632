@@ -1,0 +1,77 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id yHEtFuNZB2TfSCAAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 07 Mar 2023 08:36:03 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 07 Mar 2023 08:36:03 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1pZZMB-008wfo-9L
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 07 Mar 2023 08:36:03 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <R1gWOT8x2jKFUx2T7akRahaKKAtOP0bVVyRwvxHlj0@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pZZMB-008wfo-9L@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Tue, 07 Mar 2023 08:36:03 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1pZZM5-008wNX-LX
+	for hello@decisio.CO.uk;
+	Tue, 07 Mar 2023 08:35:57 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 196.247.224.199
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 196.247.224.199
+Date: Tue, 7 Mar 2023 15:35:57 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <R1gWOT8x2jKFUx2T7akRahaKKAtOP0bVVyRwvxHlj0@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Eric Jones<br>Email: ericjonesmyemail@gmail.com<br>Message: Dear deci=
+sio.co.uk Administrator!<br /><br />My name=E2=80=99s Eric and I just found=
+ your site decisio.co.uk.<br /><br />It=E2=80=99s got a lot going for it, b=
+ut here=E2=80=99s an idea to make it even MORE effective.<br /><br />Web Vi=
+sitors Into Leads =E2=80=93 CLICK HERE http://jumboleadmagnet.com for a liv=
+e demo now.<br /><br />Web Visitors Into Leads is a software widget that=
+=E2=80=99s works on your site, ready to capture any visitor=E2=80=99s Name,=
+ Email address and Phone Number.  It signals you the moment they let you kn=
+ow they=E2=80=99re interested =E2=80=93 so that you can talk to that lead w=
+hile they=E2=80=99re literally looking over your site.<br /><br />And once =
+you=E2=80=99ve captured their phone number, with our new SMS Text With Lead=
+ feature, you can automatically start a text (SMS) conversation=E2=80=A6 an=
+d if they don=E2=80=99t take you up on your offer then, you can follow up w=
+ith text messages for new offers, content links, even just =E2=80=9Chow you=
+ doing?=E2=80=9D notes to build a relationship.<br /><br />CLICK HERE http:=
+//jumboleadmagnet.com to discover what Web Visitors Into Leads can do for y=
+our business.<br /><br />The difference between contacting someone within 5=
+ minutes versus a half-hour means you could be converting up to 100X more l=
+eads today!<br /><br />Eric<br />PS: Studies show that 70% of a site=
+=E2=80=99s visitors disappear and are gone forever after just a moment. Don=
+=E2=80=99t keep losing them. <br />Web Visitors Into Leads offers a FREE 14=
+ days trial =E2=80=93 and it even includes International Long Distance Call=
+ing. <br />You have customers waiting to talk with you right now=E2=80=
+=A6 don=E2=80=99t keep them waiting. <br />CLICK HERE http://jumboleadmagne=
+t.com to try Web Visitors Into Leads now.<br /><br />If you'd like to unsub=
+scribe click here http://jumboleadmagnet.com/unsubscribe.aspx?d=3Ddecisio.c=
+o.uk<br><br>---<br><br>Date: March 7, 2023<br>Time: 3:35 pm<br>Page URL: ht=
+tps://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; W=
+in64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/5=
+37.36 OPR/89.0.4447.51<br>Remote IP: 196.247.224.199<br>Powered by: Element=
+or<br>

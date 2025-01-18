@@ -1,0 +1,76 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id qBKfAAyhVWSU6zwAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 05 May 2023 17:36:28 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 05 May 2023 17:36:28 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1pv5uV-00Gl38-V1
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 05 May 2023 17:36:27 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <VfrRZZnjz8obz7FZ1ov1atdX6mIRGpTAotnUjWjD0Q@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1683333387-eximdsn-1671430320
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pv5uV-00Gl38-V1@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 05 May 2023 17:36:27 -0700
+
+--1683333387-eximdsn-1671430320
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 v5uVp04vxlhpH :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Sq9WqtC0 c=1 sm=1 tr=0 ts=6455a10b p=sUn0G23zAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=P0xRbXHiH_UA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=iyJ7l2WipWPPseS9GaIA:9 a=QEXdDO2ut3YA:10 a=wRLxC1EaGjcA:10 a=nwf_nM4JbUoA:10 a=-FEs8UIgK8oA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=bqX_SwUSL1NFD80xsTgi:22 a=6gHDGrHfMDxzFhM6PlMm:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1683333387-eximdsn-1671430320
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 v5uVp04vxlhpH :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Sq9WqtC0 c=1 sm=1 tr=0 ts=6455a10b p=sUn0G23zAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=P0xRbXHiH_UA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=iyJ7l2WipWPPseS9GaIA:9 a=QEXdDO2ut3YA:10 a=wRLxC1EaGjcA:10 a=nwf_nM4JbUoA:10 a=-FEs8UIgK8oA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=bqX_SwUSL1NFD80xsTgi:22 a=6gHDGrHfMDxzFhM6PlMm:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1683333387-eximdsn-1671430320
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1pv5uP-00Gl1b-HI
+	for hello@decisio.CO.uk;
+	Fri, 05 May 2023 17:36:27 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 116.90.74.211
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 116.90.74.211
+Date: Sat, 6 May 2023 00:36:21 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <VfrRZZnjz8obz7FZ1ov1atdX6mIRGpTAotnUjWjD0Q@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: %first name% %last name%<br>Email: abraham.spina@yahoo.com<br>Message: Skyrocket Your Website Traffic Without Breaking the Bank! Are you struggling to get enough traffic to your website? Don't waste any more money on expensive Google AdWords campaigns. Our targeted PPV traffic is the perfect solution for businesses on a budget. For less than 1 cent per view, you can drive real, targeted traffic to your website and watch your business grow. Order now and experience the power of PPV traffic for yourself. http://boosttraffic.tmast.xyz/<br><br>---<br><br>Date: May 6, 2023<br>Time: 12:36 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36<br>Remote IP: 116.90.74.211<br>Powered by: Elementor<br>
+
+
+--1683333387-eximdsn-1671430320--

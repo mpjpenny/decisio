@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id w5kVA4lhiWU75yEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 25 Dec 2023 04:03:37 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 25 Dec 2023 04:03:37 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rHikC-009K0j-3C
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 25 Dec 2023 04:03:37 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <I1hrflFtYkdt3zpNUfW3uuKKCbt0ICIvBRHYZGOQbA@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1703502216-eximdsn-1804304283
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rHikC-009K0j-3C@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 25 Dec 2023 04:03:36 -0700
+
+--1703502216-eximdsn-1804304283
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 HikCr6nfTUddH :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=CMHsHznD c=1 sm=1 tr=0 ts=65896188 p=MTXg8JMWAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=e2cXIFwxEfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=wTF8bfaraIzfHUOhLZEA:9 a=raSsH4MmmTER31nd:21 a=QEXdDO2ut3YA:10 a=r7X5XgksGdsA:10 a=gACUCMY_sR8A:10 a=ealgUijK3eCdvGMrYn6J:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=wu2EB4VPXsr8bmbsc98P:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1703502216-eximdsn-1804304283
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 HikCr6nfTUddH :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=CMHsHznD c=1 sm=1 tr=0 ts=65896188 p=MTXg8JMWAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=e2cXIFwxEfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=wTF8bfaraIzfHUOhLZEA:9 a=raSsH4MmmTER31nd:21 a=QEXdDO2ut3YA:10 a=r7X5XgksGdsA:10 a=gACUCMY_sR8A:10 a=ealgUijK3eCdvGMrYn6J:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=wu2EB4VPXsr8bmbsc98P:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1703502216-eximdsn-1804304283
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rHik7-009Jza-01
+	for hello@decisio.CO.uk;
+	Mon, 25 Dec 2023 04:03:36 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 23.81.70.130
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 23.81.70.130
+Date: Mon, 25 Dec 2023 11:03:30 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <I1hrflFtYkdt3zpNUfW3uuKKCbt0ICIvBRHYZGOQbA@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Theresa Smith<br>Email: glory.craney@gmail.com<br>Message: Hello,<br =
+/><br />Do you sometimes find yourself in a tug of war between work and fit=
+ness? We have the perfect solution for you - Elebands! <br /><br />Elebands=
+ offers ultra-thin, fashionable body weight bands that seamlessly integrate=
+ into your daily routine. Burn up to 1,500 calories a day by simply wearing=
+ our bands on your wrist, ankle, and waist. What's more, we have bands suit=
+able for sports, casual, and formal occasions, ensuring you stay stylish wh=
+ile achieving your fitness goals.<br /><br />With Elebands, you no longer h=
+ave to choose between work and exercise. Our bands enable you to lose weigh=
+t and get fit regardless of your location or activity. Enjoy these instant =
+benefits:<br /><br />1. Burn Calories: Effortlessly burn up to 1,500 calori=
+es daily, toning your body as you go about your day.<br /><br />2. Natural =
+Weight Loss: Say goodbye to intense workouts and stressful diets. Elebands =
+helps you lose weight naturally.<br /><br />3. Build Strength: Develop lean=
+ muscles and enhance your strength as you carry out your regular activities=
+.<br /><br />Imagine achieving your dream body without stepping foot in a g=
+ym or following a strict diet plan. With Elebands, it's possible.<br /><br =
+/>Many of our clients are losing 2-3 pounds per week while experiencing sig=
+nificant health improvements. To help you get started for the NEW YEAR, use=
+ coupon code SAVE-20%-TODAY for a 20% discount. <br /><br />Visit our websi=
+te now at https://bit.ly/elebands and embrace the Elebands experience.<br /=
+><br />Let Elebands be your partner in achieving a fit and healthy lifestyl=
+e. Start your transformation today!<br /><br />Warm regards,<br /><br />The=
+resa Smith<br />Brand Ambassador<br />Elebands USA<br /><br />Visit our web=
+site NOW! https://bit.ly/elebands<br><br>---<br><br>Date: December 25, 2023=
+<br>Time: 11:03 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agen=
+t: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:114.0) Gecko/20100101 Firef=
+ox/114.0<br>Remote IP: 23.81.70.130<br>Powered by: Elementor<br>
+
+--1703502216-eximdsn-1804304283--

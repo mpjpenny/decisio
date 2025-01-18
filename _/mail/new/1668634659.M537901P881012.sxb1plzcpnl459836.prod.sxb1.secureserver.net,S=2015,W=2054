@@ -1,0 +1,39 @@
+Return-Path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 0GghHiNYdWN0cQ0AphIfxA
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 16 Nov 2022 14:37:39 -0700
+Return-path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 16 Nov 2022 14:37:39 -0700
+Received: from root by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1ovQ6F-0042m5-Es
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 16 Nov 2022 14:37:39 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Installatron] WordPress 6.1.1 now available
+Date: Wed, 16 Nov 2022 14:37:39 -0700
+From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Message-ID: <34b3f9cd5c5c3d7b090b5834b6dff78a@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.58 (241)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 6.1.1  is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- https://www.decisio.co.uk
+
+
+The changes for this version are:
+
+This minor release features 29 bug fixes in Core and 21 bug fixes for the block editor.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

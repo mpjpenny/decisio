@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id WHhuNBmn7mbo7yMAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 21 Sep 2024 03:59:37 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 21 Sep 2024 03:59:37 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1srxpx-00A9QD-2b
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 21 Sep 2024 03:59:37 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <NtFCUKJGLTnGckbflxNFQwWjxgmLkzhael8QhzWmSI@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1srxpx-00A9QD-2b@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 21 Sep 2024 03:59:37 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1srxpn-00A8rC-1E
+	for hello@decisio.CO.uk;
+	Sat, 21 Sep 2024 03:59:27 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 154.202.96.239
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 154.202.96.239
+Date: Sat, 21 Sep 2024 10:59:27 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <NtFCUKJGLTnGckbflxNFQwWjxgmLkzhael8QhzWmSI@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Lora Jamison<br>Email: visit-my-link-in-e-mail-thanks@decisio.co.uk<b=
+r>Message: Did you know that 78% of businesses are unsatisfied with their w=
+eb site conversion rates?<br /><br />Don't allow potential customers click =
+back and go to to your competitors!<br /><br />We can design you a Premium =
+Looking & High Converting Website Valued at $10,000 with No High Upfront Fe=
+e.<br /><br />You'll only pay a small monthly upkeep fee.<br /><br />Here i=
+s a video showcasing exactly how we can change your web site into a Lead Ge=
+nerating Machine.<br /><br />Check out:<br />https://yourquicklink.com/ASAL=
+U<br /><br />Many thanks,<br />Ken Lee<br /><br />P.S. This agressive offer=
+ is time-sensitive and will not last. Act fast to safeguard your spot!<br><=
+br>---<br><br>Date: September 21, 2024<br>Time: 10:59 am<br>Page URL: https=
+://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Linux x86_64) Ap=
+pleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.=
+0.4447.51<br>Remote IP: 154.202.96.239<br>Powered by: Elementor<br>

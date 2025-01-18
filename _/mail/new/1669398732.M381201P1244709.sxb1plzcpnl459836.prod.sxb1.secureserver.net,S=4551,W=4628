@@ -1,0 +1,77 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id mO5YFswAgWMl/hIAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 25 Nov 2022 10:52:12 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 25 Nov 2022 10:52:12 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1oycs0-005KXb-AG
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 25 Nov 2022 10:52:12 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <Fgi0Wanw0NQCcTLbia7AAGJvUJYmCJwNbXZZ5hGdc@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1oycs0-005KXb-AG@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 25 Nov 2022 10:52:12 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1oycru-005KVe-Bn
+	for hello@decisio.CO.uk;
+	Fri, 25 Nov 2022 10:52:06 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 160.20.9.214
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 160.20.9.214
+Date: Fri, 25 Nov 2022 17:52:06 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <Fgi0Wanw0NQCcTLbia7AAGJvUJYmCJwNbXZZ5hGdc@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Eric Jones<br>Email: ericjonesmyemail@gmail.com<br>Message: Hi, my na=
+me is Eric and I=E2=80=99m betting you=E2=80=99d like your website decisio.=
+co.uk to generate more leads.<br /><br />Here=E2=80=99s how:<br />Talk With=
+ Web Visitor is a software widget that=E2=80=99s works on your site, ready =
+to capture any visitor=E2=80=99s Name, Email address and Phone Number.  It =
+signals you as soon as they say they=E2=80=99re interested =E2=80=93 so tha=
+t you can talk to that lead while they=E2=80=99re still there at decisio.co=
+.uk.<br /><br />Talk With Web Visitor =E2=80=93 CLICK HERE https://boostlea=
+dgeneration.com for a live demo now.<br /><br />And now that you=E2=80=
+=99ve got their phone number, our new SMS Text With Lead feature enables yo=
+u to start a text (SMS) conversation =E2=80=93 answer questions, provide mo=
+re info, and close a deal that way.<br /><br />If they don=E2=80=99t take y=
+ou up on your offer then, just follow up with text messages for new offers,=
+ content links, even just =E2=80=9Chow you doing?=E2=80=9D notes to build a=
+ relationship.<br /><br />CLICK HERE https://boostleadgeneration.com to dis=
+cover what Talk With Web Visitor can do for your business.<br /><br />The d=
+ifference between contacting someone within 5 minutes versus a half-hour me=
+ans you could be converting up to 100X more leads today!<br /><br />Try Tal=
+k With Web Visitor and get more leads now.<br /><br />Eric<br />PS: The stu=
+dies show 7 out of 10 visitors don=E2=80=99t hang around =E2=80=93 you can=
+=E2=80=99t afford to lose them!<br />Talk With Web Visitor offers a FREE 14=
+ days trial =E2=80=93 and it even includes International Long Distance Call=
+ing. <br />You have customers waiting to talk with you right now=E2=80=
+=A6 don=E2=80=99t keep them waiting. <br />CLICK HERE https://boostleadgene=
+ration.com to try Talk With Web Visitor now.<br /><br />If you'd like to un=
+subscribe click here http://boostleadgeneration.com/unsubscribe.aspx?d=3Dde=
+cisio.co.uk<br><br>---<br><br>Date: November 25, 2022<br>Time: 5:52 pm<br>P=
+age URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Li=
+nux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/53=
+7.36 Vivaldi/5.3.2679.68<br>Remote IP: 160.20.9.214<br>Powered by: Elemento=
+r<br>

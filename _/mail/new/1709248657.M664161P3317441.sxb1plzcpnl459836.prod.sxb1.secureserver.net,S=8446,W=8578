@@ -1,0 +1,132 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id sHwuJ5EQ4WXBnjIAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 29 Feb 2024 16:17:37 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 29 Feb 2024 16:17:37 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rfpej-00DvLm-1y
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 29 Feb 2024 16:17:37 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <QifoQbNFGHYJD6o7l0C32zwBBRUqCSEK06Y73XJgLo@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1709248657-eximdsn-2007711174
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rfpej-00DvLm-1y@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 29 Feb 2024 16:17:37 -0700
+
+--1709248657-eximdsn-2007711174
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 fpejr9uo80bZc :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=H9l4wPYi c=1 sm=1 tr=0 ts=65e11091 p=PRawojXUAAAA:20 p=dUzz2EJ5dEcA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=k7vzHIieQBIA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=84cTXm3vAAAA:8 a=rxe1KbVLsr8izzNINJEA:9 a=nrPz1BaIkzLnyVy5:21 a=QEXdDO2ut3YA:10 a=DYxRminitGMA:10 a=_IoopY5kV8CjjPSQZ05f:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 a=3gWm3jAn84ENXaBijsEo:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1709248657-eximdsn-2007711174
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 fpejr9uo80bZc :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=H9l4wPYi c=1 sm=1 tr=0 ts=65e11091 p=PRawojXUAAAA:20 p=dUzz2EJ5dEcA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=k7vzHIieQBIA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=84cTXm3vAAAA:8 a=rxe1KbVLsr8izzNINJEA:9 a=nrPz1BaIkzLnyVy5:21 a=QEXdDO2ut3YA:10 a=DYxRminitGMA:10 a=_IoopY5kV8CjjPSQZ05f:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 a=3gWm3jAn84ENXaBijsEo:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1709248657-eximdsn-2007711174
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rfped-00Dv8X-0B
+	for hello@decisio.CO.uk;
+	Thu, 29 Feb 2024 16:17:37 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 184.174.24.156
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 184.174.24.156
+Date: Thu, 29 Feb 2024 23:17:30 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <QifoQbNFGHYJD6o7l0C32zwBBRUqCSEK06Y73XJgLo@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Sofia Buck<br>Email: buck.sofia@googlemail.com<br>Message: Do you wan=
+t to profit in 2024?<br /><br />You have infinite options:<br /><br />Affil=
+iate marketing... writing content... build your own app... become an influe=
+ncer...<br /><br />In all the years I've been online, I've tried ALL of the=
+se methods (and 100s more)<br /><br />But, millions later - there's ONE met=
+hod I recommend - above all others:<br /><br />Selling your own digital pro=
+duct.<br /><br />And more specifically...<br /><br />Selling your own softw=
+are product, in the Internet marketing niche, and promoting it with affilia=
+te traffic.<br /><br />Now...<br /><br />That sounds eerily specific - and =
+it is. Because...<br /><br />I shouldn't need to "convince" you this method=
+ works.<br /><br />Chances are you got on this list because you at some poi=
+nt bought a marketing software!<br /><br />The fact you're reading this is =
+proof that this method works.<br /><br />And... how many marketing tools ha=
+ve you bought to get here?<br /><br />But don't think yours is a unique sit=
+uation...<br /><br />Every week millions buy marketing products in this sam=
+e way.<br /><br />You've probably worked this out a long time ago... you al=
+ready know it's a billion-dollar business...<br /><br />But, until now, you=
+ might have thought:<br /><br />"yeah but there's no way I could do that, s=
+o I'll just look at the other methods out there..."<br /><br />Maybe you co=
+ncluded:<br /><br />=E2=80=A2 You can't create your own software products<b=
+r />=E2=80=A2 You don't know any big affiliates who would promote you<br />=
+=E2=80=A2 There's no way you could create a professional sales website<br /=
+>=E2=80=A2 You simply could never afford a $5k copywriter to write a script=
+<br />=E2=80=A2 Nor can you do all the "little" jobs like logo creation, ec=
+overs etc<br /><br />And most of all you probably decided...<br /><br />"I =
+would love to have my own legit, unique software business... but just don't=
+ know how to put it all together"<br /><br />Well, guess what...<br /><br /=
+>I've just come across a $20 million marketer who automated and simplified =
+all these steps.<br /><br />How?<br /><br />By REMIXING what other six-figu=
+re marketers are doing.<br /><br />And then automated this entire process!<=
+br /><br />This marketer's name is CHRIS, and...<br /><br />This is somethi=
+ng he's been working on for over 2 years!<br /><br />In fact, he tried to a=
+utomate this #1 method... for over a decade...<br /><br />But it's such a b=
+ig, hairy problem, that he just couldn't crack it... until now.<br /><br />=
+And, as of today, it's here!<br /><br />Now, I can say that, for the first =
+time ever, anyone can tap into the ultimate business model on the planet:<b=
+r /><br />Selling your own Internet marketing software.<br /><br />OK, so h=
+ere's the score...<br /><br />Go see yourself:<br /><br />=3D=3D> https://b=
+it.ly/3wBpUDq<br /><br />You won't find a better solution for you to plug i=
+nto the #1 business on the planet.<br /><br />OK, enough talk.<br /><br />I=
+f you're at all curious about what he's up to, then hit this link and watch=
+ the intro video...<br /><br />At the very least, it will show you some inf=
+ormation that no-one has disclosed before.<br /><br />OK, here's that link:=
+<br /><br />Click Here <br /><br />=3D=3D> https://bit.ly/3wBpUDq<br /><br =
+/>Thanks<br /><br />P.S. This offer is running for the last few weeks of Fe=
+bruary.<br /><br />Then early March Chris is going to increase the price.<b=
+r /><br />He threw everything at this, including the kitchen sink...<br /><=
+br />He spent $200k+ to make this software for you.<br /><br />That's the g=
+ood news. The bad news? It's due a price increase.<br /><br />No joke. Go h=
+ere to see what I mean...<br /><br />=3D=3D> https://bit.ly/3wBpUDq<br><br>=
+---<br><br>Date: February 29, 2024<br>Time: 11:17 pm<br>Page URL: https://d=
+ecisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Linux i686; rv:114.0=
+) Gecko/20100101 Firefox/114.0<br>Remote IP: 184.174.24.156<br>Powered by: =
+Elementor<br>
+
+--1709248657-eximdsn-2007711174--

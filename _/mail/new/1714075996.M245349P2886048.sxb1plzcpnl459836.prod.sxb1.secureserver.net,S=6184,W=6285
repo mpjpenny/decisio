@@ -1,0 +1,101 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id UI8IDly5KmagCSwAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 25 Apr 2024 13:13:16 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 25 Apr 2024 13:13:16 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1s05T2-00C99E-0Z
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 25 Apr 2024 13:13:16 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <K5gEHM6ipIuX637pxNQBp24W6hYcgtJzjRRs8eBHPI@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1714075996-eximdsn-110605859
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s05T2-00C99E-0Z@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 25 Apr 2024 13:13:16 -0700
+
+--1714075996-eximdsn-110605859
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 05T1s0he5l0NE :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Dsid+3/+ c=1 sm=1 tr=0 ts=662ab95c p=uzPWGHowAAAA:20 p=TvWRa5ZCAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=raytVjVEu-sA:10 a=c7naqG_xe-4A:10 a=69EAbJreAAAA:8 a=KUQr3tD5AAAA:8 a=84cTXm3vAAAA:8 a=FwlhXcAIBO_XlpNFM-wA:9 a=R5vBbkTTh6tJCxQN:21 a=QEXdDO2ut3YA:10 a=M0yVUN89p6AA:10 a=wzmlLkLeoHwA:10 a=vZ58IfPJz7trksYpzNG-:22 a=jm-cKMIgiG4ugzXbiadQ:22 a=s-IdzocFuPaj0h32AGQ3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1714075996-eximdsn-110605859
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 05T1s0he5l0NE :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Dsid+3/+ c=1 sm=1 tr=0 ts=662ab95c p=uzPWGHowAAAA:20 p=TvWRa5ZCAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=raytVjVEu-sA:10 a=c7naqG_xe-4A:10 a=69EAbJreAAAA:8 a=KUQr3tD5AAAA:8 a=84cTXm3vAAAA:8 a=FwlhXcAIBO_XlpNFM-wA:9 a=R5vBbkTTh6tJCxQN:21 a=QEXdDO2ut3YA:10 a=M0yVUN89p6AA:10 a=wzmlLkLeoHwA:10 a=vZ58IfPJz7trksYpzNG-:22 a=jm-cKMIgiG4ugzXbiadQ:22 a=s-IdzocFuPaj0h32AGQ3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1714075996-eximdsn-110605859
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1s05Sv-00C97C-2D
+	for hello@decisio.CO.uk;
+	Thu, 25 Apr 2024 13:13:15 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 192.126.226.202
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 192.126.226.202
+Date: Thu, 25 Apr 2024 20:13:09 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <K5gEHM6ipIuX637pxNQBp24W6hYcgtJzjRRs8eBHPI@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Rodney Maruff<br>Email: maruff.rodney@hotmail.com<br>Message: Hi,<br =
+/><br />Are you looking for a way to create a sustainable online business w=
+ith minimal effort? Let me introduce you to the PLR Empire Builder=E2=80=
+=94your ticket to a thriving digital product business.<br /><br />With the =
+PLR Empire Builder, you get access to 10 million PLR (Private Label Rights)=
+ digital products that you can use, rebrand, and resell as your own. This i=
+s a game-changer for entrepreneurs, content creators, and anyone who wants =
+to build a business without starting from scratch.<br /><br />Here's what y=
+ou get with the PLR Empire Builder:<br /><br />- 10 million high-quality di=
+gital products, including Canva designs, articles, videos, and more.<br />-=
+ Full commercial rights to use and resell these products.<br />- The freedo=
+m to customize and rebrand to fit your style.<br />- A risk-free 30-day mon=
+ey-back guarantee.<br /><br /><br />Ready to start building your PLR empire=
+? Click the link below to learn more and grab this incredible offer while i=
+t's still available.<br /><br />Check it now: https://tinyurl.com/plrempire=
+builder<br /><br />Best regards!<br /><br /><br /><br />In order to unsubsc=
+ribe your website from this list, please click here: https://seo-first-page=
+.com/unsubscribe/<br /><br />333 Summer Street . Boston, MA 02210 . Privacy=
+ Policy . Anti-spam Policy . www.goto.com/webinar =C2=A92024 GoTo, Inc.<br>=
+<br>---<br><br>Date: April 25, 2024<br>Time: 8:13 pm<br>Page URL: https://d=
+ecisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64=
+; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 192.126.226.202<br>P=
+owered by: Elementor<br>
+
+--1714075996-eximdsn-110605859--

@@ -1,0 +1,35 @@
+Return-Path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id ICdaO3uJgGMi1CQAphIfxA
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 25 Nov 2022 02:23:07 -0700
+Return-path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 25 Nov 2022 02:23:08 -0700
+Received: from root by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1oyUvL-00AO6W-Up
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 25 Nov 2022 02:23:07 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Installatron] WordPress plugin Limit Login Attempts Reloaded 2.25.9 now available
+Date: Fri, 25 Nov 2022 02:23:07 -0700
+From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Message-ID: <ba03647aa36a8908ec16ac5d10aee7cb@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.58 (241)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to Limit Login Attempts Reloaded 2.25.9 is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- https://www.decisio.co.uk
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

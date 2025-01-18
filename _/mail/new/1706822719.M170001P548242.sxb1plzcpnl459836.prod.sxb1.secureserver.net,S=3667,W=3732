@@ -1,0 +1,65 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id yrw6BT8MvGWSXQgAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 01 Feb 2024 14:25:19 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 01 Feb 2024 14:25:19 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rVeYg-002Ic8-0v
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 01 Feb 2024 14:25:18 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <Jyv5uvxBP6aAh3C8Sw30xTqToxsY4KykyToctisnI@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rVeYg-002Ic8-0v@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 01 Feb 2024 14:25:18 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rVeYa-002Ia5-2t
+	for hello@decisio.CO.uk;
+	Thu, 01 Feb 2024 14:25:12 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 89.23.103.224
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 89.23.103.224
+Date: Thu, 1 Feb 2024 21:25:12 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <Jyv5uvxBP6aAh3C8Sw30xTqToxsY4KykyToctisnI@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Blake Clemes<br>Email: blake.clemes@outlook.com<br>Message: Hi decisi=
+o<br /><br />We are proud to present our new website for all your B2B and B=
+2C data and advertising needs. <br /><br />https://decisio.marketingfriend.=
+biz<br /><br />We offer a large range of products and to assist you in gett=
+ing ahead this new yeah with better advertising and reaching more clients i=
+n your specific niche. Our products include all of the following: <br /><br=
+ />We provide a free live search on site so you can see the amount and type=
+ of data we provide.<br />Pre-compiled B2B and B2C data sets with all the n=
+ecessary fields\columns included to assist you reach your clients.<br />If =
+we do not currently have the data you are looking for we are also willing t=
+o assist with custom data collection.<br />Mail servers setup for you able =
+to send over a million mails per day or as per your specifications.<br /><b=
+r />=E2=80=9CStopping advertising to save money is like stopping your watch=
+ to save time.=E2=80=9D Henry Ford. <br /><br />https://decisio.marketingfr=
+iend.biz<br /><br />Regards,<br />MarketingFriend.biz<br><br>---<br><br>Dat=
+e: February 1, 2024<br>Time: 9:25 pm<br>Page URL: https://decisio.co.uk/con=
+tact/<br>User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KH=
+TML, like Gecko) Chrome/114.0.0.0 Safari/537.36<br>Remote IP: 89.23.103.224=
+<br>Powered by: Elementor<br>

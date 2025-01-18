@@ -1,0 +1,108 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id sOQLI9D1JmVXPx8AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 11 Oct 2023 12:21:52 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 11 Oct 2023 12:21:52 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1qqemG-008am3-HB
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 11 Oct 2023 12:21:52 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <ob2I9GuPonIbMkRSiezpMBjbdaBw3LLmHj8hdGggYo@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1697052112-eximdsn-1185842415
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qqemG-008am3-HB@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Wed, 11 Oct 2023 12:21:52 -0700
+
+--1697052112-eximdsn-1185842415
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 qemGqdEEljmSy :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=COPsHznD c=1 sm=1 tr=0 ts=6526f5d0 p=kEDBsHewAAAA:20 p=LbYH2qZkAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=bhdUkHdE2iEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=Xxj0ncaqgeYJ6eYqIz4A:9 a=MG4LbYOrmj5SN9uO:21 a=QEXdDO2ut3YA:10 a=hCnhmpw-GlUA:10 a=AWHbcYPWEh4A:10 a=qslDT6vJUac-GQjyy3eE:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=qYY-0e5v0Ec2vUMr2GDV:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1697052112-eximdsn-1185842415
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 qemGqdEEljmSy :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=COPsHznD c=1 sm=1 tr=0 ts=6526f5d0 p=kEDBsHewAAAA:20 p=LbYH2qZkAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=bhdUkHdE2iEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=Xxj0ncaqgeYJ6eYqIz4A:9 a=MG4LbYOrmj5SN9uO:21 a=QEXdDO2ut3YA:10 a=hCnhmpw-GlUA:10 a=AWHbcYPWEh4A:10 a=qslDT6vJUac-GQjyy3eE:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=qYY-0e5v0Ec2vUMr2GDV:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1697052112-eximdsn-1185842415
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1qqem5-008agM-0P
+	for hello@decisio.CO.uk;
+	Wed, 11 Oct 2023 12:21:52 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 196.245.152.74
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 196.245.152.74
+Date: Wed, 11 Oct 2023 19:21:40 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <ob2I9GuPonIbMkRSiezpMBjbdaBw3LLmHj8hdGggYo@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Eric Jones<br>Email: ericjonesmyemail@gmail.com<br>Message: Hi decisi=
+o.co.uk Administrator. my name is Eric and I=E2=80=99m betting you=E2=80=
+=99d like your website decisio.co.uk to generate more leads.<br /><br />Her=
+e=E2=80=99s how:<br />Web Visitors Into Leads is a software widget that=
+=E2=80=99s works on your site, ready to capture any visitor=E2=80=99s Name,=
+ Email address and Phone Number.  It signals you as soon as they say they=
+=E2=80=99re interested =E2=80=93 so that you can talk to that lead while th=
+ey=E2=80=99re still there at decisio.co.uk.<br /><br />Web Visitors Into Le=
+ads =E2=80=93 CLICK HERE https://bit.ly/leadgenerationd for a live demo now=
+.<br /><br />And now that you=E2=80=99ve got their phone number, our new SM=
+S Text With Lead feature enables you to start a text (SMS) conversation =
+=E2=80=93 answer questions, provide more info, and close a deal that way.<b=
+r /><br />If they don=E2=80=99t take you up on your offer then, just follow=
+ up with text messages for new offers, content links, even just =E2=80=
+=9Chow you doing?=E2=80=9D notes to build a relationship.<br /><br />CLICK =
+HERE https://bit.ly/leadgenerationd to discover what Web Visitors Into Lead=
+s can do for your business.<br /><br />The difference between contacting so=
+meone within 5 minutes versus a half-hour means you could be converting up =
+to 100X more leads today!<br /><br />Try Web Visitors Into Leads and get mo=
+re leads now.<br /><br />Eric<br />PS: The studies show 7 out of 10 visitor=
+s don=E2=80=99t hang around =E2=80=93 you can=E2=80=99t afford to lose them=
+!<br />Web Visitors Into Leads offers a FREE 14 days trial =E2=80=93 and it=
+ even includes International Long Distance Calling. <br />You have customer=
+s waiting to talk with you right now=E2=80=A6 don=E2=80=99t keep them waiti=
+ng. <br />CLICK HERE https://bit.ly/leadgenerationd to try Web Visitors Int=
+o Leads now.<br /><br />If you'd like to unsubscribe click here https://bit=
+.ly/3rD0G5c<br><br>---<br><br>Date: October 11, 2023<br>Time: 7:21 pm<br>Pa=
+ge URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Ubu=
+ntu; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 196.2=
+45.152.74<br>Powered by: Elementor<br>
+
+--1697052112-eximdsn-1185842415--

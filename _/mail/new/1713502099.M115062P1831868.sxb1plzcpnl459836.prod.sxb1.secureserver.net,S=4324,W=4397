@@ -1,0 +1,73 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id GM1LBpP3IWa88xsAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 18 Apr 2024 21:48:19 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 18 Apr 2024 21:48:19 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rxgAd-007rIt-07
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 18 Apr 2024 21:48:19 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <R8J3XD1HaJ2yCjP5pt3M7jh6RkXxH54ibAPldtW360@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rxgAd-007rIt-07@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 18 Apr 2024 21:48:19 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rxgAX-007rGc-0L
+	for hello@decisio.CO.uk;
+	Thu, 18 Apr 2024 21:48:13 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 147.45.50.5
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 147.45.50.5
+Date: Fri, 19 Apr 2024 04:48:12 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <R8J3XD1HaJ2yCjP5pt3M7jh6RkXxH54ibAPldtW360@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Rebecca Devine<br>Email: marketing@pcxresponder.com<br>Message: Hi,<b=
+r /><br />I hope this email finds you well. I wanted to reach out to you to=
+day to discuss logo products and apparel for your business.<br /><br />Quic=
+k question: Who would be the best contact to discuss your company logo prod=
+ucts and apparel such as:<br /><br />-Printed T-shirts<br />-Logo mugs<br /=
+>-Branded water bottles<br />-Custom USB flash drives<br />-Logo pens<br />=
+-plus 300,000 other products for your business<br /><br />https://decisio.m=
+arketingeee.com/<br /><br />With over two decades of experience in the prom=
+otional products industry, our company is dedicated to helping businesses l=
+ike yours leave a lasting impression.<br /><br />Our wide range of custom-b=
+randed merchandise is designed to elevate your brand, foster customer loyal=
+ty, and drive sales.<br /><br />From captivating trade show giveaways to th=
+oughtful employee incentive programs and impressive corporate gifts, we hav=
+e the expertise to create unique promotional items tailored to your specifi=
+c needs. Our team of promo product specialists will guide you through the e=
+ntire process, from selecting the perfect items for your business to design=
+ing and creating custom logos that speak to your brand identity.<br /><br /=
+>As your one-stop-shop for branded merchandise, we ensure top-quality finis=
+hed products are delivered right to your doorstep, making the process seaml=
+ess and hassle-free.<br /><br />Let's connect and explore how our promotion=
+al products can enhance your brand awareness and fuel business growth. <br =
+/><br /><br />Thank you for your time, and we look forward to hearing from =
+you soon.<br /><br />Best regards,<br />Creative Specialist<br />Branded Pr=
+oducts<br />https://decisio.marketingeee.com/<br><br>---<br><br>Date: April=
+ 19, 2024<br>Time: 4:48 am<br>Page URL: https://decisio.co.uk/contact/<br>U=
+ser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:114.0) Gecko/201001=
+01 Firefox/114.0<br>Remote IP: 147.45.50.5<br>Powered by: Elementor<br>

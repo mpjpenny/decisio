@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id +HmWC08m+WVYkxkAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 18 Mar 2024 22:44:47 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 18 Mar 2024 22:44:47 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rmSHH-00723X-0R
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 18 Mar 2024 22:44:47 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <w2aZiO80Tnnt66YPYs4cLKGw837IqKu6L6F1nGBaH4@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710827087-eximdsn-1991679461
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rmSHH-00723X-0R@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 18 Mar 2024 22:44:47 -0700
+
+--1710827087-eximdsn-1991679461
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 mSHGrXyKTiIeV :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=BZd70at2 c=1 sm=1 tr=0 ts=65f9264f p=-WVHujjdEY4A:10 p=romyoy8hchc7eG8C-YnN:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=WxNkWaPgAAAA:20 a=84cTXm3vAAAA:8 a=qfso54oAxHLVTx-q0FYA:9 a=k2MhQGYcxX5Rw6gN:21 a=QEXdDO2ut3YA:10 a=ZpNG6CsoVOEA:10 a=Od_yzDN85mQA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 a=xecEbDyFB-M9ftTpyGFN:22 a=pMT1dy21Qka_sF136-ZS:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1710827087-eximdsn-1991679461
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 mSHGrXyKTiIeV :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=BZd70at2 c=1 sm=1 tr=0 ts=65f9264f p=-WVHujjdEY4A:10 p=romyoy8hchc7eG8C-YnN:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=WxNkWaPgAAAA:20 a=84cTXm3vAAAA:8 a=qfso54oAxHLVTx-q0FYA:9 a=k2MhQGYcxX5Rw6gN:21 a=QEXdDO2ut3YA:10 a=ZpNG6CsoVOEA:10 a=Od_yzDN85mQA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 a=xecEbDyFB-M9ftTpyGFN:22 a=pMT1dy21Qka_sF136-ZS:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1710827087-eximdsn-1991679461
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rmSH9-00721f-0a
+	for hello@decisio.CO.uk;
+	Mon, 18 Mar 2024 22:44:46 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 23.80.158.22
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 23.80.158.22
+Date: Tue, 19 Mar 2024 05:44:39 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <w2aZiO80Tnnt66YPYs4cLKGw837IqKu6L6F1nGBaH4@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Grant Lira<br>Email: growthpartners13@gmail.com<br>Message: Monthly, =
+you'll be featured on 3 podcasts + 15 professionally edited short-form soci=
+al media videos from these podcasts, and have 3 online publication features=
+ - completely DFY.<br /><br />We=E2=80=99ve helped 43 clients do just that =
+to build their thought leadership in their specific industry which has help=
+ed them:<br /><br />- Generate more appointments<br />- Close at a higher %=
+ (Because they built authority before the meeting even started)<br />- Char=
+ge higher amounts because people view their company as a premium option <br=
+ /><br />Interested? We are raising our service by 22 % on April 15th, but =
+if we chat before then, you=E2=80=99ll be locked in at the current amount. =
+We can chat here:<br /><br />https://bit.ly/empathyfirm-30-minute-meeting<b=
+r /><br />Best,<br />Grant<br /><br />PS - I will not see your response so =
+if you have a question, book a time to chat (:<br /><br /><br /><br />N6565=
+ Shorewood Hills Rd. Lake Mills WI, 53551<br />Email unsubnow1@gmail.com wi=
+th your website to =E2=80=9Cunsub=E2=80=9D meaning you will not hear from m=
+e again.<br><br>---<br><br>Date: March 19, 2024<br>Time: 5:44 am<br>Page UR=
+L: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10=
+.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Saf=
+ari/537.36 Vivaldi/5.3.2679.68<br>Remote IP: 23.80.158.22<br>Powered by: El=
+ementor<br>
+
+--1710827087-eximdsn-1991679461--

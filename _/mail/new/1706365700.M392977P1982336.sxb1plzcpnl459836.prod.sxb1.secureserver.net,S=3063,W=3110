@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id cGBPFwQTtWWAPx4AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 27 Jan 2024 07:28:20 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 27 Jan 2024 07:28:20 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rTjfQ-008Kts-14
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 27 Jan 2024 07:28:20 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <bw2DDEuTYKEiLe4RmRPCkO4AOjKL8s7eZoMhOwU@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rTjfQ-008Kts-14@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 27 Jan 2024 07:28:20 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rTjfK-008Ksn-1R
+	for hello@decisio.CO.uk;
+	Sat, 27 Jan 2024 07:28:14 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 64.120.34.97
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 64.120.34.97
+Date: Sat, 27 Jan 2024 14:28:14 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <bw2DDEuTYKEiLe4RmRPCkO4AOjKL8s7eZoMhOwU@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Mark Shultz<br>Email: marks333@gmail.com<br>Message: Boost your business revenue effortlessly with ProfitMarc! Our AI-driven platform writes and sends high-converting emails for you, targeting fresh, pre-qualified leads. <br /><br />With our state-of-the-art delivery system, see a significant increase in engagement and sales. Don't miss out on the easiest way to enhance your marketing strategy and drive profits. <br /><br />Click Below to explore ProfitMarc and start generating leads!<br /><br />https://aiandcompanybest.com<br /><br />Mark<br><br>---<br><br>Date: January 27, 2024<br>Time: 2:28 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36<br>Remote IP: 64.120.34.97<br>Powered by: Elementor<br>
+

@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 4OmzGCanbWaiaDkAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 15 Jun 2024 07:37:26 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 15 Jun 2024 07:37:26 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sIUX0-00Fmod-18
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 15 Jun 2024 07:37:26 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <dQPfV69WJkfNtDbd656fjUfuEa3F5OwmIG5NWo@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sIUX0-00Fmod-18@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 15 Jun 2024 07:37:26 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sIUWr-00FmmU-1N
+	for hello@decisio.CO.uk;
+	Sat, 15 Jun 2024 07:37:17 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 196.39.83.117
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 196.39.83.117
+Date: Sat, 15 Jun 2024 14:37:17 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <dQPfV69WJkfNtDbd656fjUfuEa3F5OwmIG5NWo@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Fred Spruill<br>Email: johan@pcxleads.com<br>Message: Hi,<br /><br />This is crazy, we are building mobile Apps for $50.<br /><br />Get your iOS and Android App!<br /><br />Why are we doing this? Well, we are building a lot for cheap.<br /><br />Visit us https://pcxleads.com/welcome.php?domain=decisio.co.uk<br><br>---<br><br>Date: June 15, 2024<br>Time: 2:37 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12.5; rv:102.0) Gecko/20100101 Firefox/102.0<br>Remote IP: 196.39.83.117<br>Powered by: Elementor<br>
+

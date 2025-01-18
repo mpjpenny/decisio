@@ -1,0 +1,77 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id aN93DtHPimfiKQ8AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 17 Jan 2025 14:46:57 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 17 Jan 2025 14:46:57 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1tYuB7-004EsD-0a
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 17 Jan 2025 14:46:57 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <85R5kUlnTvhR30jOMB9zzoFQ1374wc6lMDBsNOESl8@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737150417-eximdsn-1077143682
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tYuB7-004EsD-0a@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 17 Jan 2025 14:46:57 -0700
+
+--1737150417-eximdsn-1077143682
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 YuB6tmKWa6ZZv :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=fKnD3Yae c=1 sm=1 tr=0 ts=678acfd1 p=S4BP8z_j4heimQlXPe4A:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=VdSt8ZQiCzkA:10 a=c7naqG_xe-4A:10 a=tq-c_JH7AAAA:8 a=84cTXm3vAAAA:8 a=gn40NRiL0JsEshHg:21 a=QEXdDO2ut3YA:10 a=8oSLP-TtZni-YYkx1wTi:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1737150417-eximdsn-1077143682
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 YuB6tmKWa6ZZv :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=fKnD3Yae c=1 sm=1 tr=0 ts=678acfd1 p=S4BP8z_j4heimQlXPe4A:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=VdSt8ZQiCzkA:10 a=c7naqG_xe-4A:10 a=tq-c_JH7AAAA:8 a=84cTXm3vAAAA:8 a=gn40NRiL0JsEshHg:21 a=QEXdDO2ut3YA:10 a=8oSLP-TtZni-YYkx1wTi:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1737150417-eximdsn-1077143682
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1tYuAn-004Eoy-1Q
+	for hello@decisio.CO.uk;
+	Fri, 17 Jan 2025 14:46:56 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+Date: Fri, 17 Jan 2025 21:46:37 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <85R5kUlnTvhR30jOMB9zzoFQ1374wc6lMDBsNOESl8@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Vernell<br>Email: info@carnegie.caredogbest.com<br>Message: Hey there <br /><br />I wanted to reach out and let you know about our new dog harness. It's really easy to put on and take off - in just 2 seconds - and it's personalized for each dog. <br />Plus, we offer a lifetime warranty so you can be sure your pet is always safe and stylish.<br /><br />We've had a lot of success with it so far and I think your dog would love it. <br /><br />Get yours today with 50% OFF:  https://caredogbest.com<br /><br />FREE Shipping - TODAY ONLY! <br /><br />Regards, <br /><br />Vernell<br><br>---<br><br>Date: January 17, 2025<br>Time: 9:46 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 162.253.129.212<br>Powered by: Elementor<br>
+
+
+--1737150417-eximdsn-1077143682--

@@ -1,0 +1,73 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id WPlKLCsJtmaVVjMAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 09 Aug 2024 05:18:51 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 09 Aug 2024 05:18:51 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1scOa3-00ECgH-2C
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 09 Aug 2024 05:18:51 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <Xfh6rOR7nusSwmbfq4lgsmuV1fnBMh9RQHxbagAQXMY@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1scOa3-00ECgH-2C@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 09 Aug 2024 05:18:51 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1scOZt-00ECeK-2L
+	for hello@decisio.CO.uk;
+	Fri, 09 Aug 2024 05:18:41 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 104.252.131.17
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 104.252.131.17
+Date: Fri, 9 Aug 2024 12:18:41 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <Xfh6rOR7nusSwmbfq4lgsmuV1fnBMh9RQHxbagAQXMY@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Natasha Draper<br>Email: natasha@foremedia.net<br>Message: Hey, I vis=
+ited your site and I think that your content is amazing! It is really engag=
+ing and original, you must have worked so hard to generate such a quality c=
+ontent.<br /><br />My name is Natasha from ForeMedia and I help website own=
+ers with great websites to maximize the revenue they make from their websit=
+e.<br /><br />I would love to buy Ad Spaces on your website and pay you per=
+ each impression of the ads on your site. We are Google Ad Exchange Premium=
+ partners and we work with more than 100 Ad Network & thousands of premium =
+direct advertisers who would LOVE to buy Ads directly from your site and we=
+ can guarantee to increase your revenue by at least 45% compared to other a=
+dvertising solutions you are currently using.<br /><br />You deserve to ear=
+n more for your content and maximize your earning potential and I will help=
+ you unlock that potential!<br /><br />There is no cost, you can register t=
+o our monetization platform for free on this link: https://foremedia.pro/54=
+UG4<br />I will be available for you on the Live Chat if you need any help,=
+ or you can email me back to: natasha@foremedia.pro if you have any questio=
+ns.<br /><br />I have at least 17 Premium Advertisers that have asked me to=
+ approach you because they would like to advertise on your website on Premi=
+um eCPM [cost per impressions] basis.<br /><br />Have a good day & feel fre=
+e to ping me for any question!<br /><br />Click the link here for 1 minute =
+registration to our platform [it's free!]: https://foremedia.pro/54UG4<br /=
+><br />ForeMedia - Earn Money With Your Website<br />https://foremedia.pro/=
+54UG4<br><br>---<br><br>Date: August 9, 2024<br>Time: 12:18 pm<br>Page URL:=
+ https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0=
+; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safar=
+i/537.36 OPR/89.0.4447.51<br>Remote IP: 104.252.131.17<br>Powered by: Eleme=
+ntor<br>

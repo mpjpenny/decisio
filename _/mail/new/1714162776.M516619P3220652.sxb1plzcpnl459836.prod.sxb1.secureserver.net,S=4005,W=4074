@@ -1,0 +1,69 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id uD/qHVgMLGasJDEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 26 Apr 2024 13:19:36 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 26 Apr 2024 13:19:36 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1s0S2i-00DXZ2-1M
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 26 Apr 2024 13:19:36 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <3GQ8giiTCTvBcvXcIBy2Gne5RbmSgyRRan1LL0M@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1s0S2i-00DXZ2-1M@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 26 Apr 2024 13:19:36 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1s0S2c-00DXKx-1Y
+	for hello@decisio.CO.uk;
+	Fri, 26 Apr 2024 13:19:30 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 149.34.252.9
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 149.34.252.9
+Date: Fri, 26 Apr 2024 20:19:30 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <3GQ8giiTCTvBcvXcIBy2Gne5RbmSgyRRan1LL0M@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Travi Ng<br>Email: travis.lopez@trychat2leads.com<br>Message: Get Mor=
+e Leads and Increase Conversions with 24/7 Chat that works on Complete Auto=
+pilot!<br /><br />Customer Support Chatbots are Perfect for Any Website<br =
+/><br />Increase Engagement - Chat2Leads actively engages all your visitors=
+ making it the ultimate Conversion Optimization Tool to have installed on y=
+our website!<br />Unlimited Chats - Unlike other Website Chat Services, Cha=
+t2Leads puts zero restrictions on how many chats you can have with your vis=
+itors every month!<br />Fresh Leads - Every new lead is emailed directly to=
+ your inbox so you can follow-up right away!<br /><br />Everything included=
+ for just $ 35/mo<br /><br />Real Customer Review:<br /><br />=E2=80=9CI've=
+ seen an immediate benefit to adding a chatbot... that I've been telling ot=
+her local business owners I'm friends with. I'm finally receiving leads fro=
+m my website!=E2=80=9D Nicole W. =E2=80=93 Bankruptcy Law Firm in West Palm=
+ Beach, Florida<br /><br />Real Case Study:<br /><br />Within minutes of in=
+stalling Chat2Leads on Petflapsuk.com they had their first lead, and ever s=
+ince have been converting an average of 15% of their visitors into fresh le=
+ads for their business. They have seen such a great success from the chatbo=
+t that it has already paid for itself for years to come. <br /><br />Find o=
+ut more now at: https://chat2leads.com <br /><br />Thank you,<br />Travis<b=
+r><br>---<br><br>Date: April 26, 2024<br>Time: 8:19 pm<br>Page URL: https:/=
+/decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Linux i686) AppleW=
+ebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3=
+.2679.68<br>Remote IP: 149.34.252.9<br>Powered by: Elementor<br>

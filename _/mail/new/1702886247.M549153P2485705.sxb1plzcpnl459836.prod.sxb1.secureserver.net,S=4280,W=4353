@@ -1,0 +1,73 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 1m4rIGf7f2XJ7SUAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 18 Dec 2023 00:57:27 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 18 Dec 2023 00:57:27 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rF8VD-00AQdu-1W
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 18 Dec 2023 00:57:27 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <7iGwfBmCqN2I2RWHbaNT9DDzHvnxh2qQluDS7vjWUo@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rF8VD-00AQdu-1W@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 18 Dec 2023 00:57:27 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rF8V8-00AQcs-08
+	for hello@decisio.CO.uk;
+	Mon, 18 Dec 2023 00:57:22 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 154.202.124.111
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 154.202.124.111
+Date: Mon, 18 Dec 2023 07:57:21 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <7iGwfBmCqN2I2RWHbaNT9DDzHvnxh2qQluDS7vjWUo@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Natasha<br>Email: natasha@foremedia.net<br>Message: Hey, I visited yo=
+ur site and I think that your content is amazing! It is really engaging and=
+ original, you must have worked so hard to generate such a quality content.=
+<br /><br />My name is Natasha from ForeMedia and I help website owners wit=
+h great websites to maximize the revenue they make from their website.<br /=
+><br />I would love to buy Ad Spaces on your website and pay you per each i=
+mpression of the ads on your site. We are Google Ad Exchange Premium partne=
+rs and we work with more than 100 Ad Network & thousands of premium direct =
+advertisers who would LOVE to buy Ads directly from your site and we can gu=
+arantee to increase your revenue by at least 45% compared to other advertis=
+ing solutions you are currently using.<br /><br />You deserve to earn more =
+for your content and maximize your earning potential and I will help you un=
+lock that potential!<br /><br />There is no cost, you can register to our m=
+onetization platform for free on this link: https://v.affiliatesitemasters.=
+com/ads<br />I will be available for you on the Live Chat if you need any h=
+elp, or you can email me back to: natasha@affiliatesitemasters.com if you h=
+ave any questions.<br /><br />I have at least 17 Premium Advertisers that h=
+ave asked me to approach you because they would like to advertise on your w=
+ebsite on Premium eCPM [cost per impressions] basis.<br /><br />Have a good=
+ day & feel free to ping me for any question!<br /><br />Click the link her=
+e for 1 minute registration to our platform [it's free!]: https://v.affilia=
+tesitemasters.com/ads<br /><br />ForeMedia - Earn Money With Your Website<b=
+r />https://v.affiliatesitemasters.com/ads<br><br>---<br><br>Date: December=
+ 18, 2023<br>Time: 7:57 am<br>Page URL: https://decisio.co.uk/contact/<br>U=
+ser Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Ge=
+cko) Chrome/114.0.0.0 Safari/537.36<br>Remote IP: 154.202.124.111<br>Powere=
+d by: Elementor<br>

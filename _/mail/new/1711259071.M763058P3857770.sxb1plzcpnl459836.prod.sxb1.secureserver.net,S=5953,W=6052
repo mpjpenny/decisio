@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id uP4CLb+9/2Vq3ToAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 23 Mar 2024 22:44:31 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 23 Mar 2024 22:44:31 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1roGel-00GCFG-2G
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 23 Mar 2024 22:44:31 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <pQUNwy9DHMt7Wd0NHJkKtAY2GGspoN6S9XZYdpq4G4@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1711259071-eximdsn-55774684
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1roGel-00GCFG-2G@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 23 Mar 2024 22:44:31 -0700
+
+--1711259071-eximdsn-55774684
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 oGelrh4OwKnWK :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Za++NdVA c=1 sm=1 tr=0 ts=65ffbdbf p=T0OFlQq9AAAA:20 p=euBLwLfT-WYA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=nm3ZeBv1NF7e7Vzvqq8A:9 a=25i8yAUm4sf8LU7W:21 a=QEXdDO2ut3YA:10 a=9niXSRPVsaYA:10 a=-UMpWCtHAwMA:10 a=-zRJMgWaGu0j_7xu4POk:22 a=u99EQU5OI1-irLGShChU:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1711259071-eximdsn-55774684
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 oGelrh4OwKnWK :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Za++NdVA c=1 sm=1 tr=0 ts=65ffbdbf p=T0OFlQq9AAAA:20 p=euBLwLfT-WYA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=nm3ZeBv1NF7e7Vzvqq8A:9 a=25i8yAUm4sf8LU7W:21 a=QEXdDO2ut3YA:10 a=9niXSRPVsaYA:10 a=-UMpWCtHAwMA:10 a=-zRJMgWaGu0j_7xu4POk:22 a=u99EQU5OI1-irLGShChU:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1711259071-eximdsn-55774684
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1roGef-00GC4K-2W
+	for hello@decisio.CO.uk;
+	Sat, 23 Mar 2024 22:44:31 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 189.240.60.168
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 189.240.60.168
+Date: Sun, 24 Mar 2024 05:44:25 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <pQUNwy9DHMt7Wd0NHJkKtAY2GGspoN6S9XZYdpq4G4@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Senior moments?<br>Email: james231watts@gmail.com<br>Message: Experie=
+ncing =E2=80=9Csenior moments=E2=80=9D?<br /><br />Then you need to take th=
+is simple 1-word dementia test.<br /><br />According to the renowned journa=
+l, Neurology, if you fail this test...<br /><br />You have a 95% chance of =
+suffering from dementia in the future.<br /><br />This 1-word dementia test=
+ is a MUST if you=E2=80=99ve been...<br /><br />- Losing your keys...<br />=
+<br />- Forgetting names or tiny details...<br /><br />- Or forgetting why =
+you walked into a room...<br /><br />Because these are red flags of memory =
+loss.<br /><br />And let=E2=80=99s be real, these =E2=80=9Csenior moments=
+=E2=80=9D can turn into full-blown Alzheimer=E2=80=99s so easily.<br /><br =
+/>On the bright side, over 32,477 adults have taken this test & reclaimed a=
+ sharp mind.<br /><br />Take the 1-word dementia test here https://bit.ly/3=
+uTtnwE (before it=E2=80=99s too late).<br /><br />God bless,<br />James<br =
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><=
+br /><br /><br /><br /><br /><br /><br /><br />102 W 91st St<br />New York,=
+ NY <br />10024, United States<br /><br />Reply with the word Unsubscribe, =
+in the email subject line to opt out.<br><br>---<br><br>Date: March 24, 202=
+4<br>Time: 5:44 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agen=
+t: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gec=
+ko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68<br>Remote IP: 189.24=
+0.60.168<br>Powered by: Elementor<br>
+
+--1711259071-eximdsn-55774684--

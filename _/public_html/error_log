@@ -1,0 +1,18 @@
+[07-May-2021 23:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/edfa6tzuu6ys/public_html/deleteme.wpkloo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edfa6tzuu6ys/public_html/deleteme.wpkloo.php on line 16
+[07-May-2021 23:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/edfa6tzuu6ys/public_html/deleteme.wprk5q.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edfa6tzuu6ys/public_html/deleteme.wprk5q.php on line 16
+[07-May-2021 23:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/edfa6tzuu6ys/public_html/deleteme.wpnpuc.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edfa6tzuu6ys/public_html/deleteme.wpnpuc.php on line 16
+[30-Sep-2022 11:41:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/edfa6tzuu6ys/public_html/wp-settings.php on line 33
+[30-Sep-2022 11:41:13 UTC] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home/edfa6tzuu6ys/public_html/wp-settings.php on line 33
+[30-Sep-2022 11:41:13 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/edfa6tzuu6ys/public_html/wp-settings.php on line 33
+[30-Sep-2022 11:41:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/edfa6tzuu6ys/public_html/wp-settings.php on line 33
+[30-Sep-2022 11:41:25 UTC] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home/edfa6tzuu6ys/public_html/wp-settings.php on line 33
+[30-Sep-2022 11:41:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/edfa6tzuu6ys/public_html/wp-settings.php on line 33

@@ -1,0 +1,62 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id KHL1ECA23GUSOS8AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 25 Feb 2024 23:56:32 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 25 Feb 2024 23:56:32 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1reUue-00CznR-0h
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 25 Feb 2024 23:56:32 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <F7cPOV4nQrUUsCgzu1thsZFuekt8TlsJgBnN4vig@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1reUue-00CznR-0h@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 25 Feb 2024 23:56:32 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1reUuY-00CzZT-2T
+	for hello@decisio.CO.uk;
+	Sun, 25 Feb 2024 23:56:26 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 68.68.110.30
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 68.68.110.30
+Date: Mon, 26 Feb 2024 06:56:26 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <F7cPOV4nQrUUsCgzu1thsZFuekt8TlsJgBnN4vig@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Cecil Mize<br>Email: robot.savant@gmail.com<br>Message: Elevate your =
+business on Google, Facebook, and <br />Yelp effortlessly with our automate=
+d 5-star <br />review service. <br /><br />Tailored for entrepreneurs eager=
+ for more <br />visibility and free leads, our platform <br />streamlines t=
+he process of gathering <br />genuine reviews from satisfied customers. <br=
+ />Discover the simple start to enhancing your <br />Google My Business pro=
+file and attracting <br />more customers=E2=80=94automatically.<br /><br />=
+Ready to see the difference? <br /><br />Begin here: https://awifiedleadpro=
+.com/wf<br /><br />Best regards,<br />Cecil<br /><br /><br /><br />116 Agne=
+s Rd, Ste 200<br />Knoxville, TN 37919<br /><br />To Opt Out go here: https=
+://awifiedleadpro.com/optout<br />or reply UNSUBSCRIBE in the subject line<=
+br /><br /><br />decisio.co.uk<br><br>---<br><br>Date: February 26, 2024<br=
+>Time: 6:56 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: M=
+ozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) =
+Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36<br>Remote IP: 68=
+.68.110.30<br>Powered by: Elementor<br>

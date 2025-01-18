@@ -1,0 +1,2647 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202403 will be lost/reset.
+# Last config file used to build this data file was /home/edfa6tzuu6ys/tmp/awstats/ssl/awstats.decisio.co.uk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2701                
+POS_VISITOR 155337              
+POS_DAY 180278              
+POS_DOMAIN 3591                
+POS_LOGIN 4635                
+POS_ROBOT 4790                
+POS_WORMS 5760                
+POS_EMAILSENDER 5891                
+POS_EMAILRECEIVER 6034                
+POS_SESSION 181151              
+POS_SIDER 181364              
+POS_FILETYPES 6169                
+POS_DOWNLOADS 6415                
+POS_OS 6463                
+POS_BROWSER 6864                
+POS_SCREENSIZE 9782                
+POS_UNKNOWNREFERER 9856                
+POS_UNKNOWNREFERERBROWSER 10857               
+POS_ORIGIN 11608               
+POS_SEREFERRALS 11753               
+POS_PAGEREFS 11984               
+POS_SEARCHWORDS 12944               
+POS_KEYWORDS 13096               
+POS_MISC 2364                
+POS_ERRORS 13155               
+POS_CLUSTER 4491                
+POS_SIDER_404 13324               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240401002500 102 21957 15811318441335
+FirstTime 20240301010407
+LastTime 20240331233326
+LastUpdate 20240401050527 102 0 101 0 0
+TotalVisits 1089                
+TotalUnique 641                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 652                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 58 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 130 237 1988500 50 70 1676014
+1 140 142 746598 55 93 1368769
+2 227 436 4493721 55 188 3407997
+3 102 316 2395836 41 52 1723431
+4 121 329 3080102 44 96 2324599
+5 98 104 665486 35 57 1009818
+6 73 77 481024 21 26 635800
+7 98 515 5194221 35 59 1068443
+8 75 182 1488597 23 29 579462
+9 99 101 623941 67 175 2842210
+10 115 161 918049 51 56 1775180
+11 88 90 305431 95 243 3251826
+12 87 88 797937 57 153 2401645
+13 76 77 234501 36 135 1454166
+14 76 77 218462 45 70 1325575
+15 94 223 4701568 35 101 1201544
+16 127 272 1131462 36 50 1127085
+17 101 103 644816 55 278 3347101
+18 93 97 559038 71 205 2887599
+19 108 113 1128206 69 271 3766837
+20 91 94 322978 90 105 2428855
+21 104 186 3093506 26 110 653108
+22 189 581 10339684 328 1320 77565707
+23 123 130 374366 48 57 1007588
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 61
+de 1493 1493 1978382
+us 611 1675 26603659
+gb 70 698 7828052
+bg 59 183 1862462
+ru 44 48 521974
+cn 30 73 711284
+nl 27 130 1355290
+ca 24 24 1256700
+in 24 27 79998
+it 19 22 58243
+id 18 19 66206
+ua 17 20 176217
+sc 14 16 174300
+ro 12 17 189552
+es 11 11 4445
+fr 10 10 50851
+se 10 10 148584
+br 9 9 580411
+ar 9 9 44900
+no 7 7 1409
+au 7 7 17697
+il 7 112 1300959
+tr 6 6 166731
+zz 5 6 18386
+ir 5 5 995
+hu 2 2 398
+mx 1 1 70
+vn 4 4 105472
+cl 2 3 17792
+be 4 4 65945
+za 2 2 430
+mk 1 1 199
+eg 1 2 3852
+kz 4 4 597
+kr 2 3 17790
+kg 2 2 15079
+ch 4 4 17080
+pa 1 1 16486
+cz 3 3 597
+ve 2 2 5000
+jp 3 3 18211
+at 4 4 812
+ma 2 2 5000
+pl 4 4 145447
+az 2 2 398
+sa 1 1 16487
+dz 2 2 4996
+mn 2 2 18011
+fi 2 3 17789
+lv 4 4 60261
+bd 2 2 18016
+ao 4 6 49453
+hk 2 2 2639
+sg 1 1 215
+tz 1 1 2440
+nz 4 4 32501
+lb 2 3 17790
+gr 2 2 16686
+eu 2 2 32970
+pe 3 3 2837
+dk 3 3 597
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+Googlebot/ 635 5626444 20240331183145 32
+bingbot/ 442 4083781 20240330125126 26
+AhrefsBot/ 240 1937534 20240328091211 6
+zoominfobot 135 1281481 20240331235326 32
+crawl 80 1106939 20240328182201 11
+MJ12bot/ 68 508170 20240331172117 34
+nbot 52 1610119 20240324192620 2
+SemrushBot/ 33 229912 20240330095806 12
+BLEXBot/ 26 183206 20240307164445 6
+unknown 17 1139 20240331191425 17
+bot[\s_+:,\.\;\/\\-] 14 154464 20240329120340 4
+Go\-http\-client/ 13 45264 20240318224735 1
+no_user_agent 13 1304927 20240331172655 0
+(firefox/)([0-9]\.|[0-1][0]\.) 12 54058 20240323225157 0
+link 11 162925 20240324231310 1
+YandexBot/ 4 16687 20240328190404 3
+DuckDuckGo\-Favicons\-Bot/ 3 49461 20240324122547 0
+survey 2 200758 20240305175604 0
+facebookexternalhit/ 2 100446 20240310084449 1
+Googlebot\-Image/ 1 0 20240307015259 0
+curl 1 16488 20240320080152 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+jpeg 11 2686464 0 0
+js 1520 21845712 0 0
+Unknown 43 2493885 0 0
+css 554 2838348 0 0
+png 11 109307 0 0
+xml 35 19256 0 0
+html 602 12301170 0 0
+php 1922 943138 0 0
+woff2 33 2690750 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+linuxubuntu 74 70
+macosx11 166 23
+Unknown 1647 1419
+macosx10 13 13
+macosx9 1 1
+macosx 49 36
+winxp 14 14
+unix 5 5
+linuxgentoo 1 1
+bsdnetbsd 1 1
+androidnougat 7 5
+macosx12 96 96
+macosx14 5 5
+win7 30 30
+androidhoneycomb 1 1
+androidkitkat 1 1
+ios_iphone 3 3
+win10 1444 539
+android 3 3
+macosx15 93 93
+android10 3 3
+winnt 1 1
+linux 1073 272
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 153
+chrome115.0.5790.171 3 3
+chrome37.0.2062.124 1 1
+safari17.3.1 1 1
+firefox46.0 5 5
+firefox68.0 5 5
+firefox93.0 3 3
+chrome5.0.375.99 8 8
+firefox49.0 6 6
+firefox75.0 4 4
+opera102.0.0.0 3 3
+chrome60.0.3112.107 7 5
+firefox54.0 7 7
+netscape 2 2
+firefox71.0 6 6
+chrome110.0.0.0 3 3
+chrome121.0.0.0 15 15
+opera12.12 6 6
+mozilla 130 27
+chrome80.0.3987.132 1 1
+chrome55.0.2883.87 1 1
+chrome74.0.3729.169 5 5
+firefox96.0 4 4
+firefox82.0 7 7
+chrome57.0.2987.133 9 9
+firefox87.0 6 6
+Unknown 1518 1393
+firefox123.0 109 6
+chrome27.0.1453.116 1 1
+firefox55.0 6 6
+firefox99.0 6 6
+chrome83.0.4103.97 11 11
+chrome104.0.5112.81 61 19
+opera11.01 1 1
+firefox105.0 1 1
+edge16 1 1
+opera10.10 4 4
+firefox43.0 5 5
+chrome118.0.0.0 2 2
+chrome88.0.4324.150 2 2
+firefox60.0 4 4
+chrome100.0.4896.127 2 2
+firefox51.0 4 4
+opera11.00 2 2
+firefox74.0 4 4
+firefox97.0 4 4
+firefox114.0 57 39
+firefox100.0 3 3
+firefox92.0 3 3
+firefox86.0 5 5
+chrome109.0.0.0 12 12
+firefox65.0 9 9
+chrome106.0.0.0 5 5
+opera11.11 7 7
+opera11.50 7 7
+firefox78.0 8 8
+netscape5.0 1 1
+opera10.00 4 4
+firefox106.0 1 1
+firefox61.0 5 5
+firefox50.0 6 6
+opera10.54 2 2
+firefox89.0 4 4
+chrome50.0.2661.102 1 1
+chrome51.0.2704.106 2 2
+chrome114.0.0.0 150 112
+chrome91.0.4472.114 3 3
+firefox42.0 3 3
+firefox47.0 1 1
+chrome94.0.4606.61 1 1
+safari12.0.2 16 16
+chrome64.0.3282.140 1 1
+safari8.0 1 1
+firefox58.0 6 6
+chrome115.0.0.0 6 6
+firefox122.0 2 2
+firefox64.0 8 8
+chrome100.0.4896.60 1 1
+firefox70.0 3 3
+chrome111.0.0.0 1 1
+firefox83.0 5 5
+firefox63.0 13 13
+firefox98.0 9 9
+firefox84.0 2 2
+safari15.4 13 10
+chrome58.0.3029.110 3 3
+chrome100.0.4758.11 2 2
+chrome64.0.3282.0 2 2
+firefox40.0 6 6
+safari16.6 5 5
+safari13.0.3 1 1
+firefox72.0 4 4
+chrome122.0.0.0 760 32
+chrome66.0.3359.117 1 1
+chrome99.0.4844.0 107 4
+firefox77.0 1 1
+android 1 1
+firefox35.0 2 2
+chrome116.0.0.0 17 17
+opera89.0.4447.51 22 15
+chrome65.0.3325.146 1 1
+firefox69.0 4 4
+firefox48.0 7 7
+chrome113.0.0.0 3 3
+chrome39.0.2171.95 1 1
+firefox81.0 7 7
+firefox90.0 3 3
+chrome80.0.3987.162 1 1
+edge12 6 6
+firefox85.0 2 2
+chrome62.0.3202.94 2 2
+chrome85.0.4183.121 1 1
+firefox57.0 1 1
+firefox117.0 11 11
+firefox118.0 3 3
+firefox52.0 171 28
+chrome49.0.2623.112 1 1
+iphone 1 1
+firefox66.0 4 4
+chrome105.0.0.0 8 8
+edge44 9 6
+chrome70.0.3538.77 5 5
+firefox59.0 1 1
+firefox95.0 159 159
+firefox103.0 1 1
+chrome70.0.3538.110 4 4
+firefox73.0 6 6
+chrome99.0.4844.84 1 1
+firefox80.0 7 7
+chrome114.0.5735.199 1 1
+firefox91.0 7 7
+safari10.1.2 80 80
+firefox44.0 7 7
+chrome70.0.3538.102 2 2
+chrome34.0.1847.114 1 1
+safari10.0.1 1 1
+firefox67.0 5 5
+firefox62.0 50 50
+firefox56.0 4 4
+firefox53.0 1 1
+firefox79.0 40 40
+firefox45.0 6 6
+chrome25.0.1364.172 1 1
+firefox94.0 2 2
+chrome84.0.4147.105 5 5
+chrome59.0.3071.115 32 32
+firefox88.0 4 4
+firefox41.0 6 6
+chrome101.0.4951.0 214 8
+chrome117.0.0.0 22 21
+chrome94.0.4606.81 482 11
+chrome95.0.4638.54 1 1
+chrome108.0.0.0 7 7
+firefox76.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+python-requests/2.31.0 20240318124231
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240329225938
+colly_-_https://github.com/gocolly/colly/v2 20240318225357
+Python/3.8_aiohttp/3.9.1 20240308161908
+python-requests/2.25.1 20240302110029
+python-requests/2.27.1 20240313151203
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240308021407
+WordPress/5.7.11;_https://decisio.co.uk 20240331233326
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240325181033
+python-requests/2.21.0 20240309071641
+Faraday_v0.17.4 20240331192025
+Installatron_Plugin/9.1.61/351 20240331020557
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240331103904
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+python-requests/2.27.1 20240313151203
+Installatron_Plugin/9.1.61/351 20240331020557
+python-requests/2.25.1 20240302110029
+Faraday_v0.17.4 20240331192025
+Python/3.8_aiohttp/3.9.1 20240308161908
+WordPress/5.7.11;_https://decisio.co.uk 20240331233326
+python-requests/2.31.0 20240318124231
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240329225938
+colly_-_https://github.com/gocolly/colly/v2 20240318225357
+python-requests/2.21.0 20240309071641
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 969 1280
+From1 2 4
+From2 10 10
+From3 22 22
+From4 1632 3415
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+duckduckgo 2 2
+google_com 2 2
+www_bing_com 3 3
+www_google_com 1 1
+www_google_co_uk 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 19
+http://mail.decisio.co.uk/// 4 4
+https://blueonehospitalitymanagement.co.uk/wp-login.php 1 1
+https://nhsshs.org/wp-login.php 1 1
+http://southerncolorectal.com.au/wp-login.php 1 1
+https://gsdimartino.com/wp-login.php 1 1
+https://aura-world.co.uk/wp-login.php 1 1
+https://seventhheaven.band/wp-login.php 1 1
+https://tibetanbuddhiststudyguide.com/wp-login.php 1 1
+https://tfcj.org/wp-login.php 1 1
+https://www.forklandlincolnmuseum.org/wp-login.php 1 1
+http://yolomedspa.com/wp-login.php 1 1
+https://quiz.tirol/wp-login.php 1 1
+https://tgfinancial.com.au/wp-login.php 1 1
+https://page1service.com/wp-login.php 1 1
+http://net-neet.dk/user/ 1 1
+https://www.countready.co.uk/wp-login.php 1 1
+http://bugmartini.com/wp-login.php 1 1
+https://www.usepicnews.com/wp-login.php 1 1
+http://greekyearbook.com/wp-login.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+405 1 42
+500 62 156674
+302 81 0
+301 284 41
+404 1641 101515552
+400 2 6
+421 1 322
+401 65 13717
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1305
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/get.js 1 -
+/wp-config.php.temp 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_an-object.js 1 -
+/classwithtostring.php 3 http://decisio.co.uk/classwithtostring.php
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/triggers/inactivity.js 1 -
+/wp-content/plugins/elementor-extras/assets/lib/layout-mode 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-methods.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-methods.js
+/wp-content/uploads/theplus-addons/packery/js/item 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/reflect/construct.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks-ext.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/isNativeReflectConstruct.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/triggers.js 1 -
+/lock360.php 1 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_imaged.php 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection-to-json.js 1 -
+/wp-includes/js/jquery/ui/mouse 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_fix-re-wks.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_object-create.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_dom-create.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_core.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/promise.js 1 -
+/ev-emitter/ev-emitter 1 http://decisio.co.uk/ev-emitter/ev-emitter
+/sitemap-news.xml 1 http://decisio.co.uk/sitemap-news.xml
+/text/javascript 1 http://decisio.co.uk/text/javascript
+/text/plain 1 http://decisio.co.uk/text/plain
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/text-editor.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-integer.js 1 -
+/sitemap.ashx 2 -
+/node_modules/core-js/modules/_inherit-if-required.js 1 http://decisio.co.uk/node_modules/core-js/modules/_inherit-if-required.js
+/frontend/element_ready/section 1 http://decisio.co.uk/frontend/element_ready/section
+/lib/swiper/swiper 1 http://decisio.co.uk/lib/swiper/swiper
+/about.php 9 www.google.com
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/keys.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/map.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_bind.js 1 -
+/wp-content/uploads/theplus-addons/TweenLite.min.js 1 -
+/wp-content/plugins/wp-feature-using/ 1 -
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/smoothness.php 2 https://decisio.co.uk//wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/smoothness.php
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.promise.finally.js 1 -
+/assets/dev/js/frontend/handlers/accordion.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/accordion.js
+/node_modules/core-js/modules/_enum-bug-keys.js 1 http://decisio.co.uk/node_modules/core-js/modules/_enum-bug-keys.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_object-gopd.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js 1 -
+/as.php 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/parse-int.js 1 -
+/sitemapindex.xml 1 http://decisio.co.uk/sitemapindex.xml
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/defineProperty.js 1 -
+/wp-config.swn 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/symbol.js 1 -
+/wp-config.txt 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_iobject.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_descriptors.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_descriptors.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_library.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_library.js
+/node_modules/@babel/runtime-corejs2/core-js/object/keys.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/keys.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_uid.js 1 -
+/modules/posts/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/posts/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js 1 -
+/wp-includes/js/jquery/text/plain 1 -
+/packery/js/packer 1 http://decisio.co.uk/packery/js/packer
+/chosen.php 17 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.array.find.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/share-buttons/assets/js/frontend/frontend-legacy.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_property-desc.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_property-desc.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_object-keys-internal.js 1 -
+/node_modules/core-js/modules/es6.regexp.constructor.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.regexp.constructor.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.object.to-string.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime/regenerator/index.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_parse-int.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_to-integer.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-ws.js 1 -
+/assets/dev/js/modules/imports/force-method-implementation.js 1 http://decisio.co.uk/assets/dev/js/modules/imports/force-method-implementation.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.parse-float.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/triggers/page-load.js 1 -
+/wp-admin/style.php 2 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js 1 -
+/wp-content/uploads/theplus-addons/isotope-layout/js/layout-modes/fit-rows 1 -
+/wp-content/plugins/elementor/assets/node_modules/regenerator-runtime/runtime.js 1 -
+/node_modules/core-js/modules/es6.regexp.exec.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.regexp.exec.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/keys.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/web.dom.iterable.js 1 -
+/wp-content/plugins/elementor/assets/ 1 -
+/.wp-config~ 1 https://www.google.com/
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-dps.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-dps.js
+/wp-content/plugins/elementor-pro/assets/modules/carousel/assets/js/frontend/handlers/media-carousel.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_ctx.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_shared-key.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_array-species-constructor.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/reflect/get.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/reflect/get.js
+/wp-content/plugins/happy-elementor-addons/assets/js/frontend/element_ready/ 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_classof.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/lottie/assets/js/frontend/handler.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_is-object.js 1 -
+/defaults.php 2 www.google.com
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_an-object.js 1 -
+/modules/popup/assets/js/frontend/timing/sessions.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/sessions.js
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/blog/%22 1 -
+/wp-admin/taf.php 2 https://decisio.co.uk//wp-admin/taf.php
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/browsers.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_regexp-exec.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-to-string-tag.js 1 -
+/sample.php 2 http://www.google.com
+/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Shared.php 1 -
+/item 1 http://decisio.co.uk/item
+/TweenLite.min.js 1 http://decisio.co.uk/TweenLite.min.js
+/inputs.php 12 http://decisio.co.uk/inputs.php
+/node_modules/core-js/modules/_a-function.js 1 http://decisio.co.uk/node_modules/core-js/modules/_a-function.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_enum-bug-keys.js 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/masonry-layout/masonry 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/define-property.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/define-property.js
+/blog/wp-content/plugins/wp-e-commerce/readme.txt 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_array-includes.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_core.js 1 -
+/node_modules/core-js/modules/_descriptors.js 1 http://decisio.co.uk/node_modules/core-js/modules/_descriptors.js
+/wp-content/plugins/backup-backup/readme.txt 2 -
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/uncategorized/identity-design-for-a-new-crusader-4/%22 1 -
+/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js
+/modules/slides/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/slides/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor-pro/assets/modules/theme-elements/assets/js/frontend/frontend-legacy.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/accordion.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_user-agent.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_user-agent.js
+/modules/motion-fx/assets/js/frontend/motion-fx/interactions/scroll.js 1 http://decisio.co.uk/modules/motion-fx/assets/js/frontend/motion-fx/interactions/scroll.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.promise.finally.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/gallery/assets/js/frontend/frontend-legacy.js 1 -
+/node_modules/core-js/modules/_property-desc.js 1 http://decisio.co.uk/node_modules/core-js/modules/_property-desc.js
+/wp-admin/css/admin.php 2 https://decisio.co.uk//wp-admin/css/admin.php
+/wp-content/uploads/theplus-addons/packery/js/rect 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-pie.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-pie.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_is-array.js 1 -
+/consulting/careers 2 -
+/node_modules/@babel/runtime-corejs2/core-js/parse-float.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/parse-float.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/array/is-array.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-descriptor.js 1 -
+/auto_seo.php 1 -
+/assets/dev/js/frontend/utils/lightbox/screenfull.js 1 http://decisio.co.uk/assets/dev/js/frontend/utils/lightbox/screenfull.js
+/node_modules/core-js/modules/_html.js 1 http://decisio.co.uk/node_modules/core-js/modules/_html.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopd.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/motion-fx/assets/js/frontend/motion-fx/motion-fx.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-absolute-index.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-absolute-index.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-iobject.js 1 -
+/wp-content/themes/hideo/network.php 1 http://decisio.co.uk/wp-content/themes/hideo/network.php
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/taf.php 2 https://decisio.co.uk//wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/taf.php
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.symbol.observable.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_enum-bug-keys.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_array-species-create.js 1 -
+/util/login.aspx 2 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.symbol.observable.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.symbol.observable.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopn.js 1 -
+/wp-config.php.swn 1 https://www.google.com/
+/modules/forms/assets/js/frontend/handlers/form-steps.js 1 http://decisio.co.uk/modules/forms/assets/js/frontend/handlers/form-steps.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js
+/modules/motion-fx/assets/js/frontend/handler.js 1 http://decisio.co.uk/modules/motion-fx/assets/js/frontend/handler.js
+/assets/dev/js/frontend/handlers/base-swiper.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/base-swiper.js
+/node_modules/core-js/modules/_set-proto.js 1 http://decisio.co.uk/node_modules/core-js/modules/_set-proto.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/define-properties.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/define-properties.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iterators.js 1 -
+/wp-content/about.php 4 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/promise.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_advance-string-index.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-collection-from.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.regexp.to-string.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_microtask.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_library.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_species-constructor.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_species-constructor.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopn.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopn.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/index.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/define-property.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_for-of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_for-of.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/sessions.js 1 -
+/wp-content/plugins/wp-standards-setting/ 1 -
+/modules/theme-builder/assets/js/frontend/handlers/archive-posts-skin-classic.js 1 http://decisio.co.uk/modules/theme-builder/assets/js/frontend/handlers/archive-posts-skin-classic.js
+/node_modules/core-js/modules/_wks.js 1 http://decisio.co.uk/node_modules/core-js/modules/_wks.js
+/wp-content/plugins/elementor/assets/js/assets/dev/js/frontend/utils 1 -
+/humans.txt 4 http://www.decisio.co.uk/humans.txt
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/image-carousel.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_core.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_create-property.js 1 -
+/packery/js/item 1 http://decisio.co.uk/packery/js/item
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-collection-of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-collection-of.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_defined.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/map.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/map.js
+/wp-content/plugins/contact-form-7/includes/js/application/json 1 -
+/blog/wp-content/plugins/pie-register/readme.txt 1 -
+/wp-admin/css/colors/blue/blue.php 2 https://decisio.co.uk//wp-admin/css/colors/blue/blue.php
+/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_promise-resolve.js 1 -
+/cd.php 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_export.js 1 -
+/wp-content/auto_seo.php 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/ev-emitter/ev-emitter 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-symbols.js 1 -
+/home_slider-sitemap.xml 1 http://decisio.co.uk/home_slider-sitemap.xml
+/modules/popup/assets/js/frontend/timing/browsers.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/browsers.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_uid.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/wrapNativeSuper.js 1 -
+/wp-content/admin.php 5 -
+/node_modules/core-js/modules/_object-gpo.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-gpo.js
+/.tmb/admin.php 1 http://decisio.co.uk/.tmb/admin.php
+/wp-content/plugins/elementor-pro/assets/modules/table-of-contents/assets/js/frontend/frontend-legacy.js 1 -
+/node_modules/core-js/modules/es6.string.anchor.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.string.anchor.js
+/wp-content/plugins/elementor-pro/assets/modules/forms/assets/js/frontend/handlers/recaptcha.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/modules/imports/utils/scroll.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_descriptors.js 1 -
+/node_modules/core-js/modules/_iter-define.js 1 http://decisio.co.uk/node_modules/core-js/modules/_iter-define.js
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/video.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_to-length.js 1 -
+/wp-config.php.bkp 1 https://www.google.com/
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_new-promise-capability.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_new-promise-capability.js
+/wp-content/uploads/wpr-addons/forms/wp-1.php 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_parse-int.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-create.js 1 -
+/modules/popup/assets/js/frontend/timing/logged-in.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/logged-in.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_uid.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_perform.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_perform.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-object.js 1 -
+/.wp-config.php.bak 1 https://www.google.com/
+/frontend/element_ready/widget 1 http://decisio.co.uk/frontend/element_ready/widget
+/api/v1/users 2 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-absolute-index.js 1 -
+/.wp-config.back 1 https://www.google.com/
+/wp-content/uploads/theplus-addons/frontend/element_ready/global 1 -
+/wp-content/plugins/elementor-pro/assets/modules/motion-fx/assets/js/frontend/frontend.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_string-html.js 1 -
+/cong.php 1 http://decisio.co.uk/cong.php
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_to-object.js 1 -
+/modules/table-of-contents/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/table-of-contents/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.reflect.construct.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/code-highlight/assets/js/frontend/handler.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_create-property.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_create-property.js
+/https:/adsensetalk.online/ 1 -
+/node_modules/core-js/modules/_object-keys-internal.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-keys-internal.js
+/node_modules/core-js/modules/_shared.js 1 http://decisio.co.uk/node_modules/core-js/modules/_shared.js
+/elementor/popup/ 1 http://decisio.co.uk/elementor/popup/
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/createSuper.js 1 -
+/.wp-config.php.back 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/devices.js 1 -
+/modules/payments/assets/js/frontend/frontend.js 1 http://decisio.co.uk/modules/payments/assets/js/frontend/frontend.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_redefine.js 1 -
+/wp-config.back~ 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_library.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/keys.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/keys.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_a-function.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.array.iterator.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-absolute-index.js 1 -
+/modules/table-of-contents/assets/js/frontend/handlers/table-of-contents.js 1 http://decisio.co.uk/modules/table-of-contents/assets/js/frontend/handlers/table-of-contents.js
+/dev/js/frontend/utils/scroll 2 http://decisio.co.uk/dev/js/frontend/utils/scroll
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.from.js 1 -
+/node_modules/core-js/modules/_set-species.js 1 http://decisio.co.uk/node_modules/core-js/modules/_set-species.js
+/wp-content/uploads/style.php 2 -
+/node_modules/core-js/modules/_to-iobject.js 1 http://decisio.co.uk/node_modules/core-js/modules/_to-iobject.js
+/wp-content/plugins/elementor-pro/assets/js/elementor/frontend/init 1 -
+/wp-content/plugins/elementor-extras/assets/js/elementor/frontend/init 1 -
+/node_modules/core-js/modules/es6.regexp.flags.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.regexp.flags.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_hide.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_fails.js 1 -
+/wp-config.temp 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gops.js 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/outlayer/outlayer 1 -
+/node_modules/core-js/modules/_string-context.js 1 http://decisio.co.uk/node_modules/core-js/modules/_string-context.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/triggers/base.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js
+/wp-config.swp 1 https://www.google.com/
+/modules/sticky/assets/js/frontend/frontend.js 1 http://decisio.co.uk/modules/sticky/assets/js/frontend/frontend.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_task.js 1 -
+/wp-json/masterstudy-lms/v2 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_object-dp.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-keys-internal.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-keys-internal.js
+/node_modules/@babel/runtime-corejs2/core-js/object/create.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/create.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.get-prototype-of.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-species.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-species.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_classof.js 1 -
+/phpmailer.lang-sv.php 1 http://decisio.co.uk/phpmailer.lang-sv.php
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_string-at.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/promise.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/promise.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_is-regexp.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-call.js 1 -
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/contact/%22 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_fails.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js 1 -
+/wp-content/uploads/theplus-addons/theplus-post-382.js 3 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_hide.js 1 -
+/node_modules/core-js/modules/_global.js 1 http://decisio.co.uk/node_modules/core-js/modules/_global.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.symbol.js 1 -
+/wp-content/plugins/elementor-extras/assets/ 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_create-property.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.set-prototype-of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.set-prototype-of.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/objectSpread2.js 1 -
+/jquery-bridget/jquery-bridget 1 http://decisio.co.uk/jquery-bridget/jquery-bridget
+/wp-config.bkp 1 https://www.google.com/
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/web.dom.iterable.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/web.dom.iterable.js
+/.wp-config.temp 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_object-keys.js 1 -
+/modules/animated-headline/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/animated-headline/assets/js/frontend/frontend-legacy.js
+/packer 1 http://decisio.co.uk/packer
+/wp-content/plugins/dynamic-content-for-elementor/assets/js/frontend/element_ready/dce-dynamicposts-v2.grid 1 -
+/.wp-config.php.swp 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.string.iterator.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopn-ext.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_wks.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/promise.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_an-instance.js 1 -
+/desandro-matches-selector/matches-selector 1 http://decisio.co.uk/desandro-matches-selector/matches-selector
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-object.js 1 -
+/modules/popup/assets/js/frontend/timing/sources.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/sources.js
+/wp-config.php.bak 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.parse-int.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.parse-int.js
+/node_modules/@babel/runtime-corejs2/helpers/defineProperty.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/defineProperty.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-keys-internal.js 1 -
+/sitemap 6 -
+/wp-admin/js/404.php 1 http://decisio.co.uk/wp-admin/js/404.php
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_enum-bug-keys.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es7.array.includes.js 1 -
+/wp-content/plugins/rencontre/readme.txt 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-dps.js 1 -
+/node_modules/core-js/modules/_fails.js 1 http://decisio.co.uk/node_modules/core-js/modules/_fails.js
+/wp-content/plugins/elementor-pro/assets/modules/forms/assets/js/frontend/handlers/fields/data-time-field-base.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-length.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/nav-menu/assets/js/frontend/handlers/nav-menu.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-array-iter.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-array-iter.js
+/modules/popup/assets/js/frontend/timing/devices.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/devices.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-pie.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_to-iobject.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/web.dom.iterable.js 1 -
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/uncategorized/identity-design-for-a-new-crusader-3/%22 1 -
+/index/function.php 1 http://decisio.co.uk/index/function.php
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_global.js 1 -
+/node_modules/core-js/modules/es6.array.iterator.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.array.iterator.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-integer.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-integer.js
+/wp-content/uploads/theplus-addons/theplus-post-425.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/forms/assets/js/frontend/frontend-legacy.js 1 -
+/wp-includes/js/jquery/application/x-www-form-urlencoded 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_an-object.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_has.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/frontend-legacy.js 1 -
+/modules/theme-builder/assets/js/frontend/handlers/archive-posts-skin-cards.js 1 http://decisio.co.uk/modules/theme-builder/assets/js/frontend/handlers/archive-posts-skin-cards.js
+/wp-content/plugins/elementor/assets/js/frontend/element_ready/global 1 -
+/wp-content/uploads/theplus-addons/fizzy-ui-utils/utils 1 -
+/item.php 1 http://decisio.co.uk/item.php
+/modules/popup/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/frontend-legacy.js
+/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js
+/wp-content/plugins/elementor-pro/assets/modules/motion-fx/assets/js/frontend/motion-fx/actions.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-define.js 1 -
+/wp-content/uploads/wpr-addons/forms/b1ack.php 1 -
+/node_modules/core-js/modules/_dom-create.js 1 http://decisio.co.uk/node_modules/core-js/modules/_dom-create.js
+/wp-content/plugins/dynamic-content-for-elementor/assets/lib/greensock/plugins/ScrollTrigger.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_bind.js 1 -
+/modules/popup/assets/js/frontend/handlers/forms-action.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/handlers/forms-action.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-from-iterable.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-from-iterable.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gpo.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gops.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gops.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_defined.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_meta.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_meta.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.string.includes.js 1 -
+/node_modules/core-js/modules/_iobject.js 1 http://decisio.co.uk/node_modules/core-js/modules/_iobject.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_hide.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_hide.js
+/wp-content/plugins/background-image-cropper/accesson.php 1 -
+/blog/wp-content/plugins/notificationx/README.txt 1 -
+/node_modules/core-js/modules/_ie8-dom-define.js 1 http://decisio.co.uk/node_modules/core-js/modules/_ie8-dom-define.js
+/wp-content/plugins/elementor-pro/assets/modules/forms/assets/js/frontend/handlers/fields/date.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_global.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/has-instance.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/has-instance.js
+/wp-content/plugins/elementor-extras/assets/lib/isotope/isotope-layout/js/layout-modes/masonry 1 -
+/wp-content/plugins/dynamic-content-for-elementor/assets/lib/threejs/three.js 1 -
+/assets/dev/js/modules/imports/instance-type.js 1 http://decisio.co.uk/assets/dev/js/modules/imports/instance-type.js
+/modules/popup/assets/js/frontend/triggers/scrolling-to.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/triggers/scrolling-to.js
+/.wp-config.bkp 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-ws.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/sticky/assets/js/frontend/handlers/sticky.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/core.get-iterator-method.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_defined.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_defined.js
+/modules/carousel/assets/js/frontend/handlers/media-carousel.js 1 http://decisio.co.uk/modules/carousel/assets/js/frontend/handlers/media-carousel.js
+/assets/dev/js/frontend/document.js 1 http://decisio.co.uk/assets/dev/js/frontend/document.js
+/modules/forms/assets/js/frontend/handlers/fields/date.js 1 http://decisio.co.uk/modules/forms/assets/js/frontend/handlers/fields/date.js
+/node_modules/@babel/runtime-corejs2/helpers/isNativeReflectConstruct.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/isNativeReflectConstruct.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iterators.js 1 -
+/wp-content/plugins/dynamic-content-for-elementor/assets/js/elementor/frontend/init 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_object-pie.js 1 -
+/node_modules/core-js/modules/_regexp-exec-abstract.js 1 http://decisio.co.uk/node_modules/core-js/modules/_regexp-exec-abstract.js
+/wp-config.php.back 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/modules/code-highlight/assets/js/frontend/frontend.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.to-string.js 1 -
+/wp-content/plugins/elementor/assets/js/lib/share-link/share-link 1 -
+/wp-content/inputs.php 2 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/isNativeReflectConstruct.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_species-constructor.js 1 -
+/core 1 http://decisio.co.uk/core
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_shared.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_advance-string-index.js 1 -
+/modules/countdown/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/countdown/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/createSuper.js 1 -
+/modules/code-highlight/assets/js/frontend/frontend.js 1 http://decisio.co.uk/modules/code-highlight/assets/js/frontend/frontend.js
+/node_modules/@babel/runtime/regenerator/index.js 1 http://decisio.co.uk/node_modules/@babel/runtime/regenerator/index.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/base.js 1 -
+/text/xml 1 http://decisio.co.uk/text/xml
+/wp-content/uploads/theplus-addons/audio/mpeg 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_enum-keys.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_enum-keys.js
+/modules/motion-fx/assets/js/frontend/motion-fx/interactions/mouse-move.js 1 http://decisio.co.uk/modules/motion-fx/assets/js/frontend/motion-fx/interactions/mouse-move.js
+/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/createClass.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/get.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.map.js 1 -
+/node_modules/core-js/modules/_array-methods.js 1 http://decisio.co.uk/node_modules/core-js/modules/_array-methods.js
+/node_modules/core-js/modules/es6.array.find.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.array.find.js
+/node_modules/core-js/modules/_regexp-exec.js 1 http://decisio.co.uk/node_modules/core-js/modules/_regexp-exec.js
+/administrator/ 1 -
+/node_modules/core-js/modules/_array-species-constructor.js 1 http://decisio.co.uk/node_modules/core-js/modules/_array-species-constructor.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_export.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/create.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/forms/assets/js/frontend/handlers/form-redirect.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_redefine.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-species.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.keys.js 1 -
+/node_modules/core-js/modules/_core.js 1 http://decisio.co.uk/node_modules/core-js/modules/_core.js
+/wp-json/oembed/1.0/embed 86 -
+/wp-content/plugins/elementor-pro/assets/assets/dev/js/frontend/frontend.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_shared.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_is-object.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/typeof.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.symbol.async-iterator.js 1 -
+/wp-json/bricks/v1/render_element 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_ctx.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_shared-key.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_shared-key.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.to-string.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.to-string.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-symbols.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_to-object.js 1 -
+/wp-content/plugins/elementor-pro/assets/js/elementor/popup/ 1 -
+/wp-content/plugins/elementor-pro/assets/assets/dev/js/frontend/utils/scroll.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/construct.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/construct.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-primitive.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_add-to-unscopables.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-integer.js 1 -
+/ucp.php 1 -
+/wp-content/uploads/theplus-addons/packery/js/packery 1 -
+/isotope-layout/js/layout-mode 1 http://decisio.co.uk/isotope-layout/js/layout-mode
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.promise.try.js 1 -
+/assets/dev/js/frontend/handlers/text-editor.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/text-editor.js
+/wp-includes/Requests/Exception/HTTP/taf.php 2 https://decisio.co.uk//wp-includes/Requests/Exception/HTTP/taf.php
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_regexp-exec-abstract.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_own-keys.js 1 -
+/modules/theme-builder/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/theme-builder/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_shared.js 1 -
+/style.php 9 -
+/modules/popup/assets/js/frontend/triggers/base.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/triggers/base.js
+/class.api.php 1 -
+/node_modules/core-js/modules/es6.regexp.search.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.regexp.search.js
+/isotope-layout/js/layout-modes/vertical 1 http://decisio.co.uk/isotope-layout/js/layout-modes/vertical
+/node_modules/core-js/modules/_fails-is-regexp.js 1 http://decisio.co.uk/node_modules/core-js/modules/_fails-is-regexp.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_redefine-all.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js 1 -
+/node_modules/core-js/modules/_is-regexp.js 1 http://decisio.co.uk/node_modules/core-js/modules/_is-regexp.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_library.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/get.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/get.js
+/install.php 2 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js 1 -
+/assets/dev/js/modules/imports/utils/masonry.js 1 http://decisio.co.uk/assets/dev/js/modules/imports/utils/masonry.js
+/modules/carousel/assets/js/frontend/handlers/base.js 1 http://decisio.co.uk/modules/carousel/assets/js/frontend/handlers/base.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-prototype-of.js 1 -
+/wp-includes/js/dist/create-i18n 1 -
+/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.promise.js 1 -
+/modules/popup/assets/js/frontend/triggers.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/triggers.js
+/wp-config.bak 1 https://www.google.com/
+/node_modules/core-js/modules/_redefine.js 1 http://decisio.co.uk/node_modules/core-js/modules/_redefine.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-species-constructor.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-species-constructor.js
+/.git/config 10 -
+/packery/js/packery 1 http://decisio.co.uk/packery/js/packery
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/handlers/forms-action.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/slides/assets/js/frontend/frontend-legacy.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.define-properties.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_redefine.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_redefine.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection-to-json.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection-to-json.js
+/modules/popup/assets/js/frontend/triggers/scrolling.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/triggers/scrolling.js
+/.vscode/sftp.json 3 -
+/admin.php 11 http://decisio.co.uk/admin.php
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_microtask.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_microtask.js
+/wp-content/plugins/elementor-pro/assets/node_modules/regenerator-runtime/runtime.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_new-promise-capability.js 1 -
+/modules/theme-elements/assets/js/frontend/handlers/search-form.js 1 http://decisio.co.uk/modules/theme-elements/assets/js/frontend/handlers/search-form.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks-ext.js 1 -
+/node_modules/core-js/modules/_object-pie.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-pie.js
+/modules/posts/assets/js/frontend/handlers/cards.js 1 http://decisio.co.uk/modules/posts/assets/js/frontend/handlers/cards.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_an-object.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/payments/assets/js/frontend/handlers/paypal-button.js 1 -
+/wp-json/wpgmza/v1/markers 4 -
+/wp-content/plugins/elementor-pro/assets/modules/posts/assets/js/frontend/frontend-legacy.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_redefine-all.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-iobject.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-iobject.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/construct.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_an-object.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_an-object.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/reflect/construct.js 1 -
+/wp-content/uploads/theplus-addons/item 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-object.js 1 -
+/lib/dialog/dialog 1 http://decisio.co.uk/lib/dialog/dialog
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/iterator.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-call.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-call.js
+/application/json 1 http://decisio.co.uk/application/json
+/assets/dev/js/frontend/handlers/toggle.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/toggle.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_enum-keys.js 1 -
+/wordpress 2 http://decisio.co.uk/wordpress
+/phpinfo.php 2 -
+/application/x-www-form-urlencoded 1 http://decisio.co.uk/application/x-www-form-urlencoded
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iobject.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iobject.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.promise.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection-strong.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection-strong.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/promise.js 1 -
+/wp-content/plugins/elementor/assets/js/text/css 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-trim.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-trim.js
+/wp-content/plugins/wp-doft/noimg.php 3 http://decisio.co.uk/wp-content/plugins/wp-doft/noimg.php
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_invoke.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_invoke.js
+/wp-content/uploads/theplus-addons/packer 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gpo.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gpo.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_global.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_regexp-exec-abstract.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_to-absolute-index.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-object.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/posts/assets/js/frontend/handlers/posts.js 1 -
+/text/css 1 http://decisio.co.uk/text/css
+/modules/slides/assets/js/frontend/handlers/slides.js 1 http://decisio.co.uk/modules/slides/assets/js/frontend/handlers/slides.js
+/wp-content/plugins/elementor/assets/js/lib/swiper/swiper 1 -
+/wp-content/plugins/elementor-pro/assets/modules/theme-builder/assets/js/frontend/handlers/archive-posts-skin-classic.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/item 1 -
+/node_modules/core-js/modules/es6.object.to-string.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.object.to-string.js
+/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/modules/code-highlight/assets/js/frontend/handler.js 1 http://decisio.co.uk/modules/code-highlight/assets/js/frontend/handler.js
+/wp-content/uploads/theplus-addons/text/css 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_dom-create.js 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/get-size/get-size 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_to-primitive.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-dps.js 1 -
+/wp-content/plugins/elementor-pro/assets/ 1 -
+/node_modules/core-js/modules/_array-includes.js 1 http://decisio.co.uk/node_modules/core-js/modules/_array-includes.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.map.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.map.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_function-to-string.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-to-string-tag.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-to-string-tag.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_to-iobject.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/superPropBase.js 1 -
+/wp-content/uploads/theplus-addons/ev-emitter/ev-emitter 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_classof.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_classof.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_promise-resolve.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_promise-resolve.js
+/isotope-layout/js/layout-modes/masonry 1 http://decisio.co.uk/isotope-layout/js/layout-modes/masonry
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_meta.js 1 -
+/sitemap-index.xml 1 http://decisio.co.uk/sitemap-index.xml
+/modules/popup/assets/js/frontend/triggers/inactivity.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/triggers/inactivity.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_enum-bug-keys.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_descriptors.js 1 -
+/node_modules/core-js/modules/_to-object.js 1 http://decisio.co.uk/node_modules/core-js/modules/_to-object.js
+/.wp-config.php~ 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/assets/dev/js/modules/imports/args-object.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/triggers/exit-intent.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/iterator.js 1 -
+/a.php 1 -
+/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js
+/.wp-config.bak 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_a-function.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/parse-int.js 1 -
+/node_modules/core-js/modules/_is-array.js 1 http://decisio.co.uk/node_modules/core-js/modules/_is-array.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_redefine.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/tools/stretch-element.js 1 -
+/sitemap.txt 2 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_is-array.js 1 -
+/wp-content/themes/twentyfour/inc/ 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-trim.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.function.has-instance.js 1 -
+/modules/popup/assets/js/frontend/timing/times.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/times.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.array.is-array.js 1 -
+/wp-content/uploads/theplus-addons/theplus.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_bind.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_bind.js
+/modules/popup/assets/js/frontend/timing.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing.js
+/magento_version 1 -
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/triggers/click.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-trim.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_property-desc.js 1 -
+/node_modules/core-js/modules/_classof.js 1 http://decisio.co.uk/node_modules/core-js/modules/_classof.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/iterator.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/iterator.js
+/bc 2 http://decisio.co.uk/bc
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_to-length.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-proto.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-proto.js
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/consulting/%22 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-keys.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-keys.js
+/frontend/element_ready/ 1 http://decisio.co.uk/frontend/element_ready/
+/sftp-config.json 2 -
+/node_modules/core-js/modules/_ctx.js 1 http://decisio.co.uk/node_modules/core-js/modules/_ctx.js
+/wp-content/uploads/theplus-addons/theplus-post-389.js 2 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-define.js 1 -
+/wp-content/uploads/theplus-addons/desandro-matches-selector/matches-selector 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_perform.js 1 -
+/wso.php 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_object-gpo.js 1 -
+/text/html 1 http://decisio.co.uk/text/html
+/wp-admin/inputs.php 1 -
+/wp-content/plugins/elementor-pro/assets/modules/theme-builder/assets/js/frontend/frontend-legacy.js 1 -
+/wp-pano.php 2 -
+/wp-content/plugins/phppoet-checkout-fields/assets/js/frontend1.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/utils/lightbox/screenfull.js 1 -
+/1515.php 1 -
+/modules/theme-elements/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/theme-elements/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/index.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-call.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-collection-from.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-collection-from.js
+/modules/forms/assets/js/frontend/handlers/fields/data-time-field-base.js 1 http://decisio.co.uk/modules/forms/assets/js/frontend/handlers/fields/data-time-field-base.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-step.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-step.js
+/assets/dev/js/frontend/utils/scroll.js 1 http://decisio.co.uk/assets/dev/js/frontend/utils/scroll.js
+/TweenLite.js 1 http://decisio.co.uk/TweenLite.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.parse-int.js 1 -
+/assets/dev/js/frontend/handlers/counter.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/counter.js
+/node_modules/core-js/modules/_iter-step.js 1 http://decisio.co.uk/node_modules/core-js/modules/_iter-step.js
+/modules/forms/assets/js/frontend/handlers/recaptcha.js 1 http://decisio.co.uk/modules/forms/assets/js/frontend/handlers/recaptcha.js
+/modules/lottie/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/lottie/assets/js/frontend/frontend-legacy.js
+/wp-content/themes/astra/assets/js/minified/frontend.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_add-to-unscopables.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.regexp.exec.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/animated-headline/assets/js/frontend/handlers/animated-headlines.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/carousel/assets/js/frontend/handlers/testimonial-carousel.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_array-species-constructor.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_shared-key.js 1 -
+/node_modules/core-js/modules/_hide.js 1 http://decisio.co.uk/node_modules/core-js/modules/_hide.js
+/taf.php 2 https://decisio.co.uk//taf.php
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_uid.js 1 -
+/modules/forms/assets/js/frontend/handlers/form-sender.js 1 http://decisio.co.uk/modules/forms/assets/js/frontend/handlers/form-sender.js
+/wp-content/plugins/dynamic-content-for-elementor/assets/lib/greensock/plugins/ScrollToPlugin.js 1 -
+/modules/share-buttons/assets/js/frontend/handlers/share-buttons.js 1 http://decisio.co.uk/modules/share-buttons/assets/js/frontend/handlers/share-buttons.js
+/wp-config.php.old 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/modules/forms/assets/js/frontend/handlers/form-steps.js 1 -
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/%22 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.define-properties.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.define-properties.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_has.js 1 -
+/general.php 2 http://www.google.com
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_dom-create.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_set-proto.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_same-value.js 1 -
+/index.php 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/define-properties.js 1 -
+/wp-content/plugins/elementor/assets/js/frontend/element_ready/ 1 -
+/node_modules/core-js/modules/_defined.js 1 http://decisio.co.uk/node_modules/core-js/modules/_defined.js
+/modules/popup/assets/js/frontend/triggers/exit-intent.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/triggers/exit-intent.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_new-promise-capability.js 1 -
+/wp-content/plugins/elementor-extras/assets/js/frontend/element_ready/global 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_add-to-unscopables.js 1 -
+/wp-content/uploads/theplus-addons/TweenLite.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/reflect/get.js 1 -
+/wp-includes/js/item 1 -
+/nf_tracking.php 1 www.google.com
+/node_modules/@babel/runtime-corejs2/core-js/symbol.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/symbol.js
+/wp-admin/defaults.php 1 http://decisio.co.uk/wp-admin/defaults.php
+/sitemap.xml.gz 2 -
+/wp-content/plugins/custom-registration-form-builder-with-submission-manager/readme.txt 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_shared.js 1 -
+/create-i18n 1 http://decisio.co.uk/create-i18n
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime/regenerator/index.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-array.js 1 -
+/modules/popup/assets/js/frontend/timing/base.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/base.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_cof.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_cof.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/create.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/create.js
+/modules/gallery/assets/js/frontend/handler.js 1 http://decisio.co.uk/modules/gallery/assets/js/frontend/handler.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_own-keys.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/carousel/assets/js/frontend/frontend-legacy.js 1 -
+/elementor-pro/frontend/handlers 1 http://decisio.co.uk/elementor-pro/frontend/handlers
+/node_modules/core-js/modules/_export.js 1 http://decisio.co.uk/node_modules/core-js/modules/_export.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.promise.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.promise.js
+/modules/woocommerce/assets/js/frontend/handlers/menu-cart.js 1 http://decisio.co.uk/modules/woocommerce/assets/js/frontend/handlers/menu-cart.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_string-context.js 1 -
+/portfolio-sitemap.xml 1 http://decisio.co.uk/portfolio-sitemap.xml
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.of.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js
+/node_modules/core-js/modules/_uid.js 1 http://decisio.co.uk/node_modules/core-js/modules/_uid.js
+/assets/images/accesson.php 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/base.js 1 -
+/wp-includes/js/jquery/ui/core 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks.js
+/viewtopic.php 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.symbol.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.symbol.js
+/wp-content/plugins/elementor-pro/assets/modules/countdown/assets/js/frontend/frontend-legacy.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_add-to-unscopables.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_add-to-unscopables.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_export.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js 1 -
+/modules/social/assets/js/frontend/handlers/facebook.js 1 http://decisio.co.uk/modules/social/assets/js/frontend/handlers/facebook.js
+/.well-known/security.txt 1 http://www.decisio.co.uk/.well-known/security.txt
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_ie8-dom-define.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/reflect/get.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_shared-key.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iobject.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_array-includes.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-collection-of.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-descriptors.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-detect.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_array-methods.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/isNativeFunction.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_ctx.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_a-function.js 1 -
+/assets/dev/js/frontend/preloaded-modules.js 1 http://decisio.co.uk/assets/dev/js/frontend/preloaded-modules.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/typeof.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.array.iterator.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_html.js 1 -
+/wp-includes/js/desandro-matches-selector/matches-selector 1 -
+/assets/dev/js/modules/imports/module.js 1 http://decisio.co.uk/assets/dev/js/modules/imports/module.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.regexp.constructor.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_iobject.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/superPropBase.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/create.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_dom-create.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_iter-create.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopn-ext.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_species-constructor.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.regexp.replace.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/posts/assets/js/frontend/handlers/portfolio.js 1 -
+/modules/forms/assets/js/frontend/handlers/form-redirect.js 1 http://decisio.co.uk/modules/forms/assets/js/frontend/handlers/form-redirect.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/url.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_enum-bug-keys.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_enum-bug-keys.js
+/fizzy-ui-utils/utils 1 http://decisio.co.uk/fizzy-ui-utils/utils
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/index.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/index.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gpo.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_enum-keys.js 1 -
+/AutoDiscover/autodiscover.xml 2 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_string-context.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-create.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_object-dp.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.regexp.to-string.js 1 -
+/simple.php 36 www.google.com
+/node_modules/@babel/runtime-corejs2/core-js/parse-int.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/parse-int.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection-strong.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/share-buttons/assets/js/frontend/handlers/share-buttons.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_to-integer.js 1 -
+/wp-content/plugins/elementor-extras/assets/js/frontend/element_ready/section 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_array-methods.js 1 -
+/wp-content/plugins/pie-register/readme.txt 2 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-sap.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/forms/assets/js/frontend/handlers/fields/time.js 1 -
+/node_modules/core-js/modules/es7.array.includes.js 1 http://decisio.co.uk/node_modules/core-js/modules/es7.array.includes.js
+/assets/dev/js/frontend/handlers/tabs.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/tabs.js
+/wp-content/plugins/dynamic-content-for-elementor/assets/lib/infiniteScroll/infinite-scroll.pkgd.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection.js
+/modules/forms/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/forms/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_object-dps.js 1 -
+/elementor/frontend/documents-manager/init-classes 1 http://decisio.co.uk/elementor/frontend/documents-manager/init-classes
+/wp-content/plugins/elementor-pro/assets/modules/motion-fx/assets/js/frontend/motion-fx/interactions/mouse-move.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-array.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-array.js
+/view-source: 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-to-string-tag.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-step.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/set-prototype-of.js 1 -
+/wp-includes/js/jquery/text/html 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.array.find.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_user-agent.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/motion-fx/assets/js/frontend/motion-fx/interactions/base.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/wrapNativeSuper.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/wrapNativeSuper.js
+/frontend/element_ready/global 1 http://decisio.co.uk/frontend/element_ready/global
+/isotope-layout/js/layout-modes/fit-rows 1 http://decisio.co.uk/isotope-layout/js/layout-modes/fit-rows
+/wp-admin/wso.php 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_export.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_export.js
+/.wp-config.php.temp 1 https://www.google.com/
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js 1 -
+/assets/dev/js/frontend/handlers/video.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/video.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_invoke.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gops.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/set-prototype-of.js 1 -
+/.wp-config.save 1 https://www.google.com/
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopn-ext.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopn-ext.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_ie8-dom-define.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/table-of-contents/assets/js/frontend/handlers/table-of-contents.js 1 -
+/wp-admin/css/colors/blue/taf.php 2 https://decisio.co.uk//wp-admin/css/colors/blue/taf.php
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/counter.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-species-create.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-species-create.js
+/wp-config.save 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_for-of.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-create.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_fails-is-regexp.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.set-prototype-of.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.array.iterator.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.array.iterator.js
+/blog/wp-content/plugins/simple-job-board/README.txt 1 -
+/wp-content/uploads/theplus-addons/isotope-layout/js/layout-modes/masonry 1 -
+/modules/gallery/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/gallery/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor-pro/assets/assets/dev/js/frontend/preloaded-elements-handlers.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js 1 -
+/node_modules/core-js/modules/_to-integer.js 1 http://decisio.co.uk/node_modules/core-js/modules/_to-integer.js
+/wp-includes/js/imagesloaded.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_an-instance.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/parse-float.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/typeof.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/typeof.js
+/mah.php 1 http://decisio.co.uk/mah.php
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_species-constructor.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.symbol.async-iterator.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/symbol.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/slides/assets/js/frontend/handlers/slides.js 1 -
+/.wp-config.php.save 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/modules/motion-fx/assets/js/frontend/motion-fx/interactions/scroll.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.parse-float.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.parse-float.js
+/wp-content/plugins/elementor/assets/assets/dev/js/modules/imports/force-method-implementation.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_defined.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.reflect.construct.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/inherits.js 1 -
+/sitemap_index.xml.gz 2 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/document.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js
+/wp-content/plugins/elementor-pro/assets/modules/social/assets/js/frontend/frontend-legacy.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-array-iter.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/theme-elements/assets/js/frontend/handlers/search-form.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-species-create.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.keys.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.keys.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.define-property.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.object.to-string.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-at.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_validate-collection.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_validate-collection.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-descriptors.js 1 -
+/node_modules/core-js/modules/_cof.js 1 http://decisio.co.uk/node_modules/core-js/modules/_cof.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/define-property.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/payments/assets/js/frontend/frontend.js 1 -
+/wp-config.php.save 1 https://www.google.com/
+/assets/dev/js/frontend/frontend.js 1 http://decisio.co.uk/assets/dev/js/frontend/frontend.js
+/wp-content/plugins/elementor-extras/assets/lib/isotope/isotope-layout/js/layout-modes/fit-rows 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_parse-float.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_parse-float.js
+/viewforum.php 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/keys.js 1 -
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/services/%22 1 -
+/assets/dev/js/public-path.js 1 http://decisio.co.uk/assets/dev/js/public-path.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.regexp.split.js 1 -
+/main 2 http://decisio.co.uk/main
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_ie8-dom-define.js 1 -
+/wp-content/uploads/theplus-addons/packery/js/packer 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.define-property.js 1 -
+/wp-content/plugins/charitable/readme.txt 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_fails-is-regexp.js 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/desandro-matches-selector/matches-selector 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js 1 -
+/assets/dev/js/frontend/handlers/base-tabs.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/base-tabs.js
+/assets/dev/js/frontend/handlers/progress.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/progress.js
+/wp-content/uploads/theplus-addons/theplus-post-8.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_function-to-string.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/woocommerce/assets/js/frontend/frontend-legacy.js 1 -
+/wp-include/inputs.php 1 -
+/node_modules/core-js/modules/_library.js 1 http://decisio.co.uk/node_modules/core-js/modules/_library.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-keys-internal.js 1 -
+/wp-content/plugins/elementor-pro/assets/js/elementor/frontend/documents-manager/init-classes 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_to-primitive.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-keys.js 1 -
+/modules/popup/assets/js/frontend/triggers/click.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/triggers/click.js
+/wp-content/plugins/dynamic-content-for-elementor/assets/js/frontend/element_ready/widget 1 -
+/default.json 1 -
+/wp-content/plugins/dynamic-content-for-elementor/assets/lib/greensock/utils/SplitText.js 1 -
+/assets/dev/js/frontend/handlers/image-carousel.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/image-carousel.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.parse-int.js 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/isotope-layout/js/layout-modes/vertical 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_user-agent.js 1 -
+/elementor/frontend/init 1 http://decisio.co.uk/elementor/frontend/init
+/ads.txt 5 http://www.decisio.co.uk/ads.txt
+/wp-content/uploads/theplus-addons/masonry-layout/masonry 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_validate-collection.js 1 -
+/wp-admin/images/class.api.php 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_defined.js 1 -
+/get-size/get-size 1 http://decisio.co.uk/get-size/get-size
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.to-json.js 1 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/.wp-config.swp 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_to-absolute-index.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/toggle.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/sticky/assets/js/frontend/frontend.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/reflect/get.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_shared.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_shared.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.reflect.get.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/base-swiper.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js 1 -
+/radio.php 2 -
+/assets/dev/js/frontend/preloaded-elements-handlers.js 1 http://decisio.co.uk/assets/dev/js/frontend/preloaded-elements-handlers.js
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/uncategorized/identity-design-for-a-new-crusader-2/%22 1 -
+/modules/nav-menu/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/nav-menu/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_add-to-unscopables.js 1 -
+/wp-config.back 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_cof.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-dp.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/modules/imports/instance-type.js 1 -
+/masonry-layout/masonry 1 http://decisio.co.uk/masonry-layout/masonry
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_promise-resolve.js 1 -
+/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js
+/wp-content/wso.php 1 -
+/memberlist.php 1 -
+/node_modules/core-js/modules/es6.function.name.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.function.name.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-includes.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-includes.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-sap.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-sap.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_parse-float.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/progress.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js
+/backup 2 http://decisio.co.uk/backup
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.to-json.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.to-json.js
+/node_modules/core-js/modules/_to-length.js 1 http://decisio.co.uk/node_modules/core-js/modules/_to-length.js
+/.wp-config.php.bkp 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-proto.js 1 -
+/node_modules/core-js/modules/es6.regexp.to-string.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.regexp.to-string.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/web.dom.iterable.js 1 -
+/wp-includes/js/outlayer/outlayer 1 -
+/wp-includes/js/text/javascript 1 -
+/node_modules/core-js/modules/_shared-key.js 1 http://decisio.co.uk/node_modules/core-js/modules/_shared-key.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-array.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.symbol.observable.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_cof.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_global.js 1 -
+/wp-content/uploads/wpr-addons/forms/b1ack-1.php 1 -
+/node_modules/@babel/runtime-corejs2/core-js/symbol/has-instance.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/core-js/symbol/has-instance.js
+/refill 2 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.promise.finally.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.promise.finally.js
+/node_modules/@babel/runtime-corejs2/helpers/isNativeFunction.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/isNativeFunction.js
+/node_modules/core-js/modules/_object-keys.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-keys.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-primitive.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-primitive.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.function.name.js 1 -
+/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iterators.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iterators.js
+/modules/motion-fx/assets/js/frontend/motion-fx/interactions/base.js 1 http://decisio.co.uk/modules/motion-fx/assets/js/frontend/motion-fx/interactions/base.js
+/wp-content/plugins/elementor-extras/assets/lib/isotope/outlayer/item 1 -
+/lib/share-link/share-link 1 http://decisio.co.uk/lib/share-link/share-link
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/create.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopd.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_own-keys.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_own-keys.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/page-views.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-step.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_is-regexp.js 1 -
+/xmrlpc.php 1 https://decisio.co.uk/xmrlpc.php
+/node_modules/regenerator-runtime/runtime.js 1 http://decisio.co.uk/node_modules/regenerator-runtime/runtime.js
+/createHooks 1 http://decisio.co.uk/createHooks
+/assets/dev/js/frontend/modules.js 1 http://decisio.co.uk/assets/dev/js/frontend/modules.js
+/node_modules/@babel/runtime-corejs2/helpers/objectSpread2.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/objectSpread2.js
+/node_modules/core-js/modules/_add-to-unscopables.js 1 http://decisio.co.uk/node_modules/core-js/modules/_add-to-unscopables.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/parse-float.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-ws.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-ws.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_shared-key.js 1 -
+/node_modules/core-js/modules/_same-value.js 1 http://decisio.co.uk/node_modules/core-js/modules/_same-value.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_ctx.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_ctx.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_iter-step.js 1 -
+/woh.php 1 http://decisio.co.uk/woh.php
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/core.get-iterator-method.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/core.get-iterator-method.js
+/wp-content/plugins/elementor/assets/assets/dev/js/modules/imports/utils/masonry.js 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_fails.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_fails.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.to-string.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.string.anchor.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/logged-in.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_cof.js 1 -
+/assets/dev/js/frontend/handlers/alert.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/alert.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopd.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopd.js
+/modules/forms/assets/js/frontend/handlers/fields/time.js 1 http://decisio.co.uk/modules/forms/assets/js/frontend/handlers/fields/time.js
+/node_modules/core-js/modules/_to-absolute-index.js 1 http://decisio.co.uk/node_modules/core-js/modules/_to-absolute-index.js
+/node_modules/core-js/modules/_species-constructor.js 1 http://decisio.co.uk/node_modules/core-js/modules/_species-constructor.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_property-desc.js 1 -
+/wp-content/plugins/elementor/assets/js/elementor/frontend/documents-manager/init-classes 1 -
+/node_modules/core-js/modules/_an-object.js 1 http://decisio.co.uk/node_modules/core-js/modules/_an-object.js
+/wp-includes/js/dist/createHooks 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_descriptors.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-define.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-define.js
+/wp-include/auto_seo.php 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/map.js 1 -
+/wp-content/uploads/theplus-addons/theplus-post-385.js 1 -
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/about/%22 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks.js 1 -
+/wp-content/uploads/theplus-addons/isotope-layout/js/layout-mode 1 -
+/node_modules/core-js/modules/_object-dps.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-dps.js
+/.wp-config.swn 1 https://www.google.com/
+/wp-content/plugins/seoplugins/mar.php 1 www.google.com
+/rindex.php 2 https://decisio.co.uk//rindex.php
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_html.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-dp.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_html.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.regexp.search.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/parse-int.js 1 -
+/wp-content/plugins/dynamic-content-for-elementor/assets/lib/greensock/utils/splittext.min.js 1 -
+/wp.php 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-length.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.reflect.construct.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.reflect.construct.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/parse-int.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.set-prototype-of.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_ctx.js 1 -
+/rect 1 http://decisio.co.uk/rect
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/document.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/map.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/map.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_flags.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.function.has-instance.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.function.has-instance.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-prototype-of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-prototype-of.js
+/node_modules/@babel/runtime-corejs2/helpers/superPropBase.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/superPropBase.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.create.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/nav-menu/assets/js/frontend/frontend-legacy.js 1 -
+/wp-content/uploads/theplus-addons/rect 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.define-properties.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_set-species.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_task.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_task.js
+/outlayer/item 1 http://decisio.co.uk/outlayer/item
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-includes.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.from.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.from.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/times.js 1 -
+/wp-config.php~ 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_inherit-if-required.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/carousel/assets/js/frontend/handlers/base.js 1 -
+/wp-content/plugins/fix/up.php 1 -
+/layout-mode 1 http://decisio.co.uk/layout-mode
+/node_modules/core-js/modules/es6.string.includes.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.string.includes.js
+/wp-content/plugins/elementor-pro/assets/modules/woocommerce/assets/js/frontend/handlers/menu-cart.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/defineProperty.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.reflect.get.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.reflect.get.js
+/.wp-config.php.txt 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_hide.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/social/assets/js/frontend/handlers/facebook.js 1 -
+/node_modules/core-js/modules/_to-primitive.js 1 http://decisio.co.uk/node_modules/core-js/modules/_to-primitive.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js 1 -
+/.wp-config.txt 1 https://www.google.com/
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_dom-create.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_dom-create.js
+/security.txt 1 http://www.decisio.co.uk/security.txt
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_invoke.js 1 -
+/modules/popup/assets/js/frontend/triggers/page-load.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/triggers/page-load.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.reflect.get.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-descriptors.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-descriptors.js
+/wp-content/plugins/elementor/assets/js/elementor/frontend/init 1 -
+/wp-includes/js/jquery/text/xml 1 -
+/audio/mpeg 1 http://decisio.co.uk/audio/mpeg
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_descriptors.js 1 -
+/wp-content/uploads/wpr-addons/forms/ng.php 1 -
+/wp-includes/js/outlayer/item 1 -
+/wp-content/uploads/theplus-addons/outlayer/outlayer 1 -
+/packery/js/rect 1 http://decisio.co.uk/packery/js/rect
+/wp-content/plugins/elementor/assets/js/frontend/handlers/menu_anchor/scroll_top_distance 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/parse-float.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/parse-float.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/triggers/scrolling.js 1 -
+/wp-content/uploads/theplus-addons/isotope-layout/js/item 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_flags.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.regexp.flags.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_species-constructor.js 1 -
+/wp-includes/js/jquery-bridget/jquery-bridget 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/modules.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_redefine-all.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_redefine-all.js
+/wp-content/style.php 2 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks-define.js 1 -
+/.env 1 -
+/node_modules/core-js/modules/_string-at.js 1 http://decisio.co.uk/node_modules/core-js/modules/_string-at.js
+/xmlrpc.php 25 -
+/wp-content/plugins/simple-job-board/README.txt 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.array.iterator.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_fix-re-wks.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_core.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_ie8-dom-define.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_ie8-dom-define.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/define-properties.js 1 -
+/modules/countdown/assets/js/frontend/handlers/countdown.js 1 http://decisio.co.uk/modules/countdown/assets/js/frontend/handlers/countdown.js
+/modules/motion-fx/assets/js/frontend/motion-fx/actions.js 1 http://decisio.co.uk/modules/motion-fx/assets/js/frontend/motion-fx/actions.js
+/wp-content/plugins/elementor-extras/assets/lib/isotope/fizzy-ui-utils/utils 1 -
+/dropdown.php 6 http://decisio.co.uk/dropdown.php
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-includes.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/keys.js 1 -
+/modules/payments/assets/js/frontend/handlers/paypal-button.js 1 http://decisio.co.uk/modules/payments/assets/js/frontend/handlers/paypal-button.js
+/wp-content/plugins/elementor-extras/assets/lib/isotope/jquery-bridget/jquery-bridget 1 -
+/modules/lottie/assets/js/frontend/handler.js 1 http://decisio.co.uk/modules/lottie/assets/js/frontend/handler.js
+/node_modules/core-js/modules/_set-to-string-tag.js 1 http://decisio.co.uk/node_modules/core-js/modules/_set-to-string-tag.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_string-at.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-at.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-at.js
+/node_modules/core-js/modules/_flags.js 1 http://decisio.co.uk/node_modules/core-js/modules/_flags.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.keys.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-create.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-create.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_classof.js 1 -
+/info.php 1 -
+/script 2 http://decisio.co.uk/script
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_a-function.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/alert.js 1 -
+/modules/animated-headline/assets/js/frontend/handlers/animated-headlines.js 1 http://decisio.co.uk/modules/animated-headline/assets/js/frontend/handlers/animated-headlines.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_global.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_global.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_library.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_export.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es7.array.includes.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.map.of.js
+/assets/dev/js/modules/imports/view-module.js 1 http://decisio.co.uk/assets/dev/js/modules/imports/view-module.js
+/node_modules/@babel/runtime-corejs2/helpers/createSuper.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/createSuper.js
+/modules/carousel/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/carousel/assets/js/frontend/frontend-legacy.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/symbol/has-instance.js 1 -
+/wp-admin/mah.php 2 http://decisio.co.uk/wp-admin/mah.php
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.string.iterator.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.string.iterator.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-species.js 1 -
+/wp-json/litespeed/v1/cdn_status 13 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.regexp.exec.js 1 -
+/modules/share-buttons/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/share-buttons/assets/js/frontend/frontend-legacy.js
+/wp-content/uploads/theplus-addons/theplus-post-194.js 1 -
+/wp-content/uploads/theplus-addons/outlayer/item 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.define-property.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.define-property.js
+/wp-content/plugins/notificationx/README.txt 1 -
+/assets/dev/js/frontend/handlers/base.js 1 http://decisio.co.uk/assets/dev/js/frontend/handlers/base.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_redefine.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_fails.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-create.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_an-instance.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_an-instance.js
+/wp 2 http://decisio.co.uk/wp
+/node_modules/core-js/modules/_iterators.js 1 http://decisio.co.uk/node_modules/core-js/modules/_iterators.js
+/node_modules/core-js/modules/web.dom.iterable.js 1 http://decisio.co.uk/node_modules/core-js/modules/web.dom.iterable.js
+/node_modules/core-js/modules/_fix-re-wks.js 1 http://decisio.co.uk/node_modules/core-js/modules/_fix-re-wks.js
+/wp-content/plugins/dynamic-content-for-elementor/assets/lib/greensock/gsap.js 1 -
+/assets/dev/js/frontend/utils/lightbox/lightbox.js 1 http://decisio.co.uk/assets/dev/js/frontend/utils/lightbox/lightbox.js
+/node_modules/core-js/modules/_array-species-create.js 1 http://decisio.co.uk/node_modules/core-js/modules/_array-species-create.js
+/sdk.js 2 -
+/node_modules/core-js/modules/es6.string.starts-with.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.string.starts-with.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/inherits.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_iter-define.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.promise.try.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.promise.try.js
+/wp-includes/js/fizzy-ui-utils/utils 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_has.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_has.js
+/modules/motion-fx/assets/js/frontend/frontend.js 1 http://decisio.co.uk/modules/motion-fx/assets/js/frontend/frontend.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iobject.js 1 -
+/node_modules/core-js/modules/es6.regexp.replace.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.regexp.replace.js
+/wp-includes/js/jquery/jquery.masonry.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-object.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-object.js
+/node_modules/core-js/modules/_object-gopn.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-gopn.js
+/node_modules/core-js/modules/_function-to-string.js 1 http://decisio.co.uk/node_modules/core-js/modules/_function-to-string.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.string.includes.js 1 -
+/node_modules/core-js/modules/_object-dp.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-dp.js
+/outlayer/outlayer 1 http://decisio.co.uk/outlayer/outlayer
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_set-proto.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-descriptor.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-descriptor.js
+/wp-content/plugins/elementor-extras/assets/lib/jquery-resize/text/css 1 -
+/assets/dev/js/modules/imports/utils/scroll.js 1 http://decisio.co.uk/assets/dev/js/modules/imports/utils/scroll.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_string-at.js 1 -
+/wp-content/uploads/wpr-addons/forms/wp.php 1 -
+/wp-content/plugins/elementor-pro/assets/modules/posts/assets/js/frontend/handlers/cards.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-descriptor.js 1 -
+/403.shtml 15 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-dp.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-dp.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_core.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_core.js
+/wp-emoji-release.min.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.string.iterator.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks-ext.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks-ext.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/reflect/construct.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/reflect/construct.js
+/node_modules/core-js/modules/_has.js 1 http://decisio.co.uk/node_modules/core-js/modules/_has.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/array/is-array.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/array/is-array.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_property-desc.js 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/isotope-layout/js/layout-mode 1 -
+/wp-content/plugins/elementor-extras/assets/lib/isotope/isotope-layout/js/item 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-iobject.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js 1 -
+/wp-content/plugins/wp-decoder-adaptive/ 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-sap.js 1 -
+/wp-includes/js/ev-emitter/ev-emitter 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/modules/imports/module.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.create.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.create.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_has.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-object.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-object.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_perform.js 1 -
+/modules/popup/assets/js/frontend/timing/url.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/url.js
+/node_modules/@babel/runtime-corejs2/helpers/createClass.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/createClass.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.promise.try.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/createClass.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.create.js 1 -
+/.wp-config.old 1 https://www.google.com/
+/wp-content/uploads/theplus-addons/get-size/get-size 1 -
+/ 20 http://decisio.co.uk///
+/modules/sticky/assets/js/frontend/handlers/sticky.js 1 http://decisio.co.uk/modules/sticky/assets/js/frontend/handlers/sticky.js
+/wp-includes/js/masonry.js 1 -
+/dup-installer/main.installer.php 1 http://decisio.co.uk/dup-installer/main.installer.php
+/wp-content/plugins/elementor-pro/assets/modules/motion-fx/assets/js/frontend/handler.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/create.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.symbol.js 1 -
+/modules/woocommerce/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/woocommerce/assets/js/frontend/frontend-legacy.js
+/wp-includes/Requests/Exception/HTTP/HTTP.php 2 https://decisio.co.uk//wp-includes/Requests/Exception/HTTP/HTTP.php
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.get-prototype-of.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_iterators.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_has.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/objectSpread2.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_microtask.js 1 -
+/wp-includes/js/get-size/get-size 1 -
+/wp-json/oembed/1.0/%22https:/decisio.co.uk/uncategorized/identity-design-for-a-new-crusader/%22 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/reflect/get.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/reflect/get.js
+/old 2 http://decisio.co.uk/old
+/node_modules/@babel/runtime-corejs2/helpers/inherits.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/helpers/inherits.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-from-iterable.js 1 -
+/assets/dev/js/frontend/tools/stretch-element.js 1 http://decisio.co.uk/assets/dev/js/frontend/tools/stretch-element.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-gopn.js 1 -
+/node_modules/core-js/modules/_iter-create.js 1 http://decisio.co.uk/node_modules/core-js/modules/_iter-create.js
+/wp-content/plugins/elementor-pro/assets/modules/countdown/assets/js/frontend/handlers/countdown.js 1 -
+/wp-admin/user/network.php 3 http://decisio.co.uk/wp-admin/user/network.php
+/modules/motion-fx/assets/js/frontend/motion-fx/motion-fx.js 1 http://decisio.co.uk/modules/motion-fx/assets/js/frontend/motion-fx/motion-fx.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_object-gopn.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/lottie/assets/js/frontend/frontend-legacy.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.symbol.async-iterator.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es7.symbol.async-iterator.js
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/utils/lightbox/lightbox.js 1 -
+/node_modules/core-js/modules/es6.regexp.split.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.regexp.split.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.regexp.match.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.string.starts-with.js 1 -
+/wp-config.php.swp 1 https://www.google.com/
+/404-test/ 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_parse-int.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_parse-int.js
+/misc/ajax.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/core.get-iterator-method.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-species-constructor.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/theme-builder/assets/js/frontend/handlers/archive-posts-skin-cards.js 1 -
+/mouse 1 http://decisio.co.uk/mouse
+/.wp-config.php.old 1 https://www.google.com/
+/wp-content/uploads/theplus-addons/theplus-post-387.js 2 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/es6.regexp.match.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_fails.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-keys.js 1 -
+/wp-content/plugins/happy-elementor-addons/assets/js/elementor/frontend/init 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_ie8-dom-define.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_object-keys-internal.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js 1 -
+/node_modules/core-js/modules/es6.regexp.match.js 1 http://decisio.co.uk/node_modules/core-js/modules/es6.regexp.match.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks-define.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js 1 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/phone.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/reflect/get.js 1 -
+/modules/posts/assets/js/frontend/handlers/posts.js 1 http://decisio.co.uk/modules/posts/assets/js/frontend/handlers/posts.js
+/modules/popup/assets/js/frontend/document.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/document.js
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/base-tabs.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/set-prototype-of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/set-prototype-of.js
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/triggers/scrolling-to.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/preloaded-modules.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-detect.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-detect.js
+/wp-content/uploads/theplus-addons/isotope-layout/js/layout-modes/vertical 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_html.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_html.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.regexp.split.js 1 -
+/new 2 http://decisio.co.uk/new
+/isotope-layout/js/item 1 http://decisio.co.uk/isotope-layout/js/item
+/wp-content/plugins/elementor-pro/assets/modules/forms/assets/js/frontend/handlers/form-sender.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_array-methods.js 1 -
+/modules/popup/assets/js/frontend/timing/page-views.js 1 http://decisio.co.uk/modules/popup/assets/js/frontend/timing/page-views.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_is-array-iter.js 1 -
+/assets/dev/js/modules/modules.js 1 http://decisio.co.uk/assets/dev/js/modules/modules.js
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.regexp.flags.js 1 -
+/wp-config.old 1 https://www.google.com/
+/wp-content/plugins/elementor/assets/assets/dev/js/modules/imports/view-module.js 1 -
+/node_modules/core-js/modules/_object-create.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-create.js
+/node_modules/core-js/modules/_string-html.js 1 http://decisio.co.uk/node_modules/core-js/modules/_string-html.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-create.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-create.js
+/wp-content/plugins/elementor-extras/assets/js/frontend/element_ready/ 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks-define.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks-define.js
+/wp-content/plugins/elementor-pro/assets/js/elementor-pro/frontend/handlers 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_regexp-exec.js 1 -
+/node_modules/core-js/modules/_object-gopd.js 1 http://decisio.co.uk/node_modules/core-js/modules/_object-gopd.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_collection.js 1 -
+/.wp-config.php.swn 1 https://www.google.com/
+/bk 2 http://decisio.co.uk/bk
+/wp-content/plugins/elementor-pro/assets/assets/dev/js/public-path.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/_property-desc.js 1 -
+/wp-content/plugins/elementor/assets/assets/dev/js/frontend/handlers/tabs.js 1 -
+/wp-content/plugins/wp-physical-additionally/ 1 -
+/wp-content/plugins/elementor/assets/js/lib/dialog/dialog 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.get-prototype-of.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.get-prototype-of.js
+/node_modules/core-js/modules/_is-object.js 1 http://decisio.co.uk/node_modules/core-js/modules/_is-object.js
+/feedback 2 http://decisio.co.uk/feedback
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_classof.js 1 -
+/assets/dev/js/modules/imports/args-object.js 1 http://decisio.co.uk/assets/dev/js/modules/imports/args-object.js
+/wp-content/plugins/elementor-pro/assets/modules/gallery/assets/js/frontend/handler.js 1 -
+/wp-content/plugins/elementor-pro/assets/modules/animated-headline/assets/js/frontend/frontend-legacy.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_a-function.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_a-function.js
+/wp-content/plugins/elementor/assets/assets/dev/js/modules/modules.js 1 -
+/wp-content/plugins/wp-user-priv/ 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/core-js/symbol/has-instance.js 1 -
+/modules/social/assets/js/frontend/frontend-legacy.js 1 http://decisio.co.uk/modules/social/assets/js/frontend/frontend-legacy.js
+/wp-config~ 1 https://www.google.com/
+/wp-content/plugins/elementor-pro/assets/modules/popup/assets/js/frontend/timing/sources.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_wks.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_for-of.js 1 -
+/wp-config.php.txt 1 https://www.google.com/
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-length.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-length.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_to-primitive.js 1 -
+/modules/posts/assets/js/frontend/handlers/portfolio.js 1 http://decisio.co.uk/modules/posts/assets/js/frontend/handlers/portfolio.js
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_wks.js 1 -
+/modules/nav-menu/assets/js/frontend/handlers/nav-menu.js 1 http://decisio.co.uk/modules/nav-menu/assets/js/frontend/handlers/nav-menu.js
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_array-species-create.js 1 -
+/wp-content/uploads/theplus-addons/elementor/frontend/init 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/core-js/modules/es6.regexp.replace.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_object-pie.js 1 -
+/sitemap_news.xml 1 http://decisio.co.uk/sitemap_news.xml
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-symbols.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-own-property-symbols.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_cof.js 1 -
+/wp-content/plugins/elementor/assets/node_modules/core-js/modules/_set-to-string-tag.js 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_iter-detect.js 1 -
+/assets/dev/js/frontend/utils 1 http://decisio.co.uk/assets/dev/js/frontend/utils
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_hide.js 1 -
+/wp-content/uploads/layout-mode 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js 1 -
+/modules/carousel/assets/js/frontend/handlers/testimonial-carousel.js 1 http://decisio.co.uk/modules/carousel/assets/js/frontend/handlers/testimonial-carousel.js
+/frontend/handlers/menu_anchor/scroll_top_distance 1 http://decisio.co.uk/frontend/handlers/menu_anchor/scroll_top_distance
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/promise.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/promise.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.array.is-array.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.array.is-array.js
+/frontend/element_ready/dce-dynamicposts-v2.grid 1 http://decisio.co.uk/frontend/element_ready/dce-dynamicposts-v2.grid
+/wp-content/uploads/theplus-addons/jquery-bridget/jquery-bridget 1 -
+/wp-content/plugins/elementor-pro/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_meta.js 1 -
+/node_modules/core-js/modules/_advance-string-index.js 1 http://decisio.co.uk/node_modules/core-js/modules/_advance-string-index.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/object/get-prototype-of.js 1 -
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_uid.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_uid.js
+/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/parse-int.js 1 http://decisio.co.uk/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/fn/parse-int.js
+/wp-content/plugins/elementor/assets/node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/_task.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 652
+92.205.2.144 1419 1419 1720922 20240331233326
+79.124.56.226 56 176 1759957 20240318225234
+13.41.228.159 40 40 399117 20240309012211
+3.8.167.136 40 40 399082 20240310003001
+207.246.255.44 31 31 1364 20240331020055
+120.229.38.224 19 61 563004 20240329101412
+149.56.150.16 13 13 1098178 20240308021338
+35.241.255.75 11 83 224648 20240308161908
+34.38.181.30 10 81 164827 20240323160538
+18.201.195.175 9 9 229806 20240318095407
+34.238.191.150 9 354 10567228 20240309222349
+176.9.76.162 9 9 113518 20240327042639
+177.10.89.81 8 8 580196 20240328191006
+192.95.31.35 8 8 580182 20240326214523
+185.113.8.186 8 8 127646 20240305152402
+194.60.201.161 8 8 580188 20240325122029
+3.25.152.141 7 7 227455 20240309063119
+50.62.144.122 7 7 1508 20240319014439
+86.11.179.143 7 117 1315540 20240311031011
+192.95.30.227 6 6 323070 20240303195459
+147.161.142.91 6 111 1284473 20240325073312
+146.70.181.243 6 9 53368 20240321123832
+68.178.160.245 6 6 1293 20240319022414
+198.71.240.28 5 5 20882 20240319062721
+130.159.237.36 5 109 1268572 20240315082951
+161.97.123.75 1 1 14875 20240325140658
+145.131.30.135 1 1 199 20240327033746
+123.56.81.27 1 1 215 20240313024656
+68.178.227.246 1 1 215 20240318221028
+43.231.115.89 2 2 18011 20240323143300
+134.73.18.232 2 3 17789 20240331020100
+72.167.87.128 1 1 215 20240319020434
+121.80.153.2 2 2 18012 20240324020225
+139.59.15.247 1 1 199 20240316205036
+52.94.133.130 1 1 16488 20240318124231
+51.89.98.160 1 1 199 20240330211414
+194.149.137.230 1 1 199 20240330022827
+154.201.37.23 1 1 13941 20240313111121
+148.66.145.163 2 2 430 20240323210430
+3.111.186.115 1 1 14879 20240327204743
+82.223.83.78 2 2 398 20240328172043
+195.15.213.231 1 1 199 20240322024849
+193.70.96.183 2 2 398 20240308235846
+217.148.140.147 4 6 35578 20240319105651
+148.66.147.12 1 1 215 20240314002338
+164.90.172.194 1 1 16481 20240308022716
+93.159.230.89 2 2 32971 20240331132358
+13.43.89.169 4 107 1253364 20240309021909
+101.100.3.213 1 1 199 20240330233258
+190.183.215.231 1 1 199 20240331015238
+52.90.239.176 1 1 16484 20240331192214
+65.154.226.169 1 1 16488 20240305091446
+148.72.87.51 1 1 215 20240304203149
+162.241.60.81 1 1 1289 20240311110821
+5.196.112.150 1 1 199 20240331185714
+3.252.87.93 1 1 16493 20240307024925
+37.251.155.62 1 1 215 20240316225233
+198.23.128.64 2 3 17788 20240325210505
+185.8.9.2 1 1 199 20240326163220
+92.205.3.142 1 1 215 20240319001757
+68.178.145.137 2 2 431 20240304223556
+72.167.44.8 2 2 430 20240318232139
+156.239.50.168 1 2 3852 20240306211240
+173.201.252.240 1 1 215 20240315232453
+178.18.205.250 1 1 199 20240306161749
+208.113.226.79 1 1 199 20240304194446
+130.185.118.215 2 2 398 20240304105433
+45.67.1.40 2 2 16483 20240318103036
+188.166.176.221 1 1 460 20240309071641
+104.248.14.144 1 1 199 20240321124833
+93.158.90.17 1 1 16484 20240323015837
+188.68.47.165 2 2 398 20240323024716
+34.76.146.130 1 1 100379 20240306051344
+208.109.188.30 1 1 215 20240316113236
+167.86.110.100 0 1 30916 
+78.47.83.243 1 1 199 20240322142122
+162.255.161.132 1 1 199 20240326205001
+178.254.24.91 1 1 16483 20240313041225
+159.203.94.121 1 1 16488 20240302111727
+35.187.31.229 1 1 100379 20240330182052
+54.152.210.209 4 107 1253365 20240327000340
+82.103.87.35 1 1 199 20240331142951
+38.107.85.51 2 2 32966 20240320085039
+31.220.87.139 1 1 199 20240316073508
+137.74.93.238 1 1 199 20240331164440
+192.169.146.123 2 2 431 20240317003402
+181.117.196.125 2 2 5001 20240322093601
+207.90.20.126 1 1 15823 20240329011741
+92.205.170.153 2 2 430 20240318223456
+81.135.251.244 4 107 1253363 20240321071955
+159.223.114.51 2 2 398 20240329033247
+54.144.172.70 1 1 199 20240331132351
+138.68.240.158 1 1 16485 20240303232625
+34.147.139.172 1 1 199 20240321164639
+188.40.189.172 2 2 398 20240324024404
+206.189.88.62 1 1 17118 20240302161318
+95.216.97.139 3 3 597 20240328042904
+102.165.16.58 2 3 17787 20240331232213
+37.217.151.56 1 1 16487 20240301080329
+157.90.207.16 2 2 398 20240326055244
+101.44.250.78 1 1 16485 20240310084129
+155.133.132.66 2 2 398 20240307170926
+31.24.128.58 1 1 215 20240323231032
+89.107.187.42 1 1 199 20240308044610
+94.247.178.40 1 1 199 20240326095919
+93.159.230.88 1 1 16487 20240303131137
+67.222.147.67 1 1 215 20240304205650
+94.250.249.80 1 1 199 20240327011543
+159.69.1.64 2 2 398 20240303222322
+36.77.85.39 2 2 4996 20240311221456
+137.59.109.154 1 1 215 20240313011610
+103.102.25.135 2 2 4999 20240323044831
+46.29.234.178 2 3 17791 20240328174605
+145.239.35.5 1 1 199 20240315203337
+185.223.152.47 0 1 3779 
+41.221.49.120 1 1 2440 20240303000647
+49.12.126.218 1 1 199 20240312013814
+217.160.200.238 1 1 199 20240302074045
+185.242.112.247 2 2 398 20240305064557
+125.164.8.6 2 2 5000 20240301184324
+13.238.6.175 1 1 199 20240330010559
+162.211.80.31 1 1 199 20240326141759
+65.154.226.166 1 1 16485 20240329011738
+159.65.85.185 1 1 199 20240306141253
+103.166.254.66 2 2 4999 20240304131053
+189.126.206.157 1 1 215 20240318224216
+77.99.73.93 1 1 0 20240328122648
+45.94.31.231 2 2 0 20240313014803
+51.254.199.11 3 3 49458 20240321233119
+146.59.70.139 1 1 199 20240327131115
+92.53.99.196 2 2 398 20240307193227
+64.140.130.72 1 1 14694 20240305090902
+68.178.149.56 1 1 215 20240316000323
+54.202.154.127 1 1 16485 20240319023950
+208.109.34.65 1 1 2439 20240304015005
+116.202.216.178 3 3 597 20240331221238
+178.239.198.142 1 1 70 20240315072806
+139.59.25.223 1 1 215 20240313010616
+117.64.77.48 3 4 32672 20240331061818
+198.240.105.234 1 1 14881 20240305090851
+184.168.103.93 1 1 215 20240305022816
+45.178.30.233 2 2 5000 20240307070505
+159.65.204.42 1 1 199 20240325142847
+94.156.64.6 0 2 61832 
+52.2.167.251 2 2 398 20240305000809
+195.171.128.162 4 107 1253362 20240318043748
+34.220.168.44 1 1 16484 20240303023017
+104.143.245.220 2 3 17789 20240315201947
+174.138.63.78 1 1 199 20240325050942
+184.168.111.22 1 1 215 20240314022919
+45.61.125.108 2 3 17789 20240322032635
+172.255.93.64 2 3 17790 20240311194725
+134.122.60.203 1 1 199 20240329133157
+188.124.24.104 3 3 161532 20240301105240
+178.254.29.124 1 1 16485 20240304055803
+207.32.131.92 1 1 14183 20240321031609
+104.238.37.32 2 3 17790 20240327055346
+89.23.107.212 2 2 28818 20240312173917
+50.62.80.105 1 1 2439 20240325110644
+157.245.123.245 1 1 16483 20240309175741
+78.46.39.52 2 2 398 20240325121141
+68.178.223.62 1 1 215 20240319004145
+185.70.94.209 2 2 398 20240309094311
+185.223.152.56 1 1 70 20240304205438
+178.239.198.133 0 1 3779 
+85.254.42.225 1 1 14875 20240321031558
+31.6.26.162 1 1 73 20240310235727
+35.91.205.150 1 1 16484 20240327023109
+189.240.60.168 1 1 70 20240323224424
+68.178.145.89 1 1 215 20240318222306
+3.106.40.155 1 1 215 20240319001148
+37.128.144.106 1 1 199 20240329145813
+89.248.173.201 1 1 199 20240322215728
+75.119.145.42 2 2 398 20240329185956
+65.19.141.115 1 1 100379 20240305010459
+5.133.192.135 1 1 16489 20240326101151
+198.54.120.32 1 1 215 20240318225010
+168.151.58.229 1 1 14881 20240329011734
+209.17.114.78 1 1 199 20240330062827
+34.22.161.106 1 1 100379 20240301170310
+46.249.40.9 1 1 199 20240331200706
+35.160.90.17 1 1 16483 20240319023939
+168.151.93.22 1 1 13939 20240329011739
+104.250.201.148 2 3 17790 20240312145519
+92.204.139.118 1 1 215 20240317045533
+45.61.118.192 2 3 17790 20240323062255
+178.239.198.139 1 1 13940 20240315072802
+112.78.39.137 2 2 4999 20240308133608
+101.44.251.69 1 1 16484 20240329194442
+68.178.145.140 1 1 215 20240318233718
+64.140.139.249 1 1 14184 20240305090902
+148.251.43.56 3 3 597 20240325094921
+198.12.216.169 1 1 215 20240312225659
+97.74.82.93 1 1 2441 20240326144452
+154.12.244.40 3 3 597 20240311130913
+37.19.217.102 2 3 17793 20240303194818
+116.109.45.9 1 1 215 20240305010215
+45.86.202.183 0 1 3779 
+68.183.35.38 1 1 16485 20240323185435
+212.227.184.162 1 1 199 20240317114255
+178.159.37.38 1 2 20449 20240325080557
+217.160.67.67 2 2 398 20240311230821
+139.59.165.230 1 1 16487 20240305180100
+146.59.3.188 1 1 199 20240303121903
+68.178.148.72 1 1 215 20240315223921
+85.255.20.171 1 1 0 20240316161512
+208.109.73.149 1 1 215 20240316095532
+209.99.150.133 1 1 13942 20240305090902
+68.178.167.122 2 2 430 20240316130455
+202.61.241.198 1 1 199 20240311055733
+85.254.51.110 1 1 15827 20240329011739
+167.99.93.178 1 1 199 20240316171636
+68.178.155.83 1 1 215 20240316215313
+209.209.40.12 3 3 597 20240311153529
+194.233.93.211 1 1 199 20240330074038
+178.128.228.35 1 1 16487 20240311180542
+198.71.230.56 1 1 215 20240318230259
+91.193.232.182 1 1 70 20240305190538
+35.213.170.208 2 2 431 20240313234203
+206.206.71.53 2 3 17788 20240330070549
+18.208.245.253 1 1 16484 20240326014448
+101.44.251.61 1 1 16480 20240314130813
+185.48.52.77 2 3 17790 20240301234342
+34.219.57.8 1 1 16486 20240303023018
+46.23.98.64 2 2 398 20240330111156
+97.74.207.34 1 1 215 20240304215535
+104.194.192.118 1 1 15821 20240305090903
+158.69.23.79 2 2 32974 20240305230212
+167.248.133.123 1 1 16486 20240318233418
+173.249.52.101 2 2 4896 20240304184730
+134.209.78.220 1 1 16485 20240325194816
+185.71.171.85 1 1 16486 20240313152322
+81.45.69.139 1 1 215 20240324002606
+64.137.83.213 2 3 17790 20240308030827
+195.22.100.25 2 2 398 20240331153831
+206.189.95.179 1 1 17029 20240302151631
+104.236.200.237 1 1 16485 20240321190214
+202.61.225.22 2 2 398 20240326075833
+8.131.70.17 1 1 215 20240318213049
+161.123.152.80 2 3 17790 20240302230424
+104.143.252.232 2 3 17788 20240322051955
+192.42.116.179 1 1 16491 20240317102949
+3.6.180.7 1 1 199 20240312063433
+188.220.227.191 4 107 1253365 20240319075814
+92.63.99.29 1 1 199 20240316190555
+93.158.90.65 1 1 16482 20240328163535
+159.65.26.190 1 1 16320 20240302122108
+198.54.113.125 1 1 215 20240313023427
+85.254.7.168 1 1 13730 20240329011739
+209.99.146.8 1 1 13730 20240305090902
+72.167.56.50 2 2 431 20240318231641
+134.122.42.44 1 1 16483 20240303232616
+31.135.90.40 3 3 161530 20240302051602
+109.61.11.2 2 2 398 20240306095342
+103.11.100.11 1 1 2440 20240314055720
+192.241.186.159 2 2 398 20240329195554
+50.21.190.186 1 1 199 20240329221653
+23.80.158.22 2 3 17789 20240318224438
+91.193.232.208 1 1 13941 20240305190530
+142.154.75.156 2 2 4999 20240321055258
+54.218.152.58 1 1 16486 20240307023248
+93.158.91.29 1 1 16484 20240303095555
+107.178.235.227 1 1 0 20240307175034
+34.212.41.85 1 1 16483 20240323023820
+185.162.94.16 1 1 199 20240305175442
+35.187.44.236 1 1 16485 20240302122014
+143.244.189.82 1 1 17028 20240302151831
+72.167.209.248 2 2 430 20240316220536
+198.105.100.221 2 3 17788 20240314024721
+82.80.249.243 1 1 16486 20240310062942
+50.63.179.127 1 1 215 20240313214426
+109.74.193.65 1 1 215 20240316213959
+91.58.26.151 1 1 199 20240331111301
+69.55.61.81 1 1 199 20240317003017
+207.148.85.217 1 1 199 20240303122319
+68.178.157.109 1 1 215 20240316122844
+208.109.71.15 1 1 215 20240316233429
+165.22.211.54 1 1 8033 20240317004247
+196.19.249.83 1 1 14879 20240303082605
+159.65.35.240 1 1 16488 20240317193259
+208.109.34.70 1 1 215 20240315230043
+54.39.17.116 2 2 18012 20240312153734
+87.236.176.163 1 1 16489 20240327154425
+94.247.172.129 1 1 16483 20240319190621
+167.235.102.79 2 2 18009 20240302153201
+50.63.3.125 1 1 215 20240317001331
+172.98.71.182 2 3 17792 20240320004922
+207.90.20.197 1 1 13728 20240321031608
+45.86.202.196 1 1 70 20240326111427
+46.30.247.27 1 1 199 20240309143500
+44.197.197.137 2 128 4265190 20240309155542
+212.30.36.228 1 1 70 20240320054611
+46.19.138.210 1 1 16483 20240321211219
+196.199.55.2 1 1 14879 20240311235744
+148.72.232.105 1 1 215 20240318211339
+185.225.33.45 1 1 14880 20240325225958
+77.95.113.65 2 2 18016 20240322035543
+198.240.105.174 1 1 13940 20240321031610
+194.143.202.60 1 1 199 20240330165222
+195.248.231.19 1 1 2439 20240310223146
+128.90.141.115 2 2 0 20240325111339
+212.38.40.210 2 2 430 20240318204521
+216.172.136.25 1 1 13939 20240310235613
+136.244.94.160 3 3 161530 20240304175050
+144.126.209.76 1 1 17030 20240302150433
+85.159.145.70 1 1 2439 20240310224812
+3.19.58.124 1 1 16487 20240302110029
+65.154.226.168 1 1 16486 20240321031658
+188.68.47.178 1 1 199 20240317041710
+206.189.1.157 1 1 16484 20240315185447
+46.29.234.144 2 3 17793 20240325060309
+34.86.21.151 1 1 100379 20240316162848
+148.113.142.203 1 1 199 20240315150606
+92.205.56.223 2 2 18012 20240322035507
+107.180.94.13 2 2 4879 20240325193543
+165.232.183.79 1 1 16488 20240319190229
+87.236.176.41 1 1 16484 20240310075530
+64.140.130.179 1 1 14819 20240305090902
+199.45.155.48 1 1 16488 20240322163146
+149.255.56.185 1 1 199 20240321235528
+147.182.129.129 1 1 16487 20240327174904
+104.143.245.111 2 3 17790 20240303013756
+148.72.207.110 2 2 18012 20240315081634
+45.139.6.10 1 1 70 20240322081357
+5.253.60.4 1 1 0 20240304105556
+109.248.204.220 1 1 14880 20240324172218
+192.185.131.60 1 1 0 20240305041143
+91.92.254.89 2 2 4896 20240305022442
+146.59.147.11 4 4 796 20240308022613
+23.98.148.92 1 1 199 20240328144419
+144.208.75.125 1 1 199 20240305201103
+167.71.223.197 1 1 199 20240311180508
+216.170.124.179 1 1 199 20240323001653
+91.92.255.186 0 2 35578 
+101.44.248.28 1 1 16484 20240308212442
+162.19.230.241 1 1 215 20240318222711
+173.212.202.207 1 1 215 20240323214730
+154.29.239.180 2 3 17790 20240323155541
+95.217.75.104 1 1 199 20240311204104
+212.30.36.184 0 1 3779 
+191.101.132.215 1 2 3852 20240320034242
+104.199.94.228 1 1 215 20240318230705
+208.113.230.114 1 1 199 20240328194714
+168.151.60.115 1 1 15825 20240329011740
+185.45.114.240 1 1 199 20240306204523
+178.63.54.227 1 1 199 20240327081907
+178.62.222.224 1 1 16486 20240303173352
+35.177.177.101 2 2 398 20240324181639
+104.233.12.60 2 3 17790 20240301212218
+45.134.142.73 2 3 17790 20240314100925
+95.111.251.70 1 1 199 20240310073634
+80.66.201.125 3 3 597 20240312091446
+164.92.113.145 1 1 16482 20240313180921
+45.79.222.6 2 2 398 20240308213558
+88.248.23.191 2 2 5000 20240305114435
+34.79.174.58 1 1 100379 20240304001655
+184.174.126.209 2 3 17790 20240327165026
+217.182.198.206 1 1 199 20240330051540
+34.78.36.141 1 1 100379 20240308115140
+173.212.237.111 0 1 30916 
+37.97.206.40 1 1 199 20240327231539
+81.19.186.222 1 1 215 20240313214027
+94.247.133.45 3 3 597 20240310145443
+149.34.252.12 2 3 17789 20240323235230
+104.148.5.110 2 3 17789 20240324001217
+217.160.95.20 1 1 199 20240328070115
+205.210.31.217 1 1 100379 20240304150124
+190.92.216.132 1 1 16488 20240306030901
+192.53.166.51 1 1 199 20240331085854
+68.178.152.158 1 1 215 20240304203737
+89.207.146.191 1 1 199 20240303181130
+148.72.125.111 1 1 215 20240316034323
+185.184.155.105 1 1 215 20240305021540
+13.94.151.188 1 1 199 20240316115016
+164.132.164.218 1 1 199 20240330154652
+178.254.10.188 1 1 215 20240323232635
+34.220.227.154 3 3 105651 20240331192025
+45.86.202.169 1 1 13941 20240326111424
+195.38.168.118 1 1 199 20240317061431
+35.91.10.228 1 1 16487 20240323023819
+65.155.30.101 1 1 16489 20240305120835
+182.50.135.57 1 1 215 20240316221628
+92.205.182.254 2 2 430 20240316011326
+104.232.211.47 2 3 17790 20240307234025
+72.167.54.64 1 1 2440 20240305094153
+64.140.139.84 1 1 14817 20240321031609
+201.208.71.9 2 2 5000 20240318100805
+154.201.34.51 1 2 17719 20240309094824
+5.134.122.120 1 1 199 20240302145331
+8.219.197.40 1 1 215 20240315231221
+209.99.161.137 1 1 15827 20240321031610
+23.20.34.89 1 1 80975 20240321184459
+196.242.114.84 5 6 65262 20240311235808
+82.223.18.181 1 1 199 20240324071421
+95.111.228.133 1 1 199 20240331211110
+128.199.62.212 1 1 16483 20240322033030
+34.247.214.137 1 1 16489 20240313092500
+80.91.49.92 1 1 199 20240316152805
+50.16.99.133 1 1 100379 20240324043252
+87.236.176.250 1 1 16485 20240331103904
+148.66.145.26 1 1 215 20240313215720
+37.130.150.27 1 1 199 20240324045844
+38.113.191.66 1 1 199 20240308093124
+35.240.255.183 2 2 18015 20240322233033
+167.248.133.52 1 1 16488 20240324133247
+184.168.117.210 1 1 2438 20240313051235
+198.12.216.200 1 1 215 20240313222641
+5.161.142.225 2 2 398 20240329233812
+50.62.177.221 1 1 215 20240316134602
+188.68.47.21 2 2 398 20240323101723
+93.114.234.248 1 1 199 20240324045718
+74.234.65.11 1 1 199 20240331080102
+5.182.110.197 2 2 28817 20240327150554
+158.222.119.203 1 1 14876 20240312081529
+107.173.137.71 2 3 17790 20240317192046
+5.187.50.23 1 1 199 20240330223019
+51.195.149.10 2 2 398 20240330201034
+159.203.10.218 2 2 398 20240310194637
+88.159.49.189 2 2 398 20240329112519
+173.236.234.23 1 1 199 20240311104048
+142.93.141.175 1 1 199 20240321203501
+179.43.180.114 1 1 16486 20240327175340
+198.71.235.31 3 3 645 20240318220114
+92.205.226.19 3 3 597 20240328093417
+167.88.175.43 0 1 1627 
+89.149.23.119 4 6 35581 20240329053226
+173.249.147.100 1 1 199 20240324161322
+18.232.74.234 1 1 100379 20240321130757
+185.37.70.36 1 1 199 20240330035303
+45.139.6.43 1 1 13939 20240322081349
+92.205.185.112 2 2 430 20240319012525
+18.231.85.74 1 1 199 20240331231841
+54.200.89.194 1 1 16484 20240327023105
+154.84.140.210 1 1 13942 20240306211131
+167.86.80.181 3 3 597 20240328222756
+139.59.34.190 1 1 199 20240308163751
+104.238.10.137 2 3 17791 20240304131058
+205.210.31.92 1 1 100379 20240329225938
+104.233.15.135 2 3 17790 20240318035854
+154.53.161.31 1 1 199 20240330084916
+87.236.20.180 1 1 0 20240302053637
+35.240.29.110 1 1 199 20240302202439
+184.168.98.94 1 1 215 20240305001714
+194.31.108.8 1 1 215 20240314035519
+168.151.38.219 1 1 14692 20240321031609
+185.184.155.124 1 1 215 20240318223051
+101.44.249.127 1 1 16485 20240316012943
+45.129.37.184 1 1 225 20240325031009
+151.106.8.106 2 3 17793 20240328075210
+154.0.175.200 1 1 215 20240318210209
+44.214.81.238 1 1 199 20240303081720
+149.56.150.249 4 107 1253365 20240308021407
+113.212.127.95 2 2 4999 20240320034206
+5.133.192.212 1 1 16486 20240311124918
+181.165.150.185 2 2 5001 20240306141244
+185.187.169.33 1 1 199 20240309215047
+34.252.114.137 1 1 16485 20240320093737
+72.167.104.249 3 3 18225 20240317032055
+68.178.145.192 2 2 430 20240318234245
+91.206.178.30 1 1 128561 20240313062853
+138.197.89.66 2 2 398 20240330190349
+190.106.145.111 1 1 199 20240307102406
+93.16.216.118 1 1 199 20240303001501
+46.231.112.250 1 1 199 20240310024407
+185.249.227.119 2 2 398 20240303201707
+104.248.86.97 1 1 16488 20240329195911
+104.232.209.94 2 3 17792 20240329182542
+34.220.125.3 1 1 16484 20240307023249
+67.220.86.160 1 1 16484 20240302104447
+199.45.154.51 1 1 16482 20240318193345
+192.169.148.26 1 1 215 20240317012901
+162.214.220.217 2 2 398 20240327105933
+91.90.121.149 2 3 17788 20240314001840
+31.200.240.22 1 1 199 20240316224122
+95.217.206.177 1 1 199 20240304064238
+93.158.91.19 1 1 16488 20240309043205
+185.23.117.252 3 3 597 20240312040747
+46.29.235.56 2 3 17793 20240314053011
+212.33.32.160 2 2 398 20240316134058
+45.56.174.128 2 3 17788 20240313221741
+85.115.208.31 1 1 14880 20240309025611
+203.190.12.29 2 2 18016 20240323171818
+68.178.150.105 1 1 215 20240304211751
+86.127.230.205 1 1 100390 20240325162234
+209.99.139.196 2 2 29514 20240329011739
+54.217.83.13 1 1 16489 20240304172928
+192.46.237.60 1 1 199 20240316095914
+36.92.1.31 1 1 215 20240313200907
+50.62.177.237 1 1 215 20240317004442
+185.223.152.36 1 1 13939 20240304205433
+5.44.111.148 1 1 215 20240323211000
+185.187.31.53 1 1 199 20240323051245
+199.45.155.35 2 2 32967 20240325181033
+63.250.38.26 2 2 18011 20240323115559
+35.94.173.245 1 1 100379 20240310183919
+212.115.111.118 1 1 215 20240313032347
+50.62.182.245 2 2 431 20240305062420
+95.111.254.22 2 2 18015 20240323143301
+208.109.203.225 2 2 430 20240319043954
+87.236.176.124 1 1 16487 20240327134005
+51.79.19.39 1 1 199 20240330122144
+64.225.106.120 2 2 30524 20240302124736
+38.107.87.125 2 2 32971 20240321091538
+41.111.172.20 2 2 4996 20240313110535
+31.193.163.35 1 1 215 20240314034309
+148.72.153.86 2 2 18012 20240323171609
+97.74.211.129 1 1 2440 20240317052056
+191.101.132.63 1 1 13940 20240320034239
+72.167.209.98 1 1 215 20240316074945
+154.84.140.73 1 1 73 20240313111447
+140.82.3.195 2 2 398 20240324002803
+154.201.33.105 2 3 17793 20240303105826
+64.140.141.10 1 1 15823 20240321031610
+144.91.102.204 1 1 215 20240323204852
+82.195.251.67 2 2 398 20240331052639
+159.203.140.228 1 1 15163 20240302122413
+212.118.36.6 1 1 199 20240317095105
+145.220.91.19 2 2 32965 20240329232739
+159.69.120.203 1 1 199 20240317132453
+104.248.160.182 1 1 16487 20240307180255
+101.44.249.147 1 1 16486 20240325050919
+65.154.226.171 1 1 16485 20240319070926
+92.205.186.198 1 1 2440 20240307005239
+62.149.182.133 2 2 398 20240311004552
+91.237.124.210 1 1 100379 20240307223009
+44.205.210.181 1 1 199 20240304151740
+149.40.49.140 2 3 17792 20240321222837
+212.30.36.185 1 1 13941 20240320054607
+165.227.178.194 4 4 796 20240310122826
+104.199.27.63 1 1 16484 20240321070357
+31.187.64.99 3 3 597 20240308190233
+178.128.44.122 1 1 199 20240330133258
+180.252.116.110 2 2 4999 20240319175039
+104.239.107.159 2 3 17789 20240315184913
+199.168.185.94 1 1 199 20240307032826
+217.70.186.133 1 1 199 20240308115747
+51.77.26.1 1 1 199 20240331121839
+132.148.78.15 2 2 4881 20240326180908
+52.27.234.56 1 1 16484 20240331023949
+199.244.88.232 1 1 16486 20240325105550
+54.244.61.15 1 1 16485 20240331210540
+148.72.232.95 1 1 215 20240318213735
+193.34.166.183 1 1 199 20240324093926
+35.76.151.123 1 1 199 20240306115602
+216.172.178.52 1 1 199 20240309192830
+109.123.253.230 1 1 199 20240325235953
+91.193.232.220 0 1 3779 
+134.209.44.50 3 3 597 20240309045358
+192.169.145.195 2 2 431 20240324032140
+5.133.192.140 1 1 16489 20240314215311
+44.222.25.214 1 1 16482 20240307034126
+5.157.131.105 2 3 17788 20240306110346
+217.160.207.161 1 1 199 20240330100129
+35.245.66.61 1 1 199 20240311031801
+34.253.184.137 1 1 16486 20240327095711
+207.154.196.136 3 3 597 20240326075755
+68.178.162.243 1 1 2439 20240325055100
+20.218.128.24 1 1 199 20240328015404
+185.246.188.74 1 1 15572 20240317102958
+198.57.27.37 1 1 13940 20240323224347
+80.209.252.126 3 3 597 20240329061215
+50.62.150.245 1 1 215 20240316073412
+31.22.4.112 1 1 8040 20240317044120
+104.148.28.24 2 2 30326 20240319181507
+208.109.63.235 2 2 431 20240316125241
+103.139.10.85 2 2 5000 20240303072056
+184.168.123.46 1 1 215 20240314021837
+125.212.214.217 1 1 2439 20240325012401
+114.69.249.92 2 2 5000 20240324151127
+64.23.240.231 1 1 16487 20240331175848
+203.115.100.194 1 1 215 20240323202921
+168.119.121.248 2 2 398 20240331175522
+89.248.174.34 2 2 32970 20240322225734
+72.167.56.43 3 3 645 20240316223544
+94.130.16.144 1 1 199 20240305223206
+190.12.79.103 2 2 398 20240311081032
+5.133.192.146 1 1 16484 20240320160134
+86.6.100.49 1 101 750264 20240312033733
+161.132.40.128 1 1 2439 20240325011719
+109.236.83.58 1 1 199 20240331030338
+50.62.177.12 1 1 215 20240313205547
+82.165.78.79 1 1 199 20240317080700
+143.110.226.145 1 1 16155 20240302145839
+68.178.226.214 1 1 215 20240316081344
+94.210.171.77 4 107 1253348 20240307075514
+132.148.120.15 1 1 215 20240313000609
+107.180.121.60 2 2 431 20240313205129
+87.106.16.172 1 1 199 20240305111258
+91.204.46.211 1 1 199 20240305132734
+157.52.233.166 2 3 17790 20240320092326
+101.44.251.203 1 1 16489 20240306203950
+217.160.6.41 1 1 199 20240323220025
+45.146.31.22 2 3 17788 20240313230416
+146.70.121.178 4 6 35580 20240308062520
+52.208.151.205 1 1 16484 20240311203912
+139.171.25.185 2 3 17790 20240303194120
+45.41.141.60 1 1 14878 20240321031608
+183.181.84.7 1 1 199 20240329162706
+88.99.101.136 2 2 18009 20240302123017
+154.0.167.183 1 1 215 20240323221315
+199.244.88.226 1 1 16483 20240313124937
+68.178.149.194 1 1 215 20240317030746
+82.165.67.211 1 1 199 20240305182658
+145.131.25.244 2 2 16071 20240315160823
+185.85.17.117 2 2 398 20240309170125
+196.240.51.174 5 6 65265 20240303082638
+143.110.190.136 2 2 18011 20240322232921
+77.48.29.193 2 2 398 20240331100709
+41.248.26.55 2 2 5000 20240307135606
+89.22.113.202 2 2 398 20240327180836
+148.72.245.234 1 1 215 20240313215252
+104.225.216.192 3 3 161534 20240305201349
+184.168.111.168 1 1 215 20240316112200
+45.139.6.34 0 1 3779 
+128.199.178.73 2 2 398 20240310100345
+45.43.180.203 2 3 17788 20240310181718
+13.37.185.35 1 1 199 20240322191728
+104.238.92.18 2 2 4879 20240325022208
+178.62.214.186 1 1 16484 20240301180203
+114.7.122.50 1 1 199 20240325145839
+68.178.159.26 1 1 215 20240313221628
+147.135.117.16 4 4 796 20240326183957
+46.255.163.60 1 1 199 20240316002830
+85.128.143.110 1 1 199 20240322084630
+194.187.169.11 1 1 16488 20240304074231
+181.119.65.246 2 2 18012 20240324060706
+45.67.143.238 1 1 15819 20240321031610
+18.134.154.100 4 107 1253360 20240310041437
+68.178.149.21 1 1 215 20240319013755
+62.141.44.236 1 1 16485 20240321192319
+207.32.131.122 1 1 14880 20240329011739
+178.33.40.189 2 2 398 20240330175931
+51.222.240.217 1 1 215 20240323204355
+102.164.38.82 2 2 18012 20240322054328
+74.63.227.54 1 1 199 20240305043509
+51.77.251.106 1 1 199 20240323194438
+198.235.24.123 1 1 100379 20240312052115
+212.227.3.10 1 1 199 20240331041754
+92.204.220.58 2 2 18011 20240304121502
+44.200.209.28 1 1 14884 20240312094542
+185.81.6.81 1 1 199 20240310171654
+38.170.190.128 2 3 17789 20240321200547
+118.69.175.73 1 1 100379 20240310141711
+38.153.196.248 2 3 17791 20240307011206
+184.72.115.35 1 1 15549 20240316235857
+85.254.51.66 1 1 15829 20240305090902
+36.85.6.157 2 2 5000 20240309141518
+103.95.119.122 2 2 398 20240307214109
+91.90.121.158 2 3 17790 20240312224814
+45.41.162.38 2 3 17790 20240329160344
+113.161.212.46 1 1 2439 20240315220803
+5.188.62.140 3 3 35406 20240303111314
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240301 51 53 386081 20
+20240302 79 80 496751 39
+20240303 108 113 693875 40
+20240304 105 107 567158 45
+20240305 108 110 694563 53
+20240306 64 66 226961 30
+20240307 77 183 1543898 34
+20240308 90 267 2820538 32
+20240309 133 710 17014492 33
+20240310 111 216 2022863 36
+20240311 67 180 1552744 30
+20240312 64 167 1041109 28
+20240313 100 103 388567 44
+20240314 65 69 158914 23
+20240315 59 166 1419441 27
+20240316 93 93 207303 47
+20240317 70 71 155292 35
+20240318 145 372 3458599 43
+20240319 70 175 1462124 31
+20240320 40 44 192729 18
+20240321 81 187 1824962 41
+20240322 76 79 266595 31
+20240323 118 192 464455 43
+20240324 78 79 260698 33
+20240325 108 216 2202263 41
+20240326 82 83 691481 35
+20240327 76 181 1523715 35
+20240328 63 65 684674 22
+20240329 100 146 988321 42
+20240330 66 67 189256 35
+20240331 88 91 327608 43
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 14
+2mn-5mn 4
+30s-2mn 10
+30mn-1h 40
+15mn-30mn 23
+1h+ 111
+0s-30s 887
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 113
+/wp-cron.php 1282 0 275 275
+/xmlrpc.php 408 83649 402 402
+/ 329 6749092 210 186
+/contact/ 96 1768837 77 20
+/wp-login.php 87 236814 65 47
+/wp-admin/admin-ajax.php 71 5015 11 71
+/wp-json/oembed/1.0/embed 24 51226 0 1
+/about/ 22 720491 7 5
+/consulting/ 19 356207 3 6
+/wp-json 19 2442659 0 9
+/blog/ 18 371932 3 7
+/author/admin/ 17 264726 1 16
+/uncategorized/identity-design-for-a-new-crusader-4/ 17 356388 5 5
+/uncategorized/identity-design-for-a-new-crusader-2/ 17 356350 4 4
+/services/ 16 325228 4 3
+/uncategorized/identity-design-for-a-new-crusader-3/ 16 340531 3 3
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 11 883350 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 11 944290 0 7
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 11 863110 0 1
+/feed/ 10 9720 0 0
+/uncategorized/identity-design-for-a-new-crusader/ 7 192756 1 2
+/sitemap_index.xml 7 3945 2 1
+/page-sitemap.xml 5 3041 0 0
+/author-sitemap.xml 5 2197 0 1
+/e-landing-page-sitemap.xml 5 1830 0 2
+/deleteme.wpfhmobx.php 1 14380 0 0
+/deleteme.wphhfahj.php 1 14380 0 0
+/deleteme.cha2qti2.php 1 3231 0 0
+/deleteme.chaic5ek.php 1 3231 1 0
+/deleteme.wpbavghb.php 1 14380 0 0
+/wp-content/themes/index.php 1 0 1 1
+/deleteme.chact4g4.php 1 3231 1 0
+/deleteme.wposx5yh.php 1 14380 0 0
+/deleteme.wpfqov5o.php 1 14380 0 0
+/deleteme.wpkjcgc4.php 1 14380 0 0
+/category/uncategorized/ 1 15239 0 0
+/deleteme.cha840su.php 1 3231 0 0
+/deleteme.wplheal4.php 1 14380 0 0
+/deleteme.wpl9mqnq.php 1 14380 0 0
+/deleteme.chayjo0b.php 1 3231 0 0
+/deleteme.chap1aqr.php 1 3231 0 0
+/deleteme.wpbatmxr.php 1 14380 0 0
+/deleteme.chaqyl5d.php 1 3231 0 0
+/deleteme.wppfnm5f.php 1 14380 0 0
+/uncategorized/identity-design-for-a-new-crusader/feed/ 1 451 0 0
+/deleteme.wpwlu4nr.php 1 14380 0 0
+/deleteme.wpogv4qw.php 1 14380 0 0
+/deleteme.chaivovx.php 1 3231 0 0
+/deleteme.wpwnrmfz.php 1 14380 0 0
+/deleteme.wptttqbm.php 1 14373 0 0
+/uncategorized/identity-design-for-a-new-crusader-2/feed/ 1 453 0 0
+/wp-json/ 3 385683 1 1
+/deleteme.chabmq9c.php 1 3231 0 0
+/wp-includes/wlwmanifest.xml 3 1380 1 1
+/deleteme.chap0hnf.php 1 3231 0 0
+/deleteme.wpmylrpm.php 1 14380 0 0
+/deleteme.chafolib.php 1 3231 0 0
+/uncategorized/identity-design-for-a-new-crusader-3/feed/ 1 454 0 0
+/deleteme.wpglecae.php 1 14380 0 0
+/feed/atom/ 1 5706 1 1
+/deleteme.wpzhznjq.php 1 14380 0 1
+/deleteme.chaqxnkj.php 1 3231 0 0
+/deleteme.wpiavsrk.php 1 14380 0 0
+/deleteme.chaon74b.php 1 3231 1 0
+/deleteme.wp7icbp3.php 1 14380 0 0
+/deleteme.wpgiaolq.php 1 14380 0 0
+/deleteme.chaepra3.php 1 3231 0 0
+/uncategorized/identity-design-for-a-new-crusader-4/feed/ 1 454 0 0
+// 4 62305 0 4
+/deleteme.wp2y5dqi.php 1 14380 0 0
+/deleteme.wpkeuif4.php 1 14380 0 0
+/deleteme.cha5kydz.php 1 3231 0 0
+/deleteme.wpuyvgl7.php 1 14373 0 0
+/deleteme.cha3ptw9.php 1 3231 0 0
+/deleteme.chav1qog.php 1 3231 0 0
+/2021/05/ 1 15382 0 0
+/deleteme.chajl6jd.php 1 3231 1 0
+/deleteme.wplfokg9.php 1 14380 0 0
+/deleteme.chaossuh.php 1 3231 1 0
+/deleteme.chabzgw2.php 1 3231 0 0
+/deleteme.wpyy87q5.php 1 14380 0 0
+/deleteme.chazmthr.php 1 3231 0 0
+/deleteme.wpsb59fk.php 1 14380 0 0
+/deleteme.chahexq3.php 1 3231 0 0
+/deleteme.wpfgsajl.php 1 14380 0 0
+/deleteme.chahyq3g.php 1 3231 0 0
+/deleteme.wptb4iqf.php 1 14380 0 0
+/deleteme.chao1ir6.php 1 3231 0 0
+/deleteme.chazoruc.php 1 3231 1 0
+/deleteme.chaum5jl.php 1 3231 0 0
+/deleteme.chaqm5bd.php 1 3231 1 0
+/author/admin/feed/ 1 990 0 0
+/deleteme.cha9buvb.php 1 3231 0 0
+/wp-content/index.php 2 0 2 2
+/post-sitemap.xml 5 4640 0 0
+/wp-admin/install.php 1 1289 1 1
+/deleteme.wp9qvjst.php 1 14380 0 1
+/deleteme.chasno3i.php 1 3231 1 0
+/deleteme.chav5pul.php 1 3231 0 0
+/comments/feed/ 2 806 0 0
+/deleteme.wpqnldd5.php 1 14380 0 0
+/deleteme.wphrkmsm.php 1 14380 0 0
+/deleteme.chaj45mz.php 1 3231 0 0
+/deleteme.chavdz6m.php 1 3231 0 0
+/deleteme.wpjrtg38.php 1 14380 0 0
+/deleteme.chatfwcq.php 1 3231 1 0
+/category/uncategorized/feed/ 1 989 0 0
+/category-sitemap.xml 5 2223 0 0
+/deleteme.wpi3j4dh.php 1 14380 0 1
+/deleteme.cha3wyvx.php 1 3231 0 0
+/deleteme.chatf4bz.php 1 3231 0 0
+/deleteme.wpfygg1u.php 1 14380 0 1
+/deleteme.wpbj47wu.php 1 14380 0 0
+END_SIDER

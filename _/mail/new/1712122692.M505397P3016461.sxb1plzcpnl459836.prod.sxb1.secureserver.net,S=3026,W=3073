@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id cGGTHUTrDGYNBy4AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 02 Apr 2024 22:38:12 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 02 Apr 2024 22:38:12 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rrtK8-00Cf6Z-1R
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 02 Apr 2024 22:38:12 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <osITFldr9vj3Mdr2aKzwiLuL7FRox3LZMZIIgy34@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rrtK8-00Cf6Z-1R@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Tue, 02 Apr 2024 22:38:12 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rrtJx-00CeyB-2b
+	for hello@decisio.CO.uk;
+	Tue, 02 Apr 2024 22:38:01 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 156.146.36.97
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 156.146.36.97
+Date: Wed, 3 Apr 2024 05:38:01 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <osITFldr9vj3Mdr2aKzwiLuL7FRox3LZMZIIgy34@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Romaine<br>Email: decisio.co.uk@live.com<br>Message: Hey <br /><br />I wanted to reach out and let you know about our new dog harness. It's really easy to put on and take off - in just 2 seconds - and it's personalized for each dog. <br />Plus, we offer a lifetime warranty so you can be sure your pet is always safe and stylish.<br /><br />We've had a lot of success with it so far and I think your dog would love it. <br /><br />Get yours today with 50% OFF: https://caredogbest.com<br /><br />FREE Shipping - TODAY ONLY! <br /><br />Cheers, <br /><br />Romaine<br><br>---<br><br>Date: April 3, 2024<br>Time: 5:38 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 156.146.36.97<br>Powered by: Elementor<br>
+

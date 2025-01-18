@@ -1,0 +1,107 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 6Ic1MqLYXmaiGD0AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 04 Jun 2024 02:04:34 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 04 Jun 2024 02:04:34 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sEQ5q-00GxTv-2V
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 04 Jun 2024 02:04:34 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <QMRGtCZYZLjKKbCEPvxxNKko9RiCWoBBajs4cAA0w@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1717491874-eximdsn-1600042664
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sEQ5q-00GxTv-2V@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Tue, 04 Jun 2024 02:04:34 -0700
+
+--1717491874-eximdsn-1600042664
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 EQ5qsj2CR9u7l :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=arZ5CjZV c=1 sm=1 tr=0 ts=665ed8a2 p=MTXg8JMWAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=T1WGqf2p2xoA:10 a=c7naqG_xe-4A:10 a=AAvYLDLOAAAA:8 a=84cTXm3vAAAA:8 a=hYKIQN4FWN7N7OlbDBYA:9 a=4m9769coO9RwIt1h:21 a=QEXdDO2ut3YA:10 a=hajMe0Nw-b0A:10 a=5YyvPUnqIO8A:10 a=uZ3sQTw4y36pv2ANBmbr:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1717491874-eximdsn-1600042664
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 EQ5qsj2CR9u7l :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=arZ5CjZV c=1 sm=1 tr=0 ts=665ed8a2 p=MTXg8JMWAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=T1WGqf2p2xoA:10 a=c7naqG_xe-4A:10 a=AAvYLDLOAAAA:8 a=84cTXm3vAAAA:8 a=hYKIQN4FWN7N7OlbDBYA:9 a=4m9769coO9RwIt1h:21 a=QEXdDO2ut3YA:10 a=hajMe0Nw-b0A:10 a=5YyvPUnqIO8A:10 a=uZ3sQTw4y36pv2ANBmbr:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1717491874-eximdsn-1600042664
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sEQ5h-00GxAN-1U
+	for hello@decisio.CO.uk;
+	Tue, 04 Jun 2024 02:04:34 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 23.80.164.156
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 23.80.164.156
+Date: Tue, 4 Jun 2024 09:04:25 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <QMRGtCZYZLjKKbCEPvxxNKko9RiCWoBBajs4cAA0w@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Theresa Smith<br>Email: edge.irma@msn.com<br>Message: Would you like =
+to burn 750-1500 calories a day without having to work out? If yes, we have=
+ a solution, and if you order today, you will Get One FREE!<br /><br />We c=
+reated the first ever, luxury, all-day-wearable weight bands that goes on y=
+our wrist, ankles, & waist. The great thing is, they look stylish, super se=
+xy, and you can wear them with any outfit.<br /><br />Plus, we make it easy=
+ to burn calories, you just put them on in the morning and go about your da=
+y, then take them off at night. You=E2=80=99ll burn calories, shed pounds, =
+build muscle, improve your cardiovascular system, increase endurance, and g=
+ain more flexibility at the same time.  Plus! If you go for a walk or hit t=
+he gym you can burn even more calories. <br /><br />Now is your chance to g=
+et the body you always dreamed of, and because we will give you one full se=
+t absolutely FREE, you can give your free gift to a friend or family member=
+ and lose weight together. <br /><br />What are you waiting for, get starte=
+d today. Go Here: https://bit.ly/elebands-special-bogo<br /> <br />Join tho=
+usands of people who have lost weight in a natural way. We have full body s=
+ets (wrist, ankle, waist) in 5, 10, 15, 20, 25 and 30 pounds (per set) so n=
+o matter your fitness goals we have you covered. <br /><br />Start getting =
+results NOW!, the smart and easy way!!<br /><br />OUR BANDS HELP YOU TO: <b=
+r /><br />- Burn calories all-day<br />- Have a sculpted body<br />- Slim d=
+own all over<br />- Tighten glutes<br />- Tone your calves <br />- Firm up =
+abs<br /><br />Many of our clients are losing 2-3 pounds every week and get=
+ting major health benefits just by going about their day and handling busin=
+ess as usual. <br /><br />What are you waiting for, get started today. Go H=
+ere: https://bit.ly/elebands-special-bogo<br><br>---<br><br>Date: June 4, 2=
+024<br>Time: 9:04 am<br>Page URL: https://decisio.co.uk/contact/<br>User Ag=
+ent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML=
+, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1264.71<br>Remote IP=
+: 23.80.164.156<br>Powered by: Elementor<br>
+
+--1717491874-eximdsn-1600042664--

@@ -1,0 +1,1 @@
+{"mode":"simple","statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","status":1,"version":"2.4","data":[{"homedir":"/home/edfa6tzuu6ys","type":"main","user":"edfa6tzuu6ys"},{"homedir":"/etc/apache2/logs/domlogs/edfa6tzuu6ys","type":"logaccess","user":"edfa6tzuu6ys_logs"}],"error":0,"exit_code":0,"timeout":0,"action":"fetch"}

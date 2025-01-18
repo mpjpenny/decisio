@@ -1,0 +1,340 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202106 will be lost/reset.
+# Last config file used to build this data file was /home/edfa6tzuu6ys/tmp/awstats/awstats.decisio.co.uk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2688                
+POS_VISITOR 6499                
+POS_DAY 6757                
+POS_DOMAIN 3317                
+POS_LOGIN 3588                
+POS_ROBOT 3743                
+POS_WORMS 3910                
+POS_EMAILSENDER 4041                
+POS_EMAILRECEIVER 4184                
+POS_SESSION 7225                
+POS_SIDER 7423                
+POS_FILETYPES 4319                
+POS_DOWNLOADS 4465                
+POS_OS 4619                
+POS_BROWSER 4759                
+POS_SCREENSIZE 4921                
+POS_UNKNOWNREFERER 4995                
+POS_UNKNOWNREFERERBROWSER 5216                
+POS_ORIGIN 5432                
+POS_SEREFERRALS 5568                
+POS_PAGEREFS 5712                
+POS_SEARCHWORDS 5860                
+POS_KEYWORDS 6012                
+POS_MISC 2352                
+POS_ERRORS 6071                
+POS_CLUSTER 3444                
+POS_SIDER_404 6190                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210701010056 5 889 10546505325375
+FirstTime 20210601054700
+LastTime 20210618094313
+LastUpdate 20210701051827 5 0 4 0 0
+TotalVisits 98                  
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 9 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 0 13 13 1199
+1 1 1 0 8 11 940
+2 6 6 0 23 23 3505
+3 5 5 0 10 11 1160
+4 6 7 411358 27 34 5853
+5 57 57 295920 12 13 783
+6 7 7 0 11 14 1160
+7 7 7 0 13 17 2239
+8 10 10 0 33 33 5257
+9 13 15 17312943 33 41 4921
+10 7 8 0 21 27 2292
+11 19 19 65760 20 22 2147
+12 9 9 0 22 23 3593
+13 5 5 0 15 16 1150
+14 8 8 0 10 12 783
+15 8 8 0 16 21 1304
+16 4 4 0 13 20 1030
+17 18 18 65760 14 17 1233
+18 3 3 0 5 5 230
+19 7 7 0 9 13 1162
+20 5 5 0 12 17 1916
+21 17 17 0 75 89 9734
+22 9 9 0 25 28 3976
+23 6 6 16440 12 13 718
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+de 237 237 443880
+us 3 5 411358
+zz 3 5 17306840
+fr 1 1 6103
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Googlebot/ 8 2584 20210615162910 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+jpeg 1 166727 0 0
+js 1 0 0 0
+php 241 17756759 0 0
+woff2 3 244631 0 0
+txt 2 64 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/easyssl-a6c7ab11deebcc18a76bbdb0a9822a49.txt 1 0 32
+/easyssl-1df5c604e878eac757e6bab0bc27013e.txt 1 0 32
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win7 1 0
+Unknown 212 210
+win10 1 1
+macosx8 3 3
+macosx 27 27
+ios_iphone 4 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+Unknown 212 210
+chrome27.0.1453.116 3 3
+firefox79.0 27 27
+msie10.0 1 0
+safari14.0.3 4 3
+chrome63.0.3239.132 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/5.7.2;_https://www.decisio.co.uk 20210618094039
+Installatron_Plugin/9.1.55 20210618054642
+SUCURI/INTERNALBOT 20210618094305
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+SUCURI/INTERNALBOT 20210618094305
+WordPress/5.7.2;_https://www.decisio.co.uk 20210618094039
+Installatron_Plugin/9.1.55 20210618054642
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 58 61
+From1 0 0
+From2 0 0
+From3 0 0
+From4 186 187
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+400 2 42
+301 433 52573
+302 80 0
+409 1 1158
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 5
+92.205.2.144 237 237 443880 20210618094039
+45.87.214.109 3 4 411358 20210605043728
+10.36.180.236 3 5 17306840 20210618094313
+212.83.170.150 1 1 6103 20210616091411
+54.202.158.197 0 1 0 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20210601 7 7 32880 3
+20210602 11 11 32880 6
+20210603 15 15 16440 8
+20210604 18 19 16440 10
+20210605 28 29 427798 8
+20210606 17 17 32880 7
+20210607 12 12 32880 4
+20210608 17 17 32880 8
+20210609 13 13 32880 3
+20210610 10 10 16440 4
+20210611 9 9 16440 4
+20210612 2 2 16440 1
+20210613 2 2 16440 1
+20210614 11 11 32880 6
+20210615 26 26 49320 7
+20210616 16 16 22543 7
+20210617 13 13 16440 5
+20210618 17 19 17323280 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 1
+5mn-15mn 3
+1h+ 11
+30mn-1h 12
+0s-30s 67
+15mn-30mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 60
+/wp-cron.php 183 0 75 87
+/ssl-setup.php 3 17306776 1 1
+/deleteme.chaqv1pd.php 1 2695 1 0
+/xmlrpc.php 1 6103 1 1
+/deleteme.chap0c3k.php 1 2695 0 0
+/deleteme.wpwhms.php 1 13745 0 0
+/deleteme.wpy1i6.php 1 13745 0 0
+/deleteme.cha7h93j.php 1 2695 1 0
+/deleteme.wpffdo.php 1 13745 0 0
+/deleteme.wpcphz.php 1 13745 0 0
+/deleteme.chagevvp.php 1 2695 1 0
+/deleteme.wphcwp.php 1 13745 0 0
+/deleteme.wpeeqh.php 1 13745 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 1 85873 1 0
+/deleteme.wp697f.php 1 13745 0 1
+/deleteme.chansetx.php 1 2695 1 0
+/deleteme.chae0pnr.php 1 2695 1 0
+/deleteme.wp2aqf.php 1 13745 0 1
+/deleteme.wpb2os.php 1 13745 0 0
+/deleteme.wptuqr.php 1 13745 0 0
+/deleteme.wpeeia.php 1 13745 0 1
+/deleteme.wpzchc.php 1 13745 0 0
+/deleteme.chaq7plj.php 1 2695 1 0
+/deleteme.wpsl3u.php 1 13745 0 0
+/deleteme.chakh4hx.php 1 2695 0 0
+/deleteme.wplnxt.php 1 13745 0 0
+/deleteme.chamul5o.php 1 2695 0 0
+/deleteme.wpk6xo.php 1 13745 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 1 80265 0 0
+/deleteme.chaivufq.php 1 2695 1 0
+/deleteme.wpjuei.php 1 13745 0 0
+/deleteme.chazuid5.php 1 2695 1 0
+/deleteme.wp8dbb.php 1 13745 0 1
+/deleteme.chaixgyo.php 1 2695 1 0
+/deleteme.wpc0ty.php 1 13745 0 1
+/deleteme.chacotvr.php 1 2695 0 0
+/deleteme.cha3b0kl.php 1 2695 0 0
+/deleteme.wplmul.php 1 13745 0 0
+/deleteme.wpjx9v.php 1 13745 0 0
+/deleteme.chaxejen.php 1 2695 1 0
+/deleteme.chahiuyy.php 1 2695 1 0
+/deleteme.chamiykc.php 1 2695 1 0
+/deleteme.cha4e7s2.php 1 2695 1 0
+/deleteme.chaxa0it.php 1 2695 1 0
+/deleteme.chamjt1h.php 1 2695 1 0
+/deleteme.wpdefu.php 1 13745 0 0
+/deleteme.wpu9vl.php 1 13745 0 1
+/deleteme.cha7spki.php 1 2695 1 0
+/deleteme.charumy1.php 1 2695 1 0
+/deleteme.chanwqdm.php 1 2695 1 0
+/deleteme.cha5hfww.php 1 2695 1 0
+/deleteme.wpoad1.php 1 13745 0 0
+/deleteme.wpmtgf.php 1 13745 0 1
+/deleteme.wp1cck.php 1 13745 0 0
+/deleteme.wphar6.php 1 13745 0 1
+/deleteme.wpsupe.php 1 13745 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 1 78493 0 1
+/deleteme.chaifl00.php 1 2695 0 0
+/deleteme.chay0b1j.php 1 2695 1 0
+/deleteme.chazph0r.php 1 2695 0 0
+END_SIDER

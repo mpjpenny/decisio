@@ -1,0 +1,61 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id CHilG7Uq8GSNDhEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 30 Aug 2023 22:52:53 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 30 Aug 2023 22:52:53 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1qbabt-004hha-DC
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 30 Aug 2023 22:52:53 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <WSB1K60uohu4poddiFdo9T72B6A22KJD0YCOO1IHOCA@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qbabt-004hha-DC@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Wed, 30 Aug 2023 22:52:53 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1qbabm-004heR-LS
+	for hello@decisio.CO.uk;
+	Wed, 30 Aug 2023 22:52:46 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 85.186.138.170
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 85.186.138.170
+Date: Thu, 31 Aug 2023 05:52:46 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <WSB1K60uohu4poddiFdo9T72B6A22KJD0YCOO1IHOCA@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Ronald Carreiro<br>Email: carreiro.ronald@googlemail.com<br>Message: =
+Hi there,<br /><br />My name is Ronald from Monkey Digital, <br /><br />All=
+ow me to present to you a lifetime revenue opportunity of 35%<br />That's r=
+ight, you can earn 35% of every order made by your affiliate for life.<br /=
+><br />Simply register with us, generate your affiliate links, and incorpor=
+ate them on your website, and you are done. It takes only 5 minutes to set =
+up everything, and the payouts are sent each month.<br /><br />Click here t=
+o enroll with us today:<br />https://www.monkeydigital.org/affiliate-dashbo=
+ard/<br /><br />Think about it, <br />Every website owner requires the use =
+of search engine optimization (SEO) for their website. This endeavor holds =
+significant potential for both parties involved.<br /><br />Thanks and rega=
+rds<br />Ronald Carreiro<br />Monkey Digital<br><br>---<br><br>Date: August=
+ 31, 2023<br>Time: 5:52 am<br>Page URL: https://decisio.co.uk/contact/<br>U=
+ser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:114.0) Gecko/201001=
+01 Firefox/114.0<br>Remote IP: 85.186.138.170<br>Powered by: Elementor<br>

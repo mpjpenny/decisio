@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 4OzfG/WsE2RbxQoAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 16 Mar 2023 16:57:41 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 16 Mar 2023 16:57:41 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1pcxTZ-002xzT-DO
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 16 Mar 2023 16:57:41 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <l7GQy52QAA8Xen3FJzgRuf8yKO7Se45deVkm6qv85A@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pcxTZ-002xzT-DO@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 16 Mar 2023 16:57:41 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1pcxTT-002xxW-UR
+	for hello@decisio.CO.uk;
+	Thu, 16 Mar 2023 16:57:35 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 196.247.213.114
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 196.247.213.114
+Date: Thu, 16 Mar 2023 23:57:35 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <l7GQy52QAA8Xen3FJzgRuf8yKO7Se45deVkm6qv85A@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Eric Jones<br>Email: ericjonesmyemail@gmail.com<br>Message: Hello dec=
+isio.co.uk Webmaster! Eric here with a quick thought about your website dec=
+isio.co.uk...<br /><br />I=E2=80=99m on the internet a lot and I look at a =
+lot of business websites.<br /><br />Like yours, many of them have great co=
+ntent. <br /><br />But all too often, they come up short when it comes to e=
+ngaging and connecting with anyone who visits.<br /><br />I get it =
+=E2=80=93 it=E2=80=99s hard.  Studies show 7 out of 10 people who land on a=
+ site, abandon it in moments without leaving even a trace.  You got the eye=
+ball, but nothing else.<br /><br />Here=E2=80=99s a solution for you=
+=E2=80=A6<br /><br />Web Visitors Into Leads is a software widget that=
+=E2=80=99s works on your site, ready to capture any visitor=E2=80=99s Name,=
+ Email address and Phone Number.  You=E2=80=99ll know immediately they=
+=E2=80=99re interested and you can call them directly to talk with them lit=
+erally while they=E2=80=99re still on the web looking at your site.<br /><b=
+r />CLICK HERE https://advanceleadgeneration.com to try out a Live Demo wit=
+h Web Visitors Into Leads now to see exactly how it works.<br /><br />It co=
+uld be huge for your business =E2=80=93 and because you=E2=80=99ve got that=
+ phone number, with our new SMS Text With Lead feature, you can automatical=
+ly start a text (SMS) conversation =E2=80=93 immediately=E2=80=A6 and conta=
+cting someone in that 5 minute window is 100 times more powerful than reach=
+ing out 30 minutes or more later.<br /><br />Plus, with text messaging you =
+can follow up later with new offers, content links, even just follow up not=
+es to keep the conversation going.<br /><br />Everything I=E2=80=99ve just =
+described is extremely simple to implement, cost-effective, and profitable.=
+ <br /> <br />CLICK HERE https://advanceleadgeneration.com to discover what=
+ Web Visitors Into Leads can do for your business.<br /><br />You could be =
+converting up to 100X more eyeballs into leads today!<br /><br />Eric<br />=
+PS: Web Visitors Into Leads offers a FREE 14 days trial =E2=80=93 and it ev=
+en includes International Long Distance Calling. <br />You have customers w=
+aiting to talk with you right now=E2=80=A6 don=E2=80=99t keep them waiting.=
+ <br />CLICK HERE https://advanceleadgeneration.com to try Web Visitors Int=
+o Leads now.<br /><br />If you'd like to unsubscribe click here http://adva=
+nceleadgeneration.com/unsubscribe.aspx?d=3Ddecisio.co.uk<br><br>---<br><br>=
+Date: March 16, 2023<br>Time: 11:57 pm<br>Page URL: https://decisio.co.uk/c=
+ontact/<br>User Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:102.0) Ge=
+cko/20100101 Firefox/102.0<br>Remote IP: 196.247.213.114<br>Powered by: Ele=
+mentor<br>

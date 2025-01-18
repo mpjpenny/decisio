@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id OEG3ARbX+WWYVj0AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 19 Mar 2024 11:19:02 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 19 Mar 2024 11:19:02 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rme3B-00GvYq-2r
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 19 Mar 2024 11:19:01 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <0GamfS8zCtKHZHKetuidz4nWivlsjuxb7vKUlzzC9Zs@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710872341-eximdsn-566379617
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rme3B-00GvYq-2r@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Tue, 19 Mar 2024 11:19:01 -0700
+
+--1710872341-eximdsn-566379617
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 me3BrgvrISzIg :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=bYzIU/PB c=1 sm=1 tr=0 ts=65f9d715 p=i2stKLKiHpJKE1H-nwh_:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=UqCG9HQmAAAA:8 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=5k5Pqnas-miXavos99QA:9 a=QEXdDO2ut3YA:10 a=vXYVabvWRREA:10 a=WTme3rD2rp4A:10 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1710872341-eximdsn-566379617
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 me3BrgvrISzIg :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=bYzIU/PB c=1 sm=1 tr=0 ts=65f9d715 p=i2stKLKiHpJKE1H-nwh_:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=UqCG9HQmAAAA:8 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=5k5Pqnas-miXavos99QA:9 a=QEXdDO2ut3YA:10 a=vXYVabvWRREA:10 a=WTme3rD2rp4A:10 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1710872341-eximdsn-566379617
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rmdhk-00Gdt4-1g
+	for hello@decisio.CO.uk;
+	Tue, 19 Mar 2024 10:56:59 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 217.148.140.147
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 217.148.140.147
+Date: Tue, 19 Mar 2024 17:56:52 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <0GamfS8zCtKHZHKetuidz4nWivlsjuxb7vKUlzzC9Zs@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Mark Nanson<br>Email: maddison.nanson@outlook.com<br>Message: Are you looking for social media partners? drawiki.com@gmail.com<br><br>---<br><br>Date: March 19, 2024<br>Time: 5:56 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36<br>Remote IP: 217.148.140.147<br>Powered by: Elementor<br>
+
+
+--1710872341-eximdsn-566379617--

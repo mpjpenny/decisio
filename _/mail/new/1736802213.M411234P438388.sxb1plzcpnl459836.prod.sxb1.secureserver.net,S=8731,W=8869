@@ -1,0 +1,138 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id uPwzF6V/hWd0sAYAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 13 Jan 2025 14:03:33 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 13 Jan 2025 14:03:33 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1tXRav-001sQx-14
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 13 Jan 2025 14:03:33 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <Vwo8QXn8UVWpd7vm7WlmmPvjLz75fzChT1nERaM8kQU@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736802213-eximdsn-785241929
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tXRav-001sQx-14@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 13 Jan 2025 14:03:33 -0700
+
+--1736802213-eximdsn-785241929
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 XRaut0fPAhCVD :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cOYaskeN c=1 sm=1 tr=0 ts=67857fa5 p=3T_tcXC5vQbdledAvIQA:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=VdSt8ZQiCzkA:10 a=c7naqG_xe-4A:10 a=XTrbStzcAAAA:8 a=84cTXm3vAAAA:8 a=pGLkceISAAAA:8 a=NotAMKhUz6Hq-b0T:21 a=QEXdDO2ut3YA:10 a=igt9rfSMIB0A:10 a=OlmwJ-JZIfSO4cBbsAYt:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    96.00
+
+--1736802213-eximdsn-785241929
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 XRaut0fPAhCVD :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cOYaskeN c=1 sm=1 tr=0 ts=67857fa5 p=3T_tcXC5vQbdledAvIQA:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=VdSt8ZQiCzkA:10 a=c7naqG_xe-4A:10 a=XTrbStzcAAAA:8 a=84cTXm3vAAAA:8 a=pGLkceISAAAA:8 a=NotAMKhUz6Hq-b0T:21 a=QEXdDO2ut3YA:10 a=igt9rfSMIB0A:10 a=OlmwJ-JZIfSO4cBbsAYt:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 96.00
+
+--1736802213-eximdsn-785241929
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1tXRah-001s9a-2C
+	for hello@decisio.CO.uk;
+	Mon, 13 Jan 2025 14:03:32 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+Date: Mon, 13 Jan 2025 21:03:19 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <Vwo8QXn8UVWpd7vm7WlmmPvjLz75fzChT1nERaM8kQU@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Eric Jones<br>Email: ericjonesmyemail@gmail.com<br>Message: Hello Dec=
+isio <br /><br />I just found your site, quick question=E2=80=A6<br /><br /=
+>My name=E2=80=99s Eric, and I recently discovered your site - Decisio - wh=
+ile surfing the net. You showed up at the top of the search results, so I c=
+hecked you out. Looks like what you=E2=80=99re doing is pretty cool.<br /><=
+br />But if you don=E2=80=99t mind me asking =E2=80=93 after someone like m=
+e stumbles across Decisio, what usually happens?<br /><br />Is your site ge=
+nerating leads for your business?<br /><br />I=E2=80=99m guessing some, but=
+ I also bet you=E2=80=99d like more=E2=80=A6 research indicates that 7 out =
+of 10 who land on a site wind up leaving without a trace.<br /><br />Not go=
+od.<br /><br />Here=E2=80=99s an idea=E2=80=A6<br /><br />How about making =
+it really easy for every visitor who shows up to get a personal phone call =
+from you as soon as they hit your site=E2=80=A6<br /><br />You can =
+=E2=80=93<br /><br />LeadConnect is a software widget that works on your si=
+te, ready to capture any visitor=E2=80=99s Name, Email address, and Phone N=
+umber. It notifies you immediately =E2=80=93 so that you can talk to that l=
+ead while they=E2=80=99re literally looking over your site.<br /><br />http=
+s://boltleadgeneration.com to try out a Live Demo with Web Visitors Into Le=
+ads now to see exactly how it works.<br /><br />You=E2=80=99ll be amazed - =
+the difference between contacting someone within 5 minutes versus 30 minute=
+s later could boost your results 100-fold.<br /><br />It gets even better=
+=E2=80=A6 once you=E2=80=99ve captured their phone number, with our new SMS=
+ Text With Lead feature, you can instantly start a text (SMS) conversation.=
+<br /><br />That way, even if you don=E2=80=99t close a deal right away, yo=
+u can follow up with text messages for new offers, content links, even just=
+ how you are doing? notes to build a relationship.<br /><br />Pretty sweet =
+=E2=80=93 AND effective.<br /><br />https://boltleadgeneration.com to disco=
+ver what Web Visitors Into Leads can do for your business.<br /><br />You c=
+ould be converting up to 100X more leads today!<br />Eric<br /><br />PS: We=
+b Visitors Into Leads offers a complimentary 14-day trial =E2=80=93 you cou=
+ld be converting up to 100x more leads immediately!  <br />It even includes=
+ International Long Distance Calling.  <br />You have customers waiting to =
+talk with you right now=E2=80=A6 don=E2=80=99t keep them waiting.  <br />ht=
+tps://boltleadgeneration.com to try Web Visitors Into Leads now.<br /><br /=
+>We are strongly committed to protecting your privacy and providing a safe =
+& high-quality online experience for our visitors. We understand that you c=
+are about how the information you provide to us is used and shared. We have=
+ developed a Privacy Policy to inform you of our policies about the collect=
+ion, use, and disclosure of information we receive from users of our websit=
+e. We operate the Website.<br />Our Privacy Policy, along with our Terms & =
+Conditions, governs your use of this site. By using the website, or by acce=
+pting the Terms of Use (via opt-in, checkbox, pop-up, or clicking an email =
+link confirming the same), you agree to be bound by our Terms & Conditions =
+and our Privacy Policy.<br />If you have provided any voluntarily given inf=
+ormation, you may review, and make changes to it via instructions found on =
+the Website. To manage your receipt of marketing and non-transactional comm=
+unications, you may Want to receive less emails, or none whatsoever? Update=
+ your email preferences. <br />Emails related to orders are provided automa=
+tically =E2=80=93 customers are not able to opt out of these. We will try t=
+o address any requests related to the management of personal information in=
+ a timely manner. However, it may not always be possible to fully remove or=
+ modify information in our databases if we have a valid reason to keep it f=
+or certain timeframes. If you have any questions, simply see our site to vi=
+ew our official policies.<br />Our primary goal is to help you with lead ge=
+neration. These emails are intended to give you useful guidance on that top=
+ic, or to highlight solutions that will help you achieve success.<br /><br =
+/>If you'd like to Want to receive less emails, or none whatsoever? Update =
+your email preferences by visiting https://boltleadgeneration.com/unsubscri=
+be.aspx?d=3Ddecisio.co.uk<br><br>---<br><br>Date: January 13, 2025<br>Time:=
+ 9:03 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla=
+/5.0 (X11; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP:=
+ 149.102.247.230<br>Powered by: Elementor<br>
+
+--1736802213-eximdsn-785241929--

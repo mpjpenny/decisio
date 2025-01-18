@@ -1,0 +1,112 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id ONKgJ0QcCGZgMDIAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 30 Mar 2024 07:05:56 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 30 Mar 2024 07:05:56 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rqZLI-00Dnjs-1y
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 30 Mar 2024 07:05:56 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <T8FUIjT39giNpzMK8QObFkdgiq0fXTbO6qF0seiAW4@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1711807556-eximdsn-751865803
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rqZLI-00Dnjs-1y@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 30 Mar 2024 07:05:56 -0700
+
+--1711807556-eximdsn-751865803
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 qZLIrzICu5p3a :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=aOk7qq9m c=1 sm=1 tr=0 ts=66081c44 p=s58jHvEcAAAA:20 p=el4D80RUxh-S5HLYu0YA:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=kpxM7zQHCYZYwzyr:21 a=QEXdDO2ut3YA:10 a=lENLY94BoAwA:10 a=tgkbOza3ZHQA:10 a=ExxmPj-1RCwdV-nlSxU6:22 a=ZT_8zCgGubuJgGonBfBE:22 a=BsKy6JoRUqVF-Y2f1hAb:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1711807556-eximdsn-751865803
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 qZLIrzICu5p3a :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=aOk7qq9m c=1 sm=1 tr=0 ts=66081c44 p=s58jHvEcAAAA:20 p=el4D80RUxh-S5HLYu0YA:9 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=kpxM7zQHCYZYwzyr:21 a=QEXdDO2ut3YA:10 a=lENLY94BoAwA:10 a=tgkbOza3ZHQA:10 a=ExxmPj-1RCwdV-nlSxU6:22 a=ZT_8zCgGubuJgGonBfBE:22 a=BsKy6JoRUqVF-Y2f1hAb:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1711807556-eximdsn-751865803
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rqZLC-00Dnhy-2Q
+	for hello@decisio.CO.uk;
+	Sat, 30 Mar 2024 07:05:56 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 206.206.71.53
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 206.206.71.53
+Date: Sat, 30 Mar 2024 14:05:50 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <T8FUIjT39giNpzMK8QObFkdgiq0fXTbO6qF0seiAW4@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Clifton Male<br>Email: clifton.male@gmail.com<br>Message: the most re=
+liable way to make cashola online is with an email list, it=E2=80=99s a sim=
+ple fact.<br /><br />But, not just any email list, no I=E2=80=99m talking a=
+bout a massive, enormous, monstrous email list that spits out hundred dolla=
+r bills every time you simply click SEND!<br /><br />And I just discovered =
+an unknown, underground Internet millionaire who developed the easiest way =
+to build gargantuan email lists with...<br /><br />- No product <br />- No =
+complex websites<br />- No confusing marketing plan<br />- No prior experie=
+nce<br />- No big advertising budget<br />- No tech skills<br /><br /><br /=
+>A trained monkey could earn $5k=E2=80=9310k per month doing this, but sinc=
+e you=E2=80=99re not a monkey you should be able to earn FAR MORE ;-)<br />=
+<br />If making more money in a day than you do in 3 months right now sound=
+s interesting to you then I highly recommend you discover what I have waiti=
+ng for you right here...<br /><br />https://tinyurl.com/mrxysr9k<br /><br /=
+>This is a completely free workshop for you where I=E2=80=99m going to be i=
+nterviewing this Internet genius and pulling out ever single step he uses t=
+o create massive profit producing email lists in mere weeks and how he Gets=
+ Paid to do it!<br />You can register for the free workshop here: https://t=
+inyurl.com/mrxysr9k<br /><br />I spent weeks convincing him to let me inter=
+view him and he finally agreed to share his entire business model TODAY!<br=
+ /><br />But you absolutely MUST claim your seat right now, there are less =
+than 50.<br /><br />Register free immediatly: https://tinyurl.com/mrxysr9k<=
+br /><br />I will see you there!<br /><br />P.S. Not only will you discover=
+ how to build monstrous email lists, but he=E2=80=99s also going to reveal =
+a secret traffic source that I=E2=80=99ve never even heard of. This traffic=
+ source is 10 times CHEAPER than anything I=E2=80=99ve ever used in my enti=
+re career and makes the whole system work with<br />out you having to risk =
+a single penny on advertising. I=E2=80=99ll be taking copious notes and I h=
+ope you will too!<br /><br />Join me for the free training workshop here, n=
+ow...: https://tinyurl.com/mrxysr9k<br><br>---<br><br>Date: March 30, 2024<=
+br>Time: 2:05 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent:=
+ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chr=
+ome/114.0.0.0 Safari/537.36<br>Remote IP: 206.206.71.53<br>Powered by: Elem=
+entor<br>
+
+--1711807556-eximdsn-751865803--

@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id iMEFJCkFTWVdXSIAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 09 Nov 2023 09:13:29 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 09 Nov 2023 09:13:29 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1r17er-009Sjf-HU
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 09 Nov 2023 09:13:29 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <gw5TCZNdsVf652efpHGyhdnJTkOGbY0r2zpK1b9WF0@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1699546409-eximdsn-860301269
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1r17er-009Sjf-HU@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 09 Nov 2023 09:13:29 -0700
+
+--1699546409-eximdsn-860301269
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 17errXAWJo2HH :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=JJ/98eGb c=1 sm=1 tr=0 ts=654d0529 p=i9KD3HYKwRUA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=BNY50KLci1gA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=WxNkWaPgAAAA:20 a=84cTXm3vAAAA:8 a=DU4MyFEaFCEGyc7l9_MA:9 a=IU_QF2G0uvWHSMC_:21 a=QEXdDO2ut3YA:10 a=b1znnaSqNL8A:10 a=Od_yzDN85mQA:10 a=xaGFUZrYdFRCZLvlhsmc:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=zaKBINZGd_oywiGYxIhS:22 a=pMT1dy21Qka_sF136-ZS:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1699546409-eximdsn-860301269
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 17errXAWJo2HH :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=JJ/98eGb c=1 sm=1 tr=0 ts=654d0529 p=i9KD3HYKwRUA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=BNY50KLci1gA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=WxNkWaPgAAAA:20 a=84cTXm3vAAAA:8 a=DU4MyFEaFCEGyc7l9_MA:9 a=IU_QF2G0uvWHSMC_:21 a=QEXdDO2ut3YA:10 a=b1znnaSqNL8A:10 a=Od_yzDN85mQA:10 a=xaGFUZrYdFRCZLvlhsmc:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=zaKBINZGd_oywiGYxIhS:22 a=pMT1dy21Qka_sF136-ZS:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1699546409-eximdsn-860301269
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1r17el-009SiI-UV
+	for hello@decisio.CO.uk;
+	Thu, 09 Nov 2023 09:13:29 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 173.234.244.55
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 173.234.244.55
+Date: Thu, 9 Nov 2023 16:13:23 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <gw5TCZNdsVf652efpHGyhdnJTkOGbY0r2zpK1b9WF0@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Grant Lira<br>Email: grantlira003@gmail.com<br>Message: Are you avail=
+able to come on a podcast as a guest?<br /><br />If so, our firm will book =
+you on a podcast within one week.<br /><br />If you=E2=80=99re available to=
+ do this, I=E2=80=99d also like to repurpose the content from your podcast =
+to provide you and your business, online article features, and video conten=
+t for social media. <br /><br />Placing you on podcasts does require an exp=
+ense, but the online media features and the repurposed video content we wil=
+l provide completely on us because this is our first time working together =
+:). <br /><br />We are doing this for the first 10 people who reply back to=
+ us who qualify because it takes up a good amount of our team's time.<br />=
+<br />The one thing I ask is that you tell me if your business is NOT doing=
+ 7+ figures.<br /><br />I reached out to you because I think you have a 7+ =
+figure business. Most of the hosts that we have connections with are lookin=
+g for 7+ figure business owners to interview.<br /><br />I want to make sur=
+e we don=E2=80=99t lie to them so let me know if you are not.<br /><br />So=
+, if you qualify, and want to be booked on a podcast you can chat with our =
+Co-Founder here:<br /><br />https://bit.ly/empathyfirm-podcast<br />Best,<b=
+r />Grant<br />PS - I won=E2=80=99t see your response on here so if you hav=
+e a question, please book a call (:<br /><br /><br /><br /><br />N6565 Shor=
+ewood Hills Rd. Lake Mills WI, 53551<br />Email unsubnow1@gmail.com with yo=
+ur website to =E2=80=9Cunsubscribe=E2=80=9D meaning you won=E2=80=99t hear =
+from me again.<br><br>---<br><br>Date: November 9, 2023<br>Time: 4:13 pm<br=
+>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; =
+Ubuntu; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 17=
+3.234.244.55<br>Powered by: Elementor<br>
+
+--1699546409-eximdsn-860301269--

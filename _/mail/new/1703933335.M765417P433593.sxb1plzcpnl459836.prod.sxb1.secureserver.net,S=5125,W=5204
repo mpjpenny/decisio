@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id IIEiLZf1j2W5nQYAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 30 Dec 2023 03:48:55 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 30 Dec 2023 03:48:55 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rJWtj-001pAq-2H
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 30 Dec 2023 03:48:55 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <QzDXgPYRHMkCmHavHz7NIOEd38VqBGscQe8vi0pFs@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1703933335-eximdsn-140371852
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rJWtj-001pAq-2H@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 30 Dec 2023 03:48:55 -0700
+
+--1703933335-eximdsn-140371852
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 JWtjrO1u4eMKr :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Jo037u0C c=1 sm=1 tr=0 ts=658ff597 p=mDvtkeveAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=e2cXIFwxEfEA:10 a=c7naqG_xe-4A:10 a=3oc9M9_CAAAA:8 a=84cTXm3vAAAA:8 a=qXJ4QbnlCGA_tmEaWhcA:9 a=QEXdDO2ut3YA:10 a=7rPpSSbJcKMA:10 a=6e9sVxijR7wA:10 a=QBN1UJujx8gA:10 a=9RS4LEocF6PFtXqZpqHA:22 a=ON4nB5BJBgYhMFTxmA83:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1703933335-eximdsn-140371852
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 JWtjrO1u4eMKr :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Jo037u0C c=1 sm=1 tr=0 ts=658ff597 p=mDvtkeveAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=e2cXIFwxEfEA:10 a=c7naqG_xe-4A:10 a=3oc9M9_CAAAA:8 a=84cTXm3vAAAA:8 a=qXJ4QbnlCGA_tmEaWhcA:9 a=QEXdDO2ut3YA:10 a=7rPpSSbJcKMA:10 a=6e9sVxijR7wA:10 a=QBN1UJujx8gA:10 a=9RS4LEocF6PFtXqZpqHA:22 a=ON4nB5BJBgYhMFTxmA83:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1703933335-eximdsn-140371852
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rJWtd-001p8t-0w
+	for hello@decisio.CO.uk;
+	Sat, 30 Dec 2023 03:48:55 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 212.30.37.202
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 212.30.37.202
+Date: Sat, 30 Dec 2023 10:48:49 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <QzDXgPYRHMkCmHavHz7NIOEd38VqBGscQe8vi0pFs@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Phil Stewart<br>Email: noreplyhere@aol.com<br>Message: I now offer contact form blasting service. With my DFY service you can either do a targeted blast to only websites that match your criteria or bulk blast large volumes of sites worldwide. Prices start at just $50 to reach 500,000 bulk sites. Contact me at my email or skype below for details.<br /><br />P. Stewart<br />Skype: live:.cid.e169e59bb6e6d159<br />Email: ps37421@gomail2.xyz<br><br>---<br><br>Date: December 30, 2023<br>Time: 10:48 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51<br>Remote IP: 212.30.37.202<br>Powered by: Elementor<br>
+
+
+--1703933335-eximdsn-140371852--

@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id qALEHWPBm2YEjgQAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 20 Jul 2024 06:53:39 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 20 Jul 2024 06:53:39 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sVAWp-001KQz-1N
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 20 Jul 2024 06:53:39 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <qohqAsbi748ipNCrvA0Hy89iDkLvbF0fs7qKw2RZIKg@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sVAWp-001KQz-1N@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 20 Jul 2024 06:53:39 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sVAWi-001KMp-0l
+	for hello@decisio.CO.uk;
+	Sat, 20 Jul 2024 06:53:32 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 195.181.168.186
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 195.181.168.186
+Date: Sat, 20 Jul 2024 13:53:32 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <qohqAsbi748ipNCrvA0Hy89iDkLvbF0fs7qKw2RZIKg@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Lillie<br>Email: magicmat@decisio.co.uk<br>Message: Get The Worlds Greatest Magic Sand Free Beach Mat!<br /><br />Watch sand, dirt & dust disappear right before your eyes! It's perfect for beach, picnic, camping or hiking.<br /><br />Act Now And Receive A Special Discount For Our Magic Mat!<br /><br />Get Yours Here:  https://magicmats.co<br /><br />Best regards, <br /> <br />Lillie<br><br>---<br><br>Date: July 20, 2024<br>Time: 1:53 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51<br>Remote IP: 195.181.168.186<br>Powered by: Elementor<br>
+

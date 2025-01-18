@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id yGkdC4W9GWbeOyMAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 12 Apr 2024 16:02:29 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 12 Apr 2024 16:02:29 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rvPuf-009izT-0Q
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 12 Apr 2024 16:02:29 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <srPkTlwe3ARevNL7L8b4JhbRiqEaosSJw7qaozJXw@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1712962949-eximdsn-1676098603
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rvPuf-009izT-0Q@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 12 Apr 2024 16:02:29 -0700
+
+--1712962949-eximdsn-1676098603
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 vPuerhCko0D7V :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=P8vxhTAu c=1 sm=1 tr=0 ts=6619bd85 p=BvGB2UrtAAAA:20 p=SSSpjDA_Qac1gG1vecVk:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=raytVjVEu-sA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=XoyvV4mXK97_90AWplUA:9 a=O3osaq14gN2NXfHf:21 a=QEXdDO2ut3YA:10 a=FFsZyIzimJ8A:10 a=UNTGNVYOJJUA:10 a=Uld2o_lDHMsVkxPV-dx0:22 a=V7ByXXfVh2G5LoLE21Kw:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1712962949-eximdsn-1676098603
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 vPuerhCko0D7V :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=P8vxhTAu c=1 sm=1 tr=0 ts=6619bd85 p=BvGB2UrtAAAA:20 p=SSSpjDA_Qac1gG1vecVk:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=raytVjVEu-sA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=XoyvV4mXK97_90AWplUA:9 a=O3osaq14gN2NXfHf:21 a=QEXdDO2ut3YA:10 a=FFsZyIzimJ8A:10 a=UNTGNVYOJJUA:10 a=Uld2o_lDHMsVkxPV-dx0:22 a=V7ByXXfVh2G5LoLE21Kw:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1712962949-eximdsn-1676098603
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rvPuV-009iw7-04
+	for hello@decisio.CO.uk;
+	Fri, 12 Apr 2024 16:02:28 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 104.239.104.221
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 104.239.104.221
+Date: Fri, 12 Apr 2024 23:02:18 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <srPkTlwe3ARevNL7L8b4JhbRiqEaosSJw7qaozJXw@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Buck Menkens<br>Email: menkens.buck@gmail.com<br>Message: Most of us =
+like to partake in a little vino, a cocktail, or a nice cold brewski every =
+now and then...<br /><br />And I'm one of them :)<br /><br />However, recen=
+t studies prove the #1 sign you drink too much is excess lower belly fat (a=
+lso referred to as "Liver Belly").<br /><br />That's because the entire fat=
+-burning process depends on a healthy liver.<br /><br />And although alcoho=
+l is normally quite damaging to your liver...<br /><br />The ancient Medite=
+rranean ritual you'll see at the link below naturally protects, purifies, a=
+nd rapidly cleanses your liver of EVERY form of alcohol...<br /><br />Allow=
+ing you to enjoy a few drinks while promoting weight loss at the same time!=
+<br /><br />That's why, if you're gonna drink alcohol, just follow this sim=
+ple Mediterranean Ritual beforehand (takes 30 seconds).<br /><br />Check it=
+ now: https://tinyurl.com/mediteraneanritual<br><br>---<br><br>Date: April =
+12, 2024<br>Time: 11:02 pm<br>Page URL: https://decisio.co.uk/contact/<br>U=
+ser Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Ge=
+cko) Chrome/114.0.0.0 Safari/537.36<br>Remote IP: 104.239.104.221<br>Powere=
+d by: Elementor<br>
+
+--1712962949-eximdsn-1676098603--

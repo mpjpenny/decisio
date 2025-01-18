@@ -1,0 +1,41 @@
+Return-Path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id qE21EwVSe2Y+BQoAphIfxA
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 25 Jun 2024 16:25:57 -0700
+Return-path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 25 Jun 2024 16:25:57 -0700
+Received: from root by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sMFXx-002uSA-0g
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 25 Jun 2024 16:25:57 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Installatron] My blog backup now available
+Date: Tue, 25 Jun 2024 16:25:57 -0700
+ From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+ Message-ID: <022c3b4f0b53e4fb0b6975448e3d282d@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+ X-Mailer: Installatron Plugin 9.1.61 (365)
+ Return-Path: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+ MIME-Version: 1.0
+ Content-Type: text/plain; charset=UTF-8
+Message-Id: <E1sMFXx-002uSA-0g@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+This is an automated email from Installatron. To change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+The backup process for My blog located at https://www.decisio.co.uk has succeeded.
+
+/home/edfa6tzuu6ys/application_backups/app_decisio-co-uk_My-blog_2024-06-25_16-25-17.tar.gz
+Backup size: 55.11MB
+
+To use this backup, login to your web hosting control panel and navigate to the Installatron tool.
+
+End of report. To unsubscribe from all notifications follow this link: https://installatron.com/unsubscribe?id=90936c543b504115b49ae242cdae31c6%3Aedfa6tzuu6ys%40sxb1plzcpnl459836.prod.sxb1.secureserver.net
+

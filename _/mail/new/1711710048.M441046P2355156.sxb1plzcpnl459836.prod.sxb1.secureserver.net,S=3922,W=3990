@@ -1,0 +1,68 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id b1XDGWCfBmbU7yMAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 29 Mar 2024 04:00:48 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 29 Mar 2024 04:00:48 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rq9ya-009sgG-1C
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 29 Mar 2024 04:00:48 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <XuJ2cRWiMHgAnCPU9F5tQaxL0buE05dvozK8dwsSnY@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rq9ya-009sgG-1C@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 29 Mar 2024 04:00:48 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rq9yV-009sfA-02
+	for hello@decisio.CO.uk;
+	Fri, 29 Mar 2024 04:00:43 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 89.149.23.119
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 89.149.23.119
+Date: Fri, 29 Mar 2024 11:00:42 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <XuJ2cRWiMHgAnCPU9F5tQaxL0buE05dvozK8dwsSnY@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Winifred Gallard<br>Email: winifred.gallard@msn.com<br>Message: Harne=
+ss the Power of 5000 Email Leads Daily!<br /><br />PLUS, Grab an Extra 1000=
+ Emails Every Day!<br /><br />BONUS: Boost Your Website with 15,000+ Search=
+ Engines Submission!<br /><br />BONUS: Boost Your Rankings with 30,000+ Hig=
+h-Quality Backlinks!<br /><br />BONUS: Enhance Your Visibility with 40,000+=
+ Ping Sites!<br /><br />Download an EXTRA 150.000 Email Leads EVERY Month!<=
+br /><br />- All Leads Seeking for Online Money-Making Opportunities! -<br =
+/><br />- Download and Access Leads Every 24 Hours! -<br /><br />- MEGA BON=
+US Awaits Inside the Members Area! -<br /><br />Get All This for ONLY $9 a =
+Month!<br /><br />Yes, you read that right! Only $9 per month grants you ac=
+cess to 5000 business leads + an EXTRA 1000 daily! But that's not all...<br=
+ /><br />Unlock Super Hot Advertising Tools for Massive Traffic and Visitor=
+s to Your Website or Affiliate Link!<br /><br />What Can You Do with These =
+Daily Leads?<br /><br />- Grow Your Downline in Any Business You're Involve=
+d With!<br /><br />- Give them away to grow your downline in whatever busin=
+ess you are involved with.<br /><br />Use the BONUS SOFTWARE to Send Them A=
+ll At Once - FREE!<br /><br /><br />https://exceptional-store.com/5000leads=
+<br /><br />Sincerely,<br /><br />PS: The emails come from lists that have =
+agreed to receive partner offers.<br><br>---<br><br>Date: March 29, 2024<br=
+>Time: 11:00 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: =
+Mozilla/5.0 (X11; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0<br>Rem=
+ote IP: 89.149.23.119<br>Powered by: Elementor<br>

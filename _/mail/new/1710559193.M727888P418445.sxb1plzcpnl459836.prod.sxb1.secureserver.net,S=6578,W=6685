@@ -1,0 +1,107 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 9kL1KtkP9WWNYgYAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 15 Mar 2024 20:19:53 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 15 Mar 2024 20:19:53 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rlKaP-001kr1-28
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 15 Mar 2024 20:19:53 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <lssV4GLvloIzWdzIXCAYvVGPezF1A8OW726Z18Jkphk@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710559193-eximdsn-1833729506
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rlKaP-001kr1-28@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 15 Mar 2024 20:19:53 -0700
+
+--1710559193-eximdsn-1833729506
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 lKaPr10HMXE5f :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=BpA+wpX5 c=1 sm=1 tr=0 ts=65f50fd9 p=otxnFo_RAAAA:20 p=JOMmCaVtIxLHQWsmVEOU:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=NjKkWceA_tHQom8vWDQA:9 a=3-0iPb8IlNyDienE:21 a=QEXdDO2ut3YA:10 a=TNAKH6Q5c5wA:10 a=BKusxVS4O6YA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ZT_8zCgGubuJgGonBfBE:22 a=veZgN6dfI3aLl5Qw1A84:22 ::
+    100.00
+
+--1710559193-eximdsn-1833729506
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 lKaPr10HMXE5f :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=BpA+wpX5 c=1 sm=1 tr=0 ts=65f50fd9 p=otxnFo_RAAAA:20 p=JOMmCaVtIxLHQWsmVEOU:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=NjKkWceA_tHQom8vWDQA:9 a=3-0iPb8IlNyDienE:21 a=QEXdDO2ut3YA:10 a=TNAKH6Q5c5wA:10 a=BKusxVS4O6YA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ZT_8zCgGubuJgGonBfBE:22 a=veZgN6dfI3aLl5Qw1A84:22 :: 100.00
+
+--1710559193-eximdsn-1833729506
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rlKaJ-001kpL-2Z
+	for hello@decisio.CO.uk;
+	Fri, 15 Mar 2024 20:19:53 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 104.143.245.220
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 104.143.245.220
+Date: Sat, 16 Mar 2024 03:19:47 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <lssV4GLvloIzWdzIXCAYvVGPezF1A8OW726Z18Jkphk@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Trevor Starnes<br>Email: starnes.trevor@gmail.com<br>Message: Feel li=
+ke your diet is just you losing and gaining the same 5 lbs over and over?<b=
+r /><br />Feel like you eat healthy and exercise all day, but never make an=
+y progress?<br /><br />Then check this...<br /><br />A groundbreaking study=
+ published in Nature Medicine has revealed a bizarre fat dissolving loophol=
+e that has nothing to do with dieting or exercise.<br /><br />They discover=
+ed by simply eating this one "ugly" plant, hidden for centuries in Vietnam,=
+ you will trigger a unique fat-melting chain reaction that liquifies fat ce=
+lls as you sleep.<br /><br />https://tinyurl.com/ysc8t3mu<br /><br />Studie=
+s show this plant is 335% more powerful than exercise...<br /><br />and 408=
+% more powerful at burning butt, arm and neck fat than any diet...<br /><br=
+ />See it now:<br /><br />>>>  One Ugly Plant Liquifies Fat Cells Into Noth=
+ing: https://tinyurl.com/ysc8t3mu<br /><br />Right now, THOUSANDS of people=
+ all over America swear by this ugly looking fat dissolving plant. In fact,=
+ It's already helped over 200,000 men and women.<br /><br />Francine was ab=
+le to break past her plateau to drop 34 lbs and her waist is smaller than e=
+ver...<br /><br />Debra dropped 47 lbs...<br /><br />And once I saw the fat=
+ dissolve away for me too, I had to share it with you...<br /><br />Just wa=
+tch this surprising video and discover this simple ugly plant method yourse=
+lf to start burning calories even when you're sleeping.<br /><br />To your =
+health!<br /><br />PS. In the video, you'll also discover 2 of the biggest =
+weight loss mistakes - done by millions each day - that are supposed to mak=
+e you thinner, but instead slow metabolism, increase cravings and clog arte=
+ries every time you do them. To find out, check out this controversial vide=
+o now, before it gets banned.<br /><br />Check now: https://tinyurl.com/ysc=
+8t3mu<br><br>---<br><br>Date: March 16, 2024<br>Time: 3:19 am<br>Page URL: =
+https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0;=
+ Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari=
+/537.36<br>Remote IP: 104.143.245.220<br>Powered by: Elementor<br>
+
+--1710559193-eximdsn-1833729506--

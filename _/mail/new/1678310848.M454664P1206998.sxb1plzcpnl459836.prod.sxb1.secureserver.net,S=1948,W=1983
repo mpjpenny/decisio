@@ -1,0 +1,35 @@
+Return-Path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 2D22GsD9CGTWahIAphIfxA
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 08 Mar 2023 14:27:28 -0700
+Return-path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 08 Mar 2023 14:27:28 -0700
+Received: from root by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1pa1Jo-0054io-D1
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 08 Mar 2023 14:27:28 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Installatron] WordPress plugin Dynamic Content for Elementor 2.8.12 now available
+Date: Wed, 8 Mar 2023 14:27:28 -0700
+From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Message-ID: <a04727dc4ed000e6e0a45a6c8c7d21c9@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.58 (260)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to Dynamic Content for Elementor 2.8.12 is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- https://www.decisio.co.uk
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

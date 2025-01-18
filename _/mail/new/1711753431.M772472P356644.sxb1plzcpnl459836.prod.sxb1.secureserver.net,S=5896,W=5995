@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 2HSjLddIB2YkcQUAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 29 Mar 2024 16:03:51 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 29 Mar 2024 16:03:51 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rqLGJ-001V9U-2J
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 29 Mar 2024 16:03:51 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <fgyadI8MWln4CpDlUY1fdjZO98UjWpKxQXJkpU8gZs@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1711753431-eximdsn-245220311
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rqLGJ-001V9U-2J@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 29 Mar 2024 16:03:51 -0700
+
+--1711753431-eximdsn-245220311
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 qLGJrOng59gEI :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Bt9WwpX5 c=1 sm=1 tr=0 ts=660748d7 p=Ubu83xDkAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=vbctSp3vQxspF5BiwPIA:9 a=3yL6nm_E3od9SzaN:21 a=QEXdDO2ut3YA:10 a=Kf32c4sisOMA:10 a=2bGewx9jlIoA:10 a=rU1kAu-G7FcA:10 a=ySZF8eaf4H8jf_bptTT_:22 a=ZT_8zCgGubuJgGonBfBE:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1711753431-eximdsn-245220311
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 qLGJrOng59gEI :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Bt9WwpX5 c=1 sm=1 tr=0 ts=660748d7 p=Ubu83xDkAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=vbctSp3vQxspF5BiwPIA:9 a=3yL6nm_E3od9SzaN:21 a=QEXdDO2ut3YA:10 a=Kf32c4sisOMA:10 a=2bGewx9jlIoA:10 a=rU1kAu-G7FcA:10 a=ySZF8eaf4H8jf_bptTT_:22 a=ZT_8zCgGubuJgGonBfBE:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1711753431-eximdsn-245220311
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rqLGD-001V8F-1G
+	for hello@decisio.CO.uk;
+	Fri, 29 Mar 2024 16:03:51 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 45.41.162.38
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 45.41.162.38
+Date: Fri, 29 Mar 2024 23:03:45 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <fgyadI8MWln4CpDlUY1fdjZO98UjWpKxQXJkpU8gZs@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Mervin McCleary<br>Email: mervin.mccleary@yahoo.com<br>Message: Hi!<b=
+r /><br />Have you ever written short email messages before? We need to tal=
+k if you have that skill set.<br /><br />We are currently looking for new b=
+eginner-paid remote workers who want to start work right away!<br /><br />A=
+ll employers hiring through our company are looking for people with no prev=
+ious experience but are willing to learn. These are remote positions, meani=
+ng that as long as you can work the required hours, you can work from home.=
+<br /><br />Click here to complete your application if interested: https://=
+tinyurl.com/6nubaee5<br /><br />In this position, you will be assigned task=
+s related to sending promotional email messages about various products and =
+services. You must write in clear English with no errors and provide consis=
+tency so we can rely on you to produce many weekly messages.<br /><br />The=
+ rate we offer varies depending on what kind of assignment(s) you'll take. =
+Still, generally speaking, it ranges between $40-$80 per hour depending on =
+what service(s) they entail and your level of expertise.<br /><br />Interes=
+ted? Check out this page before completing an application to get everything=
+ important!<br /><br />Best of luck!<br /><br />Check here: https://tinyurl=
+.com/6nubaee5<br><br>---<br><br>Date: March 29, 2024<br>Time: 11:03 pm<br>P=
+age URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Li=
+nux i686; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 45.41.162.38=
+<br>Powered by: Elementor<br>
+
+--1711753431-eximdsn-245220311--

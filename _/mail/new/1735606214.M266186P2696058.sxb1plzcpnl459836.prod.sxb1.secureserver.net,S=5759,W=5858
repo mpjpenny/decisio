@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id aN/0DsY/c2d6IykAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 30 Dec 2024 17:50:14 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 30 Dec 2024 17:50:14 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1tSQSc-00BOCd-0b
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 30 Dec 2024 17:50:14 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <kXbXH2OAOTdKGWs2acEw6AXI5VkjajkDeZjGFB0dtvg@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1735606214-eximdsn-837273783
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tSQSc-00BOCd-0b@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 30 Dec 2024 17:50:14 -0700
+
+--1735606214-eximdsn-837273783
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 SQSbtFQoyansZ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=UvCZN/wB c=1 sm=1 tr=0 ts=67733fc6 p=uQMT03zJAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=RZcAm9yDv7YA:10 a=c7naqG_xe-4A:10 a=nCXkiSSfAAAA:8 a=84cTXm3vAAAA:8 a=qfso54oAxHLVTx-q0FYA:9 a=IU_QF2G0uvWHSMC_:21 a=QEXdDO2ut3YA:10 a=-zRv4IXpuUivucxex9-7:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=aztpIL3GXmMPXXciJVAa:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1735606214-eximdsn-837273783
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 SQSbtFQoyansZ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=UvCZN/wB c=1 sm=1 tr=0 ts=67733fc6 p=uQMT03zJAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=RZcAm9yDv7YA:10 a=c7naqG_xe-4A:10 a=nCXkiSSfAAAA:8 a=84cTXm3vAAAA:8 a=qfso54oAxHLVTx-q0FYA:9 a=IU_QF2G0uvWHSMC_:21 a=QEXdDO2ut3YA:10 a=-zRv4IXpuUivucxex9-7:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=aztpIL3GXmMPXXciJVAa:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1735606214-eximdsn-837273783
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1tSQSQ-00BNz5-31
+	for hello@decisio.CO.uk;
+	Mon, 30 Dec 2024 17:50:13 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+Date: Tue, 31 Dec 2024 00:50:02 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <kXbXH2OAOTdKGWs2acEw6AXI5VkjajkDeZjGFB0dtvg@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Kenneth Crawford<br>Email: penelope@businesstechgenius.com<br>Message=
+: Revolutionize Your Google Ads with Ad Alchemy AI  <br /><br />Enhance you=
+r Google Ads with Ad Alchemy AI, the go-to platform for building, refining,=
+ and scaling impactful campaigns.  <br /><br />Harness the power of AI to s=
+treamline your ad management process, driving greater conversions and maxim=
+izing your return on investment.  <br /><br />**Key Features:**  <br />- Au=
+tomated ad copywriting and optimization powered by AI  <br />- Smart target=
+ing suggestions to connect with ideal customers  <br />- AI-powered scaling=
+ for profit-maximization  <br />- Comprehensive analytics to optimize spend=
+ing and improve results  <br />- Intuitive dashboard for fast and effective=
+ ad management  <br /><br />Trusted by thousands of marketers, Ad Alchemy A=
+I boosts profits by 20-40% while reducing wasted ad spend.  <br /><br />Say=
+ goodbye to guesswork=E2=80=94automate tasks, unlock winning strategies, an=
+d outperform your competition in minutes.  <br /><br />This is your moment =
+to transform your ad strategy.  <br /><br />-- Get lifetime access to Ad Al=
+chemy AI now: https://appsumo.8odi.net/2aaE7a <br /><br /><br /><br /><br /=
+><br /><br />If at any point you no longer want to receive additional email=
+s from this address, simply rebly back to this email with the message: "No =
+thanks"<br />62 Devon Street, East Syracuse, NY, USA, 5031<br><br>---<br><b=
+r>Date: December 31, 2024<br>Time: 12:50 am<br>Page URL: https://decisio.co=
+.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple=
+WebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36<br>Remote =
+IP: 193.233.141.225<br>Powered by: Elementor<br>
+
+--1735606214-eximdsn-837273783--

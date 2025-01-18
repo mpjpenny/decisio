@@ -1,0 +1,48 @@
+Return-Path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id QKlNGalLTWWE9jAAphIfxA
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 09 Nov 2023 14:14:17 -0700
+Return-path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 09 Nov 2023 14:14:17 -0700
+Received: from root by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1r1CLx-00DfLT-By
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 09 Nov 2023 14:14:17 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Installatron] WordPress 6.4.1 now available
+Date: Thu, 9 Nov 2023 14:14:17 -0700
+From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Message-ID: <d6c50f434893df37a5cd1763ababc66a@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.61 (318)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 6.4.1  is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- https://www.decisio.co.uk
+
+
+The changes for this version are:
+
+This minor release features four bug fixes.
+
+Bug Fixes
+* #59830 Administration: Typos in `wp_admin_notice()` arguments
+* #59837 Categories are removed when bulk editing posts
+* #59842 WordPress 6.4 wp_remote_get (cURL error 28: Operation timed out)
+* #59846 Reinstate the `wpdb::$use_mysqli` property
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

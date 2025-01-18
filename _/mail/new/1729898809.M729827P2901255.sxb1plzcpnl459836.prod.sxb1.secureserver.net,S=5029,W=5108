@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id KPTqKjkpHGcHRSwAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 25 Oct 2024 16:26:49 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 25 Oct 2024 16:26:49 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1t4Thh-00CCSH-28
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 25 Oct 2024 16:26:49 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <et0wdpioz2irVlxAF8rUP5EbUco2WgSSyyrN5OTaGc@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729898809-eximdsn-1145966753
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t4Thh-00CCSH-28@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 25 Oct 2024 16:26:49 -0700
+
+--1729898809-eximdsn-1145966753
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4Thht49hQlGuR :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Jpg6r94C c=1 sm=1 tr=0 ts=671c2939 p=_MmbMUyOAAAA:8 p=NS98URXewnMA:10 p=o0zjK-KFmnLMDnLvYYvM:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=DAUX931o1VcA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=xP31tClNuxq6pl8ek4MA:9 a=QEXdDO2ut3YA:10 a=zZCYzV9kfG8A:10 a=v1HgiMOq0mtQZJImaQ2H:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1729898809-eximdsn-1145966753
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4Thht49hQlGuR :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Jpg6r94C c=1 sm=1 tr=0 ts=671c2939 p=_MmbMUyOAAAA:8 p=NS98URXewnMA:10 p=o0zjK-KFmnLMDnLvYYvM:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=DAUX931o1VcA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=xP31tClNuxq6pl8ek4MA:9 a=QEXdDO2ut3YA:10 a=zZCYzV9kfG8A:10 a=v1HgiMOq0mtQZJImaQ2H:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1729898809-eximdsn-1145966753
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1t4ThY-00CCQR-2v
+	for hello@decisio.CO.uk;
+	Fri, 25 Oct 2024 16:26:49 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 149.34.252.8
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 149.34.252.8
+Date: Fri, 25 Oct 2024 23:26:40 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <et0wdpioz2irVlxAF8rUP5EbUco2WgSSyyrN5OTaGc@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Manuela Holmwood<br>Email: allenjeremy183@gmail.com<br>Message: Do you own and operate a business outside the USA? My name is Jeremy<br />Allen from BNF Investments LLC, a Florida based Investment Company.<br />We are expanding our operations outside the USA hence; we are actively<br />looking for serious business owners operating outside the USA who are in<br />need of business funding or investments in their businesses for quick<br />access to funding.<br /><br />Get back to me if you are interested through my email:<br />jallen@bnfinvestmentsllc.com<br><br>---<br><br>Date: October 25, 2024<br>Time: 11:26 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12.5; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 149.34.252.8<br>Powered by: Elementor<br>
+
+
+--1729898809-eximdsn-1145966753--

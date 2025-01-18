@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id cFBwCzJM4Waz7CQAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 11 Sep 2024 00:52:18 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 11 Sep 2024 00:52:18 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1soI9C-00AC4y-0Q
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 11 Sep 2024 00:52:18 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <FLyKUfK7jq76GWqT767mD5YO5BdlwgUa9gRtkOvr2M@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1soI9C-00AC4y-0Q@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Wed, 11 Sep 2024 00:52:18 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1soI8w-00AByg-29
+	for hello@decisio.CO.uk;
+	Wed, 11 Sep 2024 00:52:02 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 104.243.244.8
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 104.243.244.8
+Date: Wed, 11 Sep 2024 07:52:02 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <FLyKUfK7jq76GWqT767mD5YO5BdlwgUa9gRtkOvr2M@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Lamont Alvarez<br>Email: lamont.alvarez78@yahoo.com<br>Message: Hey  <br /><br />Not sure how much money decisio.co.uk  is making, but selling digital products is on fire.<br /><br />The transaction value in the Digital Commerce market is projected to reach US$7.63 trillion in 2024. (Statistica.)<br />There is a simple 2-step method to make money selling high-profit, digital products in less than an hour per day.<br /><br />Start leveraging from this growing economy.<br /><br />Learn how here:<br />https://hoply.io/Q5QNX<br><br>---<br><br>Date: September 11, 2024<br>Time: 7:52 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 104.243.244.8<br>Powered by: Elementor<br>
+

@@ -1,0 +1,52 @@
+Return-Path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id oBKuF4NZ02S/eyIAphIfxA
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 09 Aug 2023 02:16:51 -0700
+Return-path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 09 Aug 2023 02:16:51 -0700
+Received: from root by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1qTfJD-009kuY-B5
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 09 Aug 2023 02:16:51 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Installatron] WordPress 6.3 now available (major version)
+Date: Wed, 9 Aug 2023 02:16:51 -0700
+From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Message-ID: <2917bb5c54727046fa821dadd081ba3c@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.60 (294)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 6.3 (major version) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- https://www.decisio.co.uk
+
+
+The changes for this version are:
+
+This momentous release opens new possibilities for the creative expression of designers, creators, and builders. Powerful tools and refined controls give users confidence and allow them to easily manage their sites.
+
+What's New
+* Do everything in the Site Editor: WordPress 6.3 brings your content, templates, and patterns together in the Site Editor for the first time. 
+* Preview Block themes: Experience block themes before you switch and preview the Site Editor, with options to customize directly before committing to a new theme. 
+* Create and sync patterns: Arrange blocks and save them to the ‘My Patterns’ section for use throughout your site. 
+* Work faster with the Command Palette: Switch to a specific template or open your editor preferences with a new tool that helps you quickly access expanded functionality. 
+* Sharpen your designs with new tools: New design controls bring more versatility for fine-tuning, starting with the ability to customize your captions from the Styles interface without coding. 
+* Track design changes with Style revisions: With a new audit trail, you can now see how your site looked at a specific time. 
+* Annotate with the Footnotes block: Footnotes add convenient annotations throughout your content. Now you can add and link footnotes for any paragraph.
+* Show or hide content with the Details block: Use the Details block to avoid spoiling a surprise, create an interactive Q&A section, or hide a long paragraph under a heading.
+* Performance gets a boost: WordPress 6.3 has 170+ performance updates, including defer and async support for the Scripts API and fetchpriority support for images. 
+* Accessibility remains a core focus: Incorporating more than 50 accessibility improvements across the platform, WordPress 6.3 is more accessible than ever.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

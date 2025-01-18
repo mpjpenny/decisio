@@ -1,0 +1,126 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id M0LnD6SwWWXoIicAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 18 Nov 2023 23:52:20 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 18 Nov 2023 23:52:20 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1r4bfI-00AlEI-6c
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 18 Nov 2023 23:52:20 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <23969aq9UClhfrEQWWwmGAX6IrJOcmgT9A47iJdKqfw@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1700376740-eximdsn-151436668
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1r4bfI-00AlEI-6c@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 18 Nov 2023 23:52:20 -0700
+
+--1700376740-eximdsn-151436668
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4bfIrCaVDtK4A :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Q5wUoa6a c=1 sm=1 tr=0 ts=6559b0a4 p=mnTjpfSRAAAA:8 p=heSRQFiQRbIqjhggr8AK:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=BNY50KLci1gA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=HpU0rPJWO7-oNtTwa20A:9 a=UfBxjnIl8nqI5Lke:21 a=QEXdDO2ut3YA:10 a=HPm9FKHarAsA:10 a=GpgGyJwAu1EA:10 a=Uld2o_lDHMsVkxPV-dx0:22 a=vG1CjOZ6gve_C9reCJw_:22 a=vweR-l8huHxojtli6SCc:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1700376740-eximdsn-151436668
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4bfIrCaVDtK4A :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Q5wUoa6a c=1 sm=1 tr=0 ts=6559b0a4 p=mnTjpfSRAAAA:8 p=heSRQFiQRbIqjhggr8AK:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=BNY50KLci1gA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=HpU0rPJWO7-oNtTwa20A:9 a=UfBxjnIl8nqI5Lke:21 a=QEXdDO2ut3YA:10 a=HPm9FKHarAsA:10 a=GpgGyJwAu1EA:10 a=Uld2o_lDHMsVkxPV-dx0:22 a=vG1CjOZ6gve_C9reCJw_:22 a=vweR-l8huHxojtli6SCc:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1700376740-eximdsn-151436668
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1r4beo-00Akqq-1E
+	for hello@decisio.CO.uk;
+	Sat, 18 Nov 2023 23:52:20 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 154.16.69.123
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 154.16.69.123
+Date: Sun, 19 Nov 2023 06:51:49 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <23969aq9UClhfrEQWWwmGAX6IrJOcmgT9A47iJdKqfw@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Lakeisha Vrooman<br>Email: vrooman.lakeisha58@gmail.com<br>Message: H=
+ello decisio.co.uk Administrator.<br /><br />My name is Lakeisha and, contr=
+ary to numerous emails you may get, I wish to alternatively provide you wit=
+h a word of congratulations =E2=80=93 Kudos!<br /><br />What for?<br /><br =
+/>A portion of my job is to review websites and the work you=E2=80=99ve don=
+e with decisio.co.uk absolutely is notable. <br /><br />It=E2=80=99s clear =
+you have taken building a website to heart and made a genuine investment of=
+ energy into making it top quality.<br /><br />However, there is, however, =
+a question=E2=80=A6 more precisely, a question=E2=80=A6<br /><br />So, when=
+ someone like me stumbles upon your site =E2=80=93 perhaps at the top of th=
+e search results (nice job by the way) or just through a random link, how d=
+o you know?<br /><br />Furthermore, how do you make a connection with that =
+person?<br /><br />Studies show that 7 out of 10 visitors don=E2=80=99t sti=
+ck around =E2=80=93 they=E2=80=99re there one second and then vanished.<br =
+/><br />There=E2=80=99s a way to create IMMEDIATE engagement that you may n=
+ot have known about=E2=80=A6<br /><br />Instant Engagement Tool is a softwa=
+re widget that=E2=80=99s works on your site, set to capture any visitor=
+=E2=80=99s Name, Email address, and Phone Number. It lets you know PROMPTLY=
+ that they=E2=80=99re interested =E2=80=93 so that you can chat to that lea=
+d while they=E2=80=99re actually looking over decisio.co.uk.<br /><br />CLI=
+CK HERE https://turboleadgeneration.com to experience a Live Demo with Inst=
+ant Engagement Tool now to see precisely how it works.<br /><br />It could =
+be a significant improvement for your business =E2=80=93 and it gets even b=
+etter=E2=80=A6 once you=E2=80=99ve captured their phone number, with our ne=
+w SMS Text With Lead feature, you can instantly start a text (SMS) conversa=
+tion =E2=80=93 immediately (and there=E2=80=99s actually a 100X difference =
+between contacting someone within 5 minutes versus 30 minutes.)<br /><br />=
+Plus then, even if you don=E2=80=99t close a deal instantly, you can connec=
+t later on with text messages for new offers, content links, even just foll=
+ow-up notes to build a relationship.<br /><br />Each aspect I=E2=80=99ve ju=
+st described is straightforward, easy, and productive.<br /><br />CLICK HER=
+E https://turboleadgeneration.com to discover what Web Visitors Into Leads =
+can do for your business.<br /><br />You can be converting up to 100X more =
+leads today!<br /><br />Lakeisha<br />PS: Lead Capture offers a FREE 14 day=
+s trial =E2=80=93 and it even includes International Long Distance Calling.=
+<br />You have customers eager to talk with you immediately=E2=80=A6 don=
+=E2=80=99t keep them waiting.<br />CLICK HERE https://turboleadgeneration.c=
+om to test Lead Capture now.<br /><br />If you'd choose to unsubscribe clic=
+k here https://turboleadgeneration.com/unsubscribe.aspx?d=3Ddecisio.co.uk<b=
+r /><br />Simply a brief remark - the identities and email address utilized=
+ in this note, Lakeisha and Vrooman, are placeholders and not actually auth=
+entic information. We cherish transparency and aimed to ensure you are awar=
+e! Should you want to connect with the true person responsible for this mem=
+o, please go to our website, and we=E2=80=99ll associate you with the corre=
+ct person.<br><br>---<br><br>Date: November 19, 2023<br>Time: 6:51 am<br>Pa=
+ge URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows =
+NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537=
+.36<br>Remote IP: 154.16.69.123<br>Powered by: Elementor<br>
+
+--1700376740-eximdsn-151436668--

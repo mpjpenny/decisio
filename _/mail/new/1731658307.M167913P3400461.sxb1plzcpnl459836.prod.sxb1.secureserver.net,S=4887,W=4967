@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 2Jh7CUMCN2cN4zMAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 15 Nov 2024 01:11:47 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 15 Nov 2024 01:11:47 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1tBrQh-00EV7t-0K
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 15 Nov 2024 01:11:47 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <qqgJyJWZiO6jreBnBYqwUCx2Z4N1IL9w5GTSZoq2CfI@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1731658307-eximdsn-1962512963
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tBrQh-00EV7t-0K@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 15 Nov 2024 01:11:47 -0700
+
+--1731658307-eximdsn-1962512963
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 BrQgtQ709ZU2E :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TrMchCXh c=1 sm=1 tr=0 ts=67370243 p=xuDzu9KgNa0A:10 p=gq_0fWKFaCi8gXDAzukL:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=VlfZXiiP6vEA:10 a=c7naqG_xe-4A:10 a=84cTXm3vAAAA:8 a=UqCG9HQmAAAA:8 a=GCRQTAkMc71yhhBusvoA:9 a=3ZKOabzyN94A:10 a=QEXdDO2ut3YA:10 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1731658307-eximdsn-1962512963
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 BrQgtQ709ZU2E :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TrMchCXh c=1 sm=1 tr=0 ts=67370243 p=xuDzu9KgNa0A:10 p=gq_0fWKFaCi8gXDAzukL:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=VlfZXiiP6vEA:10 a=c7naqG_xe-4A:10 a=84cTXm3vAAAA:8 a=UqCG9HQmAAAA:8 a=GCRQTAkMc71yhhBusvoA:9 a=3ZKOabzyN94A:10 a=QEXdDO2ut3YA:10 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1731658307-eximdsn-1962512963
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1tBrQY-00EV6P-0j
+	for hello@decisio.CO.uk;
+	Fri, 15 Nov 2024 01:11:46 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 156.146.57.63
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 156.146.57.63
+Date: Fri, 15 Nov 2024 08:11:38 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <qqgJyJWZiO6jreBnBYqwUCx2Z4N1IL9w5GTSZoq2CfI@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Samir<br>Email: your.assistant23@outlook.com<br>Message: Hey there! Looking for someone who can take text from images, PDFs, or files and organize it into Excel, Word, PPT, or a spreadsheet? I’ve got you covered! Just send over your requirements, and I’ll ensure everything is accurately entered and formatted to make your work easier. <br /><br />Shoot me an email at your.assistant23@outlook.com, and let’s get started!<br><br>---<br><br>Date: November 15, 2024<br>Time: 8:11 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68<br>Remote IP: 156.146.57.63<br>Powered by: Elementor<br>
+
+
+--1731658307-eximdsn-1962512963--

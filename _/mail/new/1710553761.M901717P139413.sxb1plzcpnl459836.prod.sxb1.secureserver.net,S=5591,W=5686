@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 4Do3NaH69GWVIAIAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 15 Mar 2024 18:49:21 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 15 Mar 2024 18:49:21 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rlJAn-000dxv-2i
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 15 Mar 2024 18:49:21 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <Z5V4zirAoMoeU7O6cEOrn6mqGMDZ6jVCu5qDquGPcg@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710553761-eximdsn-2071930823
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rlJAn-000dxv-2i@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 15 Mar 2024 18:49:21 -0700
+
+--1710553761-eximdsn-2071930823
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 lJAnrWh7eteo8 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Y5VbsQeN c=1 sm=1 tr=0 ts=65f4faa1 p=tjJyTU8PAAAA:20 p=J8KC2DWP1eCF1nI1fVQA:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=qfso54oAxHLVTx-q0FYA:9 a=gQUOnAFHIk_YV6QH:21 a=QEXdDO2ut3YA:10 a=kV2PQE78q2kA:10 a=I3YahCSv-rAA:10 a=zBoWHj7H0M8A:10 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1710553761-eximdsn-2071930823
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 lJAnrWh7eteo8 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Y5VbsQeN c=1 sm=1 tr=0 ts=65f4faa1 p=tjJyTU8PAAAA:20 p=J8KC2DWP1eCF1nI1fVQA:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=CjxXgO3LAAAA:8 a=84cTXm3vAAAA:8 a=qfso54oAxHLVTx-q0FYA:9 a=gQUOnAFHIk_YV6QH:21 a=QEXdDO2ut3YA:10 a=kV2PQE78q2kA:10 a=I3YahCSv-rAA:10 a=zBoWHj7H0M8A:10 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1710553761-eximdsn-2071930823
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rlJAg-000dw5-1q
+	for hello@decisio.CO.uk;
+	Fri, 15 Mar 2024 18:49:21 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 104.239.107.159
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 104.239.107.159
+Date: Sat, 16 Mar 2024 01:49:14 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <Z5V4zirAoMoeU7O6cEOrn6mqGMDZ6jVCu5qDquGPcg@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Koby Mena<br>Email: mena.koby@yahoo.com<br>Message: Many say this is =
+impossible, but it=E2=80=99s NOT!<br /><br />Thanks to a recent discovery, =
+anyone can now wipe off nail fungus 3X faster, even while sleeping!<br /><b=
+r />But how?<br /><br />A study published by the British Medical Journal, r=
+eveals that people who added just 2 drops of this newly discovered spice mi=
+x, cleared their brown or yellow nails in a matter of days=E2=80=A6<br /><b=
+r />With NO pills or toxic drugs=E2=80=A6<br /><br />With ZERO scrubbing or=
+ smelly ACV solutions=E2=80=A6<br /><br />And with ABSOLUTELY NO painful su=
+rgery!<br /><br />Check here: https://tinyurl.com/mw7d22k4<br /><br />The b=
+est thing?<br /><br />It=E2=80=99s completely natural and you can do it saf=
+ely from the comfort of your home starting tonight!<br /><br />Click here t=
+o see the simple spice mix which wipes off fungus 3X faster, in a matter of=
+ days: https://tinyurl.com/mw7d22k4<br><br>---<br><br>Date: March 16, 2024<=
+br>Time: 1:49 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent:=
+ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like =
+Gecko) Chrome/114.0.0.0 Safari/537.36<br>Remote IP: 104.239.107.159<br>Powe=
+red by: Elementor<br>
+
+--1710553761-eximdsn-2071930823--

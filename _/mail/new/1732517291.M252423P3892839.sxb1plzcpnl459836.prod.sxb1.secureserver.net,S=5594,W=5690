@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id eL6DDqsdRGdnZjsAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 24 Nov 2024 23:48:11 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 24 Nov 2024 23:48:11 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1tFStH-00GNYP-0b
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 24 Nov 2024 23:48:11 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <3of3wv2carqxLFxSlo95Nmy6EqvWB0CylLJ48IF89g4@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1732517291-eximdsn-64849370
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tFStH-00GNYP-0b@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 24 Nov 2024 23:48:11 -0700
+
+--1732517291-eximdsn-64849370
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 FStGtewjhCxnP :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=fYNXy1QF c=1 sm=1 tr=0 ts=67441dab p=QPPPGzyw-UZwg1MCqXNL:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=VlfZXiiP6vEA:10 a=c7naqG_xe-4A:10 a=1XwyoJbpAAAA:8 a=-XXenNbBAAAA:8 a=84cTXm3vAAAA:8 a=0InnrwjgI9t3I4x5v6sA:9 a=xEwKPsqBtbrjnuMb:21 a=QEXdDO2ut3YA:10 a=DjpZ_Ecz-ILEF_hKUUm3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1732517291-eximdsn-64849370
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 FStGtewjhCxnP :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=fYNXy1QF c=1 sm=1 tr=0 ts=67441dab p=QPPPGzyw-UZwg1MCqXNL:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=VlfZXiiP6vEA:10 a=c7naqG_xe-4A:10 a=1XwyoJbpAAAA:8 a=-XXenNbBAAAA:8 a=84cTXm3vAAAA:8 a=0InnrwjgI9t3I4x5v6sA:9 a=xEwKPsqBtbrjnuMb:21 a=QEXdDO2ut3YA:10 a=DjpZ_Ecz-ILEF_hKUUm3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1732517291-eximdsn-64849370
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1tFSt5-00GNBm-2q
+	for hello@decisio.CO.uk;
+	Sun, 24 Nov 2024 23:48:10 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 212.102.33.174
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 212.102.33.174
+Date: Mon, 25 Nov 2024 06:47:59 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <3of3wv2carqxLFxSlo95Nmy6EqvWB0CylLJ48IF89g4@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Celeste<br>Email: info@dion.medicopostura.com<br>Message: Good day <b=
+r /><br />Looking to improve your posture and live a healthier life? Our Me=
+dico Postura<img src=3D"https://s.w.org/images/core/emoji/13.0.1/72x72/2122=
+.png" alt=3D"=E2=84=A2" class=3D"wp-smiley" style=3D"height: 1em; max-heigh=
+t: 1em;" /> Body Posture Corrector is here to help!<br /><br />Experience i=
+nstant posture improvement with Medico Postura<img src=3D"https://s.w.org/i=
+mages/core/emoji/13.0.1/72x72/2122.png" alt=3D"=E2=84=A2" class=3D"wp-smile=
+y" style=3D"height: 1em; max-height: 1em;" />. This easy-to-use device can =
+be worn anywhere, anytime =E2=80=93 at home, work, or even while you sleep.=
+<br /><br />Made from lightweight, breathable fabric, it ensures comfort al=
+l day long.<br /><br />Grab it today at a fantastic 60% OFF: https://medico=
+postura.com<br /><br />Plus, enjoy FREE shipping for today only!<br /><br /=
+>Don't miss out on this amazing deal. Get yours now and start transforming =
+your posture!<br /><br />All the best, <br /><br />Celeste<br><br>---<br><b=
+r>Date: November 25, 2024<br>Time: 6:47 am<br>Page URL: https://decisio.co.=
+uk/contact/<br>User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) App=
+leWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.=
+0.1264.71<br>Remote IP: 212.102.33.174<br>Powered by: Elementor<br>
+
+--1732517291-eximdsn-64849370--

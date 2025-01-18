@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id eC5TGgpsY2ZOLDsAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 07 Jun 2024 13:22:34 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 07 Jun 2024 13:22:34 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sFg6c-00GItg-1D
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 07 Jun 2024 13:22:34 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <ergnvDtqhE5nSqOlBK1rIs9YPbS17ThdlRDZUIUg@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1717791754-eximdsn-1904658068
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sFg6c-00GItg-1D@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 07 Jun 2024 13:22:34 -0700
+
+--1717791754-eximdsn-1904658068
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Fg6bs4Pl99u7l :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=arZ5CjZV c=1 sm=1 tr=0 ts=66636c0a p=Y0RCGqTICKzPBBd_xngA:9 p=l_8XbhPndee1R9Hf3eOo:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=T1WGqf2p2xoA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=Apby7EitAAAA:20 a=84cTXm3vAAAA:8 a=YEcDYMWDQdly3WTP:21 a=QEXdDO2ut3YA:10 a=jlnKJB9CNEIA:10 a=szhjRD10pBcA:10 a=EaZQjRy-KHoA:10 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=qC_JTdYIS5O4f2aw3qyz:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1717791754-eximdsn-1904658068
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Fg6bs4Pl99u7l :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=arZ5CjZV c=1 sm=1 tr=0 ts=66636c0a p=Y0RCGqTICKzPBBd_xngA:9 p=l_8XbhPndee1R9Hf3eOo:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=T1WGqf2p2xoA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=Apby7EitAAAA:20 a=84cTXm3vAAAA:8 a=YEcDYMWDQdly3WTP:21 a=QEXdDO2ut3YA:10 a=jlnKJB9CNEIA:10 a=szhjRD10pBcA:10 a=EaZQjRy-KHoA:10 a=ZT_8zCgGubuJgGonBfBE:22 a=ASGqDSWa1uVckBUHRTv3:22 a=qC_JTdYIS5O4f2aw3qyz:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1717791754-eximdsn-1904658068
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sFg6U-00GIbr-1H
+	for hello@decisio.CO.uk;
+	Fri, 07 Jun 2024 13:22:33 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 158.115.251.130
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 158.115.251.130
+Date: Fri, 7 Jun 2024 20:22:26 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <ergnvDtqhE5nSqOlBK1rIs9YPbS17ThdlRDZUIUg@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Matthew Williams<br>Email: futurosalesco@gmail.com<br>Message: Hey, <=
+br /><br />Are you interested in a sms/whatsapp bot that can reactive all y=
+our old leads within minutes, warm them up, and either close the sale or bo=
+ok an appointment using the best practices for sales? <br /><br />It=
+=E2=80=99s free of cost to get started. You only pay when you book an appoi=
+ntment or close a sale a fixed amount or fixed commission. <br /><br />This=
+ way you can re-engage all of your old leads by sms/whatsapp with a bot tra=
+ined on your sales data, product data, and knowledge base in minutes withou=
+t having to contact them manually or design a campaign to re-engage them by=
+ email, sms, etc. The bot does it all for you. <br /><br />Does that sound =
+like something you=E2=80=99re interested in?<br /><br />If you are click th=
+e link below to book an appointment to learn more.<br /><br />https://bit.l=
+y/reactive8 <br /><br /><br />Best,<br /><br />Matthew Williams<br />Presid=
+ent<br />Zentara<br /><br /><br /><br /><br />Reply to this email with the =
+word "UNSUBSCRIBE" as the Subject to unsubscribe.<br><br>---<br><br>Date: J=
+une 7, 2024<br>Time: 8:22 pm<br>Page URL: https://decisio.co.uk/contact/<br=
+>User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.3=
+6 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/5=
+37.36<br>Remote IP: 158.115.251.130<br>Powered by: Elementor<br>
+
+--1717791754-eximdsn-1904658068--

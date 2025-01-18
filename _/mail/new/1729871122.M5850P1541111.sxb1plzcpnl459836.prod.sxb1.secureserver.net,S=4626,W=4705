@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id KCgvOhG9G2f3gxcAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 25 Oct 2024 08:45:21 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 25 Oct 2024 08:45:22 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1t4MV7-006Tdg-2f
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 25 Oct 2024 08:45:21 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <K1sd3SdvDqolEO2JluVPZvw07NWP9Bh9oRLWLU0Eo@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729871121-eximdsn-287823426
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t4MV7-006Tdg-2f@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 25 Oct 2024 08:45:21 -0700
+
+--1729871121-eximdsn-287823426
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4MV7txVhjR7qL :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=ENvN0EZC c=1 sm=1 tr=0 ts=671bbd11 p=949WC3o45uUA:10 p=g5Lif3Rg2lV8Y67F9299:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=DAUX931o1VcA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=0GX2MarJAAAA:8 a=zslr0YbxLFFPwUr_1BYA:9 a=QEXdDO2ut3YA:10 a=7jBqKnKQzRwA:10 a=YI-q1LNGERmkqLJpjbp1:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1729871121-eximdsn-287823426
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4MV7txVhjR7qL :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=ENvN0EZC c=1 sm=1 tr=0 ts=671bbd11 p=949WC3o45uUA:10 p=g5Lif3Rg2lV8Y67F9299:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=DAUX931o1VcA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=0GX2MarJAAAA:8 a=zslr0YbxLFFPwUr_1BYA:9 a=QEXdDO2ut3YA:10 a=7jBqKnKQzRwA:10 a=YI-q1LNGERmkqLJpjbp1:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1729871121-eximdsn-287823426
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1t4MUx-006TaU-3A
+	for hello@decisio.CO.uk;
+	Fri, 25 Oct 2024 08:45:21 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 5.79.254.66
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 5.79.254.66
+Date: Fri, 25 Oct 2024 15:45:11 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <K1sd3SdvDqolEO2JluVPZvw07NWP9Bh9oRLWLU0Eo@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: GeorgeNal<br>Email: dfdfdfdfddfddfgeaeb@gmail.com<br>Message: President of Russia support Kamala Harris <br /> <br />https://www.oklahoman.com/story/news/2024/09/06/did-vladimir-putin-endorse-kamala-harris-fact-check-conference-comment-russia/75106285007/<br><br>---<br><br>Date: October 25, 2024<br>Time: 3:45 pm<br>Page URL: <br>User Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36<br>Remote IP: 5.79.254.66<br>Powered by: Elementor<br>
+
+
+--1729871121-eximdsn-287823426--

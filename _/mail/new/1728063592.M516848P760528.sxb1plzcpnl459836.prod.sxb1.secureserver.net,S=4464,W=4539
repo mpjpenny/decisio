@@ -1,0 +1,75 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id OKaQHWgoAGfQmgsAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 04 Oct 2024 10:39:52 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 04 Oct 2024 10:39:52 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1swmHQ-003HvQ-1O
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 04 Oct 2024 10:39:52 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <LmaW4Z8tJllwgAafupzOdZsvdGiCbHelsJwkLqV7y0@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1swmHQ-003HvQ-1O@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 04 Oct 2024 10:39:52 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1swmHE-003HrU-1l
+	for hello@decisio.CO.uk;
+	Fri, 04 Oct 2024 10:39:40 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 107.158.116.9
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 107.158.116.9
+Date: Fri, 4 Oct 2024 17:39:40 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <LmaW4Z8tJllwgAafupzOdZsvdGiCbHelsJwkLqV7y0@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Eric Jones<br>Email: ericjonesmyemail@gmail.com<br>Message: Hello<br =
+/><br />My name=E2=80=99s Eric and I just found your site decisio.co.uk Adm=
+inistrator!<br /><br />It=E2=80=99s got a lot going for it, but here=
+=E2=80=99s an idea to make it even MORE effective.<br /><br />Visit https:/=
+/rushleadgeneration.com for a live demo now.<br /><br />Web Visitors Into L=
+eads is a software widget that=E2=80=99s works on your site, ready to captu=
+re any visitor=E2=80=99s Name, Email address and Phone Number.  It signals =
+you the moment they let you know they=E2=80=99re interested =E2=80=93 so th=
+at you can talk to that lead while they=E2=80=99re literally looking over y=
+our site.<br /><br />And once you=E2=80=99ve captured their phone number, w=
+ith our new SMS Text With Lead feature, you can automatically start a text =
+(SMS) conversation=E2=80=A6 and if they don=E2=80=99t take you up on your o=
+ffer then, you can follow up with text messages for new offers, content lin=
+ks, even just how you doing? notes to build a relationship.<br /><br />Visi=
+t https://rushleadgeneration.com to discover what Web Visitors Into Leads c=
+an do for your business.<br /><br />The difference between contacting someo=
+ne within 5 minutes versus a half-hour means you could be converting up to =
+100X more leads today!<br /><br />Eric<br />PS: Studies show that 70% of a =
+site=E2=80=99s visitors disappear and are gone forever after just a moment.=
+ Don=E2=80=99t keep losing them. <br />Web Visitors Into Leads offers a FRE=
+E 14 days trial =E2=80=93 and it even includes International Long Distance =
+Calling. <br />You have customers waiting to talk with you right now=
+=E2=80=A6 don=E2=80=99t keep them waiting. <br />Visit https://rushleadgene=
+ration.com to try Web Visitors Into Leads now.<br /><br />If you'd like to =
+unsubscribe visit https://rushleadgeneration.com/unsubscribe.aspx?d=3Ddecis=
+io.co.uk<br><br>---<br><br>Date: October 4, 2024<br>Time: 5:39 pm<br>Page U=
+RL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 1=
+0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Sa=
+fari/537.36<br>Remote IP: 107.158.116.9<br>Powered by: Elementor<br>

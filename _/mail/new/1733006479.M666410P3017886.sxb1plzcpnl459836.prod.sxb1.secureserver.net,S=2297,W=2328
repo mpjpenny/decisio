@@ -1,0 +1,31 @@
+Return-Path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id +NwcJ4+US2eeDC4AphIfxA
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 30 Nov 2024 15:41:19 -0700
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 30 Nov 2024 15:41:19 -0700
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1tHW9P-00CgPd-1v
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 30 Nov 2024 15:41:19 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Decisio] Failed login attempt alert
+X-PHP-Script: decisio.co.uk/xmlrpc.php for 64.46.102.108
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/xmlrpc.php REMOTE_ADDR: 64.46.102.108
+Date: Sat, 30 Nov 2024 22:41:19 +0000
+From: WordPress <wordpress@decisio.co.uk>
+Message-ID: <Rj4NP0H366K1jcpv2uypdYg1ITE8LLHtiaLJCAAI@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+<p>Hello admin,</p><p>16 failed login attempts (4 lockout(s)) from IP <b>64.46.102.108</b><br>Last user attempted: <b>admin</b><br>IP was blocked for 24 hours</p><p>This notification was sent automatically via Limit Login Attempts Reloaded Plugin. <b>This is installed on your decisio.co.uk WordPress site.</b></p><p>Under Attack? Try our <a href="https://www.limitloginattempts.com/info.php?from=plugin-lockout-email&v=2.21.1" target="_blank">advanced protection</a>. Have Questions? Visit our <a href="https://www.limitloginattempts.com/resources/?from=plugin-lockout-email" target="_blank">help section</a>.</p><hr><a href="https://decisio.co.uk/wp-admin/options-general.php?page=limit-login-attempts&tab=settings">Unsubscribe</a> from these notifications.
+

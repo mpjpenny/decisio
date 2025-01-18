@@ -1,0 +1,76 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id cAVDH2KEKGTyWAEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 01 Apr 2023 12:22:10 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 01 Apr 2023 12:22:10 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1pigni-000PUR-Ew
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 01 Apr 2023 12:22:10 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <jWQpFNmjsHNPNoc87aDXJzrLrD4fufZusLZP6bO0@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1680376930-eximdsn-732662250
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pigni-000PUR-Ew@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 01 Apr 2023 12:22:10 -0700
+
+--1680376930-eximdsn-732662250
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ignhpZXLhlhpH :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Sq9WqtC0 c=1 sm=1 tr=0 ts=64288462 p=tBqFH1duAAAA:8 p=JuU17N1ted1zjPv_1btN:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=dKHAf1wccvYA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=W39X0bUsaRRfJJBwyMUA:9 a=QEXdDO2ut3YA:10 a=IBNamIe09KYA:10 a=v5vntVM0WgsA:10 a=MCeEybu7XuAA:10 a=KlKg0vHgeiDTJyVK_H6w:22 a=ASGqDSWa1uVckBUHRTv3:22 a=hiG-xZ58dUNSczsZ6VQb:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1680376930-eximdsn-732662250
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ignhpZXLhlhpH :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Sq9WqtC0 c=1 sm=1 tr=0 ts=64288462 p=tBqFH1duAAAA:8 p=JuU17N1ted1zjPv_1btN:22 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=dKHAf1wccvYA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=W39X0bUsaRRfJJBwyMUA:9 a=QEXdDO2ut3YA:10 a=IBNamIe09KYA:10 a=v5vntVM0WgsA:10 a=MCeEybu7XuAA:10 a=KlKg0vHgeiDTJyVK_H6w:22 a=ASGqDSWa1uVckBUHRTv3:22 a=hiG-xZ58dUNSczsZ6VQb:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1680376930-eximdsn-732662250
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1pignD-000Oxm-DE
+	for hello@decisio.CO.uk;
+	Sat, 01 Apr 2023 12:22:09 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 95.142.118.19
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 95.142.118.19
+Date: Sat, 1 Apr 2023 19:21:39 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <jWQpFNmjsHNPNoc87aDXJzrLrD4fufZusLZP6bO0@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Valencia Drakeford<br>Email: drakeford.valencia@gmail.com<br>Message: I can blast your ad text to millions of website contact forms. One flat rate, never any per click costs. People will read your message just like you're reading this one that I just sent through your website contact form now. For further details, please email me here: : nixhexx007@boranora.com<br><br>---<br><br>Date: April 1, 2023<br>Time: 7:21 pm<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36<br>Remote IP: 95.142.118.19<br>Powered by: Elementor<br>
+
+
+--1680376930-eximdsn-732662250--

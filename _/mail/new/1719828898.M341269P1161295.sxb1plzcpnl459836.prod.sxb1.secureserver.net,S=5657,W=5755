@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id uAWJE6KBgmZPuBEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 01 Jul 2024 03:14:58 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 01 Jul 2024 03:14:58 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sOE3m-004utA-0r
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 01 Jul 2024 03:14:58 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <nhkCjPJauJQfSNVeRq7EpMmObTRWuT9laZimo8dcPE@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719828898-eximdsn-914390543
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sOE3m-004utA-0r@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 01 Jul 2024 03:14:58 -0700
+
+--1719828898-eximdsn-914390543
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 OE3lsjiV14RYS :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cqpQkE4i c=1 sm=1 tr=0 ts=668281a2 p=JmlMlk1pume6d5ejEHYA:9 p=qwQunbyKy9IA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=4kmOji7k6h8A:10 a=c7naqG_xe-4A:10 a=UqCG9HQmAAAA:8 a=84cTXm3vAAAA:8 a=QEXdDO2ut3YA:10 a=tgD6gohQN_kA:10 a=ezkXPIudIzb7XCW33Ke9:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 ::
+    100.00
+
+--1719828898-eximdsn-914390543
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 OE3lsjiV14RYS :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cqpQkE4i c=1 sm=1 tr=0 ts=668281a2 p=JmlMlk1pume6d5ejEHYA:9 p=qwQunbyKy9IA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=4kmOji7k6h8A:10 a=c7naqG_xe-4A:10 a=UqCG9HQmAAAA:8 a=84cTXm3vAAAA:8 a=QEXdDO2ut3YA:10 a=tgD6gohQN_kA:10 a=ezkXPIudIzb7XCW33Ke9:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 :: 100.00
+
+--1719828898-eximdsn-914390543
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sOE3d-004uqr-1c
+	for hello@decisio.CO.uk;
+	Mon, 01 Jul 2024 03:14:57 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 179.61.228.118
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 179.61.228.118
+Date: Mon, 1 Jul 2024 10:14:49 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <nhkCjPJauJQfSNVeRq7EpMmObTRWuT9laZimo8dcPE@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Sam<br>Email: hireonline556600@outlook.com<br>Message: My name is Sam=
+. I provide data entry services for just $1,000 USD per month (160 hours). =
+If you prefer an hourly basis, the cost is $8 USD per hour. I can handle an=
+y computer-related task that is repetitive in nature, such as entering data=
+ into software, collecting data, bookkeeping, copy-paste work, uploading co=
+ntent to websites, and following your business processes. I can also transc=
+ribe handwritten or scanned documents, update and maintain customer databas=
+es, cleanse and validate data, enter survey results and feedback, manage an=
+d update inventories, process invoices and receipts, create and update spre=
+adsheets, input product details into e-commerce platforms, digitize paper r=
+ecords, manage email lists and contact information, perform data mining and=
+ extraction from websites, compile and organize data from various sources. =
+You can outsource your entire business process to me, where tasks can be do=
+ne remotely using a computer. I can learn your process and work on any soft=
+ware accordingly. <br /><br />Reach out to me at Hireonline556600@outlook.c=
+om if you have any requirements and we can take=C2=A0a=C2=A0quick=C2=A0call=
+.<br><br>---<br><br>Date: July 1, 2024<br>Time: 10:14 am<br>Page URL: https=
+://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Macintosh; Intel Mac =
+OS X 12.5; rv:114.0) Gecko/20100101 Firefox/114.0<br>Remote IP: 179.61.228.=
+118<br>Powered by: Elementor<br>
+
+--1719828898-eximdsn-914390543--

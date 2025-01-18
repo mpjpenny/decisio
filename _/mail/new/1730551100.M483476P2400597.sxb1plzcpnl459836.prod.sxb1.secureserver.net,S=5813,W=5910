@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id OIBJHDwdJmdVoSQAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sat, 02 Nov 2024 05:38:20 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sat, 02 Nov 2024 05:38:20 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1t7DOW-00A8AC-1L
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sat, 02 Nov 2024 05:38:20 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <iakmtZ40sz4SzKtNywZ6MOpyRU4ohW6iAMG2ZmP78M@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1730551100-eximdsn-669700620
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t7DOW-00A8AC-1L@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sat, 02 Nov 2024 05:38:20 -0700
+
+--1730551100-eximdsn-669700620
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 7DOVthhGhvORJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Crp0cW4D c=1 sm=1 tr=0 ts=67261d3c p=PlNWLh6sAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=VlfZXiiP6vEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=vnREMb7VAAAA:8 a=nC0D0NoCAAAA:20 a=84cTXm3vAAAA:8 a=9-TaYPZOw3UBGKygLWQA:9 a=hqPMbd1HiLYByX1F:21 a=QEXdDO2ut3YA:10 a=125pDNQRCFwA:10 a=xG3ZDTKcc54A:10 a=-mOwyXg3DMoIvWCNviK3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1730551100-eximdsn-669700620
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 7DOVthhGhvORJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Crp0cW4D c=1 sm=1 tr=0 ts=67261d3c p=PlNWLh6sAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=VlfZXiiP6vEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=vnREMb7VAAAA:8 a=nC0D0NoCAAAA:20 a=84cTXm3vAAAA:8 a=9-TaYPZOw3UBGKygLWQA:9 a=hqPMbd1HiLYByX1F:21 a=QEXdDO2ut3YA:10 a=125pDNQRCFwA:10 a=xG3ZDTKcc54A:10 a=-mOwyXg3DMoIvWCNviK3:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1730551100-eximdsn-669700620
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1t7DOK-00A87c-1N
+	for hello@decisio.CO.uk;
+	Sat, 02 Nov 2024 05:38:19 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 193.233.141.73
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 193.233.141.73
+Date: Sat, 2 Nov 2024 12:38:08 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <iakmtZ40sz4SzKtNywZ6MOpyRU4ohW6iAMG2ZmP78M@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Melva Sumpter<br>Email: melva.sumpter83@gmail.com<br>Message: Boostin=
+g your website's performance and tracking your marketing efforts just got e=
+asier! With our UTM Code Generator at SEOGEEK, you can:<br /><br />Create c=
+ustom tracking codes effortlessly to gain valuable insights into your digit=
+al marketing campaigns.<br /><br />Know where your traffic comes from to im=
+prove your strategies effectively.<br /><br /><br />Measure the effectivene=
+ss of your campaigns with UTM codes, allowing for informed decisions that e=
+nhance your marketing efforts.<br /><br />If you're ready to get started, c=
+heck out our resources:<br /><br />-- Quick tutorial video on using the UTM=
+ Code Generator: https://www.youtube.com/watch?v=3DLkZm0rtMrbM<br /><br />*=
+* Learn more about the importance of UTM codes for your campaigns: https://=
+bit.ly/generateutm<br /><br />Let=E2=80=99s take your digital marketing to =
+the next level!<br /><br /><br /><br /><br /><br />You can unsubscribe by f=
+illing the form with your website URL at https://bit.ly/unsubus<br />Rua De=
+putado Fabio Vasconcelos 1107, Belo Horizonte, Chandler , AZ, United States=
+<br><br>---<br><br>Date: November 2, 2024<br>Time: 12:38 pm<br>Page URL: ht=
+tps://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; W=
+in64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/5=
+37.36<br>Remote IP: 193.233.141.73<br>Powered by: Elementor<br>
+
+--1730551100-eximdsn-669700620--

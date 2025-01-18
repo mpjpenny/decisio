@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id nP8LMJH1/GVp7yYAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 21 Mar 2024 20:05:53 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 21 Mar 2024 20:05:53 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rnVE9-00Ahnd-2O
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 21 Mar 2024 20:05:53 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <D7dR3Go3llB6pomSH1ZV0wGhbHssuDh9B4f2ZCOk6qM@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1711076753-eximdsn-1588007915
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rnVE9-00Ahnd-2O@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 21 Mar 2024 20:05:53 -0700
+
+--1711076753-eximdsn-1588007915
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 nVE9rGjWBC8qJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=SPrhV/vH c=1 sm=1 tr=0 ts=65fcf591 p=tjJyTU8PAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=DQ-Ee5ZfAo6niP3tRG4A:9 a=oW0jHV7w0ew6XRv2:21 a=QEXdDO2ut3YA:10 a=gpTo4hUrgZIA:10 a=q7XQYd6uGqgA:10 a=zBoWHj7H0M8A:10 a=VIyqHlUt4WC3dpBUOm33:22 a=ZT_8zCgGubuJgGonBfBE:22 a=RETwBKTeUYYpRC-xZ2I4:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 ::
+    100.00
+
+--1711076753-eximdsn-1588007915
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 nVE9rGjWBC8qJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=SPrhV/vH c=1 sm=1 tr=0 ts=65fcf591 p=tjJyTU8PAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=K6JAEmCyrfEA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=84cTXm3vAAAA:8 a=DQ-Ee5ZfAo6niP3tRG4A:9 a=oW0jHV7w0ew6XRv2:21 a=QEXdDO2ut3YA:10 a=gpTo4hUrgZIA:10 a=q7XQYd6uGqgA:10 a=zBoWHj7H0M8A:10 a=VIyqHlUt4WC3dpBUOm33:22 a=ZT_8zCgGubuJgGonBfBE:22 a=RETwBKTeUYYpRC-xZ2I4:22 a=ASGqDSWa1uVckBUHRTv3:22 a=Uld2o_lDHMsVkxPV-dx0:22 :: 100.00
+
+--1711076753-eximdsn-1588007915
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rnVE3-00AhmL-30
+	for hello@decisio.CO.uk;
+	Thu, 21 Mar 2024 20:05:53 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 38.170.190.128
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 38.170.190.128
+Date: Fri, 22 Mar 2024 03:05:47 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <D7dR3Go3llB6pomSH1ZV0wGhbHssuDh9B4f2ZCOk6qM@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Tyrone Mccurry<br>Email: mccurry.tyrone@gmail.com<br>Message: This ne=
+w antifungal ritual is absolutely insane:<br /><br />1. Gently wash your fe=
+et with warm water=E2=80=A6<br /><br />2. Then SLOWLY DRIP THESE 2 COMMON S=
+PICES ON YOUR NAILS.<br /><br />https://tinyurl.com/mw7d22k4<br /><br />Wit=
+h this one odd trick, which involves no smelly apple cider vinegar or usele=
+ss tea tree oil=E2=80=A6<br /><br />You=E2=80=99ll be able to quickly clear=
+ more than 70% of the fungus infection in a matter of days=E2=80=A6<br /><b=
+r />And finally make your nails strong and your feet healthy for years to c=
+ome.<br /><br />It sounds weird, but thousands of men and women with severe=
+ fungus infections =E2=80=9CIT WORKS WONDERS!=E2=80=9D<br /><br />It has an=
+ astonishing 98% success rate=E2=80=A6<br /><br />It=E2=80=99s 6X more powe=
+rful than any laser surgery=E2=80=A6<br /><br />And 7X more effective than =
+any anti-fungal gel, supplement or pill currently on the market!<br /><br /=
+>If you really want to get back your healthy nails starting today, you MUST=
+ see this now:<br /><br />=3D=3D> Simple =E2=80=9CNAIL SPICE=E2=80=9D Ritua=
+l Clears Fungus 3X Faster: https://tinyurl.com/mw7d22k4<br><br>---<br><br>D=
+ate: March 22, 2024<br>Time: 3:05 am<br>Page URL: https://decisio.co.uk/con=
+tact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:114.0) Ge=
+cko/20100101 Firefox/114.0<br>Remote IP: 38.170.190.128<br>Powered by: Elem=
+entor<br>
+
+--1711076753-eximdsn-1588007915--

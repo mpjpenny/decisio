@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id +DxQByn/32MpZBUAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 05 Feb 2023 12:10:33 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 05 Feb 2023 12:10:33 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1pOkPJ-005vzs-1Z
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 05 Feb 2023 12:10:33 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <aLzcR6ns3wqcR9oOMaXdCICMGH3xuGLMugQvxk9NcE@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pOkPJ-005vzs-1Z@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 05 Feb 2023 12:10:33 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1pOkPD-005vWv-48
+	for hello@decisio.CO.uk;
+	Sun, 05 Feb 2023 12:10:27 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 37.139.53.82
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 37.139.53.82
+Date: Sun, 5 Feb 2023 19:10:27 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <aLzcR6ns3wqcR9oOMaXdCICMGH3xuGLMugQvxk9NcE@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: liree<br>Email: jenniferguzman9440@outlook.com<br>Message: Have no money? Earn it online. https://iujxnsp.com/27?r=yuqrebng35846<br><br>---<br><br>Date: February 5, 2023<br>Time: 7:10 pm<br>Page URL: <br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4089.0 Safari/537.36<br>Remote IP: 37.139.53.82<br>Powered by: Elementor<br>
+

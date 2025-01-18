@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id +GAgDs44hmYy3BoAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 03 Jul 2024 22:53:18 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 03 Jul 2024 22:53:18 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1sPFPC-007WsW-0X
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 03 Jul 2024 22:53:18 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <CnmBGIzN1OHhm6WBpewWsrbSxzRhuZ5rd8nL7t13E@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sPFPC-007WsW-0X@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Wed, 03 Jul 2024 22:53:18 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1sPFOx-007Wm4-0q
+	for hello@decisio.CO.uk;
+	Wed, 03 Jul 2024 22:53:03 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 212.102.33.75
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 212.102.33.75
+Date: Thu, 4 Jul 2024 05:53:03 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <CnmBGIzN1OHhm6WBpewWsrbSxzRhuZ5rd8nL7t13E@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: Angeline<br>Email: angelinepetterd@foxmail.com<br>Message: World's Best Neck Massager Get it Now 50% OFF + Free Shipping!<br /><br />Wellness Enthusiasts! There has never been a better time to take care of your neck pain! <br />Our clinical-grade TENS technology will ensure you have neck relief in as little as 20 minutes.<br /><br />Get Yours: https://hineck.co<br /><br />Best Wishes,<br /><br />Angeline<br />Contact - Decisio<br><br>---<br><br>Date: July 4, 2024<br>Time: 5:53 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51<br>Remote IP: 212.102.33.75<br>Powered by: Elementor<br>
+

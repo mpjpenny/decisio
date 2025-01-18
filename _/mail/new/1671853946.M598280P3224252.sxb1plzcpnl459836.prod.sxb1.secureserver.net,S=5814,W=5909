@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 6QAwI3p3pmO8MjEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Fri, 23 Dec 2022 20:52:26 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Fri, 23 Dec 2022 20:52:26 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1p8vaE-00DWly-H1
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Fri, 23 Dec 2022 20:52:26 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <RvvPbYZClefSVwZma163JL9DHBTKL5RWmQDMykXjSZk@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1671853946-eximdsn-1259095277
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1p8vaE-00DWly-H1@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Fri, 23 Dec 2022 20:52:26 -0700
+
+--1671853946-eximdsn-1259095277
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 8vaEpqU32ayqm :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=L7jbAcf8 c=1 sm=1 tr=0 ts=63a6777a p=ySPaOmjmAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=sHyYjHe8cH0A:10 a=wc1qy3NFy5MA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=84cTXm3vAAAA:8 a=zT5s1zTZoqvCOYd5654A:9 a=QEXdDO2ut3YA:10 a=E_-9t9RrPOQA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=3gWm3jAn84ENXaBijsEo:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=orPUhMwDfNb4T0nH06Gj:22 ::
+    100.00
+
+--1671853946-eximdsn-1259095277
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 8vaEpqU32ayqm :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=L7jbAcf8 c=1 sm=1 tr=0 ts=63a6777a p=ySPaOmjmAAAA:8 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=sHyYjHe8cH0A:10 a=wc1qy3NFy5MA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=84cTXm3vAAAA:8 a=zT5s1zTZoqvCOYd5654A:9 a=QEXdDO2ut3YA:10 a=E_-9t9RrPOQA:10 a=ASGqDSWa1uVckBUHRTv3:22 a=3gWm3jAn84ENXaBijsEo:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=orPUhMwDfNb4T0nH06Gj:22 :: 100.00
+
+--1671853946-eximdsn-1259095277
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1p8vZj-00DWLy-Tb
+	for hello@decisio.CO.uk;
+	Fri, 23 Dec 2022 20:52:25 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 23.81.122.207
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 23.81.122.207
+Date: Sat, 24 Dec 2022 03:51:55 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <RvvPbYZClefSVwZma163JL9DHBTKL5RWmQDMykXjSZk@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Onita Lefebvre<br>Email: lefebvre.onita@googlemail.com<br>Message: Di=
+d you know that you can use this powerful Artificial intelligence bot that =
+makes it super fast & easy to boost profits for your website decisio.co.uk?=
+ this simple Artificial intelligence software deposits hundreds of thousand=
+s of ideal leads, for decisio.co.uk, in email liste on complete automation =
+every single day without fail....<br /> <br />Learn More Here : 50kemailspe=
+rday.com<br /> <br />we stopped wasting so much time and money on paid ads.=
+.. We simply let the Artificial intelligence assistant produce sales for us=
+. Now, imagine for a second, never having to create a single ad, ever again=
+, for the rest of your life. That=E2=80=99s what this Artificial intelligen=
+ce tool will do for you. <br /> <br />It=E2=80=99s All Here: 50kemailsperda=
+y.com<br /> <br />Kind regards<br /> <br />P.S: The founders of this Artifi=
+cial intelligence assistant consulted with the world=E2=80=99s best traffic=
+ generation and Direct Response Marketing experts to teach the tool how to =
+find potential customers, for you.<br />Your business is missing out right =
+now by not using it=E2=80=A6<br><br>---<br><br>Date: December 24, 2022<br>T=
+ime: 3:51 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Moz=
+illa/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, lik=
+e Gecko) Chrome/67.0.3396.87 Safari/537.36<br>Remote IP: 23.81.122.207<br>P=
+owered by: Elementor<br>
+
+--1671853946-eximdsn-1259095277--

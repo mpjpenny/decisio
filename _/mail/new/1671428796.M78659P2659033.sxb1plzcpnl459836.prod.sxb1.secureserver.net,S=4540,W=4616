@@ -1,0 +1,76 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id 4wJbBLz6n2PZkigAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 18 Dec 2022 22:46:36 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 18 Dec 2022 22:46:36 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1p78yy-00B9jX-0c
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 18 Dec 2022 22:46:36 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <a67XsiyIZcAH293ueRl71oR59GOA8IRPku89PVWOAk@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1671428796-eximdsn-1975318812
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1p78yy-00B9jX-0c@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 18 Dec 2022 22:46:36 -0700
+
+--1671428796-eximdsn-1975318812
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 78yxpDHpxJMZN :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=bYKtEsDB c=1 sm=1 tr=0 ts=639ffabb p=yhfuryVCVJ0A:10 p=sq0qs7Mcs2cA:10 p=dVrxhv3jRXcA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=sHyYjHe8cH0A:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=sbt5mDTVNShofsAuvC0A:9 a=QEXdDO2ut3YA:10 a=4sSQ3uqm_V0A:10 a=ASGqDSWa1uVckBUHRTv3:22 a=FODWE5z0EAjRNbSqIU3M:22 ::
+    100.00
+
+--1671428796-eximdsn-1975318812
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 78yxpDHpxJMZN :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=bYKtEsDB c=1 sm=1 tr=0 ts=639ffabb p=yhfuryVCVJ0A:10 p=sq0qs7Mcs2cA:10 p=dVrxhv3jRXcA:10 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=sHyYjHe8cH0A:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=sbt5mDTVNShofsAuvC0A:9 a=QEXdDO2ut3YA:10 a=4sSQ3uqm_V0A:10 a=ASGqDSWa1uVckBUHRTv3:22 a=FODWE5z0EAjRNbSqIU3M:22 :: 100.00
+
+--1671428796-eximdsn-1975318812
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1p78yS-00B9Lf-V2
+	for hello@decisio.CO.uk;
+	Sun, 18 Dec 2022 22:46:34 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 109.106.137.188
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 109.106.137.188
+Date: Mon, 19 Dec 2022 05:46:04 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <a67XsiyIZcAH293ueRl71oR59GOA8IRPku89PVWOAk@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Name: RyanEmary<br>Email: zelatcol@gmail.com<br>Message: Kaixo, zure prezioa jakin nahi nuen.<br><br>---<br><br>Date: December 19, 2022<br>Time: 5:46 am<br>Page URL: <br>User Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36<br>Remote IP: 109.106.137.188<br>Powered by: Elementor<br>
+
+
+--1671428796-eximdsn-1975318812--

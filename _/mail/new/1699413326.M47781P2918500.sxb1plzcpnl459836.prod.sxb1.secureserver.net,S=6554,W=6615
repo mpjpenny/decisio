@@ -1,0 +1,61 @@
+Return-Path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id GPxwAk79SmVkiCwAphIfxA
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 07 Nov 2023 20:15:26 -0700
+Return-path: <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 07 Nov 2023 20:15:26 -0700
+Received: from root by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1r0Z2L-00CFUS-Vg
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 07 Nov 2023 20:15:26 -0700
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Subject: [Installatron] WordPress 6.4 now available (major version)
+Date: Tue, 7 Nov 2023 20:15:25 -0700
+From: noreply@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Message-ID: <5098130e5126bbeb7750f3367c831c3b@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.61 (316)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 6.4 (major version) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- https://www.decisio.co.uk
+
+
+The changes for this version are:
+
+This latest version of WordPress introduces a new, versatile default theme and a suite of upgrades to empower every step of your creative journey. Craft your content seamlessly with further writing improvements. Explore more ways to bring your vision to life and streamline site editing with enhanced tools. Whether you’re new to WordPress or an experienced creator, “Shirley” has something for you. Discover the unmatched flexibility of building with blocks and let your ideas take flight.
+
+What's inside 6.4
+* Meet Twenty Twenty-Four: Experience site editing at its finest with Twenty Twenty-Four. This new multi-faceted default theme has been thoughtfully crafted with three distinct use cases in mind, from writers and artists to entrepreneurs. Save time and effort with its extensive collection of over 35 templates and patterns—and unlock a world of creative possibilities with a few tweaks. Twenty Twenty-Four’s remarkable flexibility ensures an ideal fit for almost any type of site. Check it out in this demo.
+* Let your writing flow: New enhancements ensure your content creation journey is smooth. Find new keyboard shortcuts in List View, smarter list merging, and enhanced control over link settings. A cohesive toolbar experience for the Navigation, List, and Quote blocks lets you work efficiently with the tooling options you need.
+* The Command Palette just got better: First introduced in WordPress 6.3, the Command Palette is a powerful tool to quickly find what you need, perform tasks efficiently, and speed up your building workflow. Enjoy a refreshed design and new commands to perform block-specific actions in this release.
+* Categorize and filter patterns: Patterns are an excellent way to leverage the potential of blocks and simplify your site-building process. WordPress 6.4 allows you to organize them with custom categories. Plus, new advanced filtering in the Patterns section of the inserter makes finding all your patterns more intuitive.
+* Get creative with more design tools: Build beautiful and functional layouts with an expanded set of design tools. Play with background images in Group blocks for unique designs and maintain image dimensions consistent with placeholder aspect ratios. Do you want to add buttons to your Navigation block? Now you can do it conveniently without a line of code.
+* Make your images stand out: Enable lightbox functionality to let your site visitors enjoy full-screen, interactive images on click. Apply it globally or to specific images to customize the viewing experience.
+* Rename Group blocks: Set custom names for Group blocks to organize and distinguish areas of your content easily. These names will be visible in List View.
+* Preview images in List View: New previews for Gallery and Image blocks in List View let you visualize and locate where images on your content are at a glance.
+* Share patterns across sites: Need to use your custom patterns on another site? Import and export them as JSON files from the Site Editor’s patterns view.
+* Introducing Block Hooks: Block Hooks enables developers to automatically insert dynamic blocks at specific content locations, enriching the extensibility of block themes through plugins. While considered a developer tool, this feature is geared to respect your preferences and gives you complete control to add, dismiss, and customize auto-inserted blocks to your needs.
+* Performance wins: This release includes more than 100 performance-related updates for a faster and more efficient experience. Notable enhancements focus on template loading performance for themes (including Twenty Twenty-Four), usage of the script loading strategies “defer” and “async” in core, blocks, and themes, and optimization of autoloaded options.
+* Accessibility highlights: Every release is committed to making WordPress accessible to everyone. WordPress 6.4 brings several List View improvements and aria-label support for the Navigation block, among other highlights. The admin user interface includes enhancements to button placements, “Add New” menu items context, and Site Health spoken messages. Learn more about all the updates aimed at improving accessibility.
+
+Other notes of interest
+* PHP 8.1 or 8.2 are recommended for use with WordPress 6.4. Read more: https://wordpress.org/news/2023/10/wordpress-6-4s-php-compatibility/
+* WordPress 6.4 disables attachment pages for new installations. Read more: https://make.wordpress.org/core/2023/10/16/changes-to-attachment-pages/
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

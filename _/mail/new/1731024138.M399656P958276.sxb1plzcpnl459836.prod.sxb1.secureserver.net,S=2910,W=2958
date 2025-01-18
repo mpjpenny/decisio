@@ -1,0 +1,48 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id YHn3FQpVLWdEnw4AphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Thu, 07 Nov 2024 17:02:18 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Thu, 07 Nov 2024 17:02:18 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1t9CSA-0043fu-0z
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Thu, 07 Nov 2024 17:02:18 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <83B52TrkeuQA8cpRiB1h2Zt8GUbbXlYrCMkspuLhBQ@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1t9CSA-0043fu-0z@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Thu, 07 Nov 2024 17:02:18 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1t9CS1-0043ZZ-03
+	for hello@decisio.CO.uk;
+	Thu, 07 Nov 2024 17:02:09 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 2.57.170.217
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 2.57.170.217
+Date: Fri, 8 Nov 2024 00:02:08 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <83B52TrkeuQA8cpRiB1h2Zt8GUbbXlYrCMkspuLhBQ@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Name: Phil Stewart<br>Email: noreplyhere@aol.com<br>Message: Want to get millions of people to notice your message economically?<br /> Reach out to me at my contact info below if you’d like more information on how I do this.<br /><br />Regards,<br />Leslie Babb<br />Email: Leslie.Babb@morebiz.my<br />Website: http://n432bs.form-marketing.top<br />Skype: marketingwithcontactforms<br><br>---<br><br>Date: November 8, 2024<br>Time: 12:02 am<br>Page URL: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36<br>Remote IP: 2.57.170.217<br>Powered by: Elementor<br>
+

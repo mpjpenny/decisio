@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id yC2iNdRi3WYpWRAAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Sun, 08 Sep 2024 01:39:48 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Sun, 08 Sep 2024 01:39:48 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1snDSW-004Vz7-2e
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Sun, 08 Sep 2024 01:39:48 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <Ktt7B9e5awW1lxWN77An7IFeyx2dvktfUQ0lwOgc@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1snDSW-004Vz7-2e@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Sun, 08 Sep 2024 01:39:48 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1snDSO-004VxN-1M
+	for hello@decisio.CO.uk;
+	Sun, 08 Sep 2024 01:39:40 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 154.47.27.82
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 154.47.27.82
+Date: Sun, 8 Sep 2024 08:39:40 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <Ktt7B9e5awW1lxWN77An7IFeyx2dvktfUQ0lwOgc@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Carl Tranter<br>Email: tranter.carl40@outlook.com<br>Message: Hi ther=
+e<br />I know its difficult for everyone to understand that SEO takes time =
+and a monthly strategy is the right mindset for it.<br />Very few webmaster=
+s have the patience to see a healthy trend building each moonth for their b=
+usiness.<br /><br />Google made it difficult for everyone, so in these cond=
+itions, this is the only way to see a ROI in time.<br /><br />if you think =
+this is the correct way to do it, then try us. <br />https://www.seoxdigita=
+l.net/monthly-seo/<br /><br /><br />We deliver a lot for the money paid, yo=
+u wont regret choosing us for your SEO<br /><br />Thanks<br />Digital X SEO=
+ Experts<br />https://www.seoxdigital.net/whatsapp-us/<br><br>---<br><br>Da=
+te: September 8, 2024<br>Time: 8:39 am<br>Page URL: https://decisio.co.uk/c=
+ontact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKi=
+t/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.267=
+9.68<br>Remote IP: 154.47.27.82<br>Powered by: Elementor<br>

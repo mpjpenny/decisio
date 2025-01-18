@@ -1,0 +1,63 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id AIhOCy3Nw2VX/RMAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Wed, 07 Feb 2024 11:34:21 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Wed, 07 Feb 2024 11:34:21 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rXmkX-005Vnl-0Q
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Wed, 07 Feb 2024 11:34:21 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <FHSxaPYu7ahUSUAFcqWkUipQyfm6xIkEH7DNnujM@decisio.co.uk>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rXmkX-005Vnl-0Q@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Wed, 07 Feb 2024 11:34:21 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rXmkR-005VmR-0j
+	for hello@decisio.CO.uk;
+	Wed, 07 Feb 2024 11:34:15 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 172.241.234.97
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 172.241.234.97
+Date: Wed, 7 Feb 2024 18:34:15 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <FHSxaPYu7ahUSUAFcqWkUipQyfm6xIkEH7DNnujM@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Name: Goldhar<br>Email: bob@getbizcreditfast.com<br>Message: Hi, <br /><br =
+/>Would you like to discover the secret to accessing high-limit business cr=
+edit lines, credit cards, and vehicle financing even when you think you can=
+'t qualify? <br /><br />Find it in our FREE step-by-step guide which also s=
+hows you how to get business credit without a personal guarantee or credit =
+check... whether you're a startup or have an 8-figure business. <br /><br /=
+>Follow the link below and download your complimentary copy today: <br />>>=
+> https://GetBizCreditFast.com <br /><br />Wishing you much success in busi=
+ness and in life for 2024 and beyond.<br /><br />Regards, <br />Bob <br /><=
+br /><br /><br /><br /><br /><br /><br /><br />2000 S Colorado Blvd<br />De=
+nver CO 80222<br /><br />If you'd rather not find out more about building b=
+usiness credit, simply reply to this email with the word REMOVE in the subj=
+ect line and your wish will be promptly granted.<br><br>---<br><br>Date: Fe=
+bruary 7, 2024<br>Time: 6:34 pm<br>Page URL: https://decisio.co.uk/contact/=
+<br>User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12.5; rv:114.0) Geck=
+o/20100101 Firefox/114.0<br>Remote IP: 172.241.234.97<br>Powered by: Elemen=
+tor<br>

@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id QI1RJxri02XHCQEAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Mon, 19 Feb 2024 16:19:54 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Mon, 19 Feb 2024 16:19:54 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	id 1rcCvS-000IBG-1x
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Mon, 19 Feb 2024 16:19:54 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <m4cOtLfVB445ORTPr2ZGdVkGIiJid0c4V6WKFDE48@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1708384794-eximdsn-1372686862
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rcCvS-000IBG-1x@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Mon, 19 Feb 2024 16:19:54 -0700
+
+--1708384794-eximdsn-1372686862
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 cCvRrzytfTECb :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=RbUzCEtv c=1 sm=1 tr=0 ts=65d3e21a p=_jaxfScAAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=k7vzHIieQBIA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=VNI-FIlAAAAA:8 a=84cTXm3vAAAA:8 a=FFdK9vwfG9cDuPNyIs8A:9 a=DzbW43emX17N_4fZ:21 a=QEXdDO2ut3YA:10 a=uKS9v-WT10MA:10 a=W2C5nkfZtt8A:10 a=-FEs8UIgK8oA:10 a=6jocBc7-q94vTO-ZEF5A:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 a=LAmjqU_Z1v3ZT_b_ajM5:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=mlrNmlKJcVLUQxKbbP7A:22 ::
+    100.00
+
+--1708384794-eximdsn-1372686862
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 cCvRrzytfTECb :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=RbUzCEtv c=1 sm=1 tr=0 ts=65d3e21a p=_jaxfScAAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=k7vzHIieQBIA:10 a=c7naqG_xe-4A:10 a=pGLkceISAAAA:8 a=VNI-FIlAAAAA:8 a=84cTXm3vAAAA:8 a=FFdK9vwfG9cDuPNyIs8A:9 a=DzbW43emX17N_4fZ:21 a=QEXdDO2ut3YA:10 a=uKS9v-WT10MA:10 a=W2C5nkfZtt8A:10 a=-FEs8UIgK8oA:10 a=6jocBc7-q94vTO-ZEF5A:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 a=LAmjqU_Z1v3ZT_b_ajM5:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=mlrNmlKJcVLUQxKbbP7A:22 :: 100.00
+
+--1708384794-eximdsn-1372686862
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1rcCvL-000I7q-1z
+	for hello@decisio.CO.uk;
+	Mon, 19 Feb 2024 16:19:53 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 38.170.157.78
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 38.170.157.78
+Date: Mon, 19 Feb 2024 23:19:47 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <m4cOtLfVB445ORTPr2ZGdVkGIiJid0c4V6WKFDE48@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Dante<br>Email: shoshana.teel82@gmail.com<br>Message: They thought on=
+ly a genius could crack the lottery code...<br /><br />But after 273 tests =
+Yale scientists revealed a shocking truth...<br /><br />People who just cou=
+ldn=E2=80=99t understand math in school pick 12 times more winning numbers =
+than those who scored only A in class...<br /><br />Which explains why the =
+biggest jackpot winners were incredibly bad at math...<br /><br />While gre=
+at mathematicians never won anything...<br /><br />Skeptical?<br /><br />Th=
+is lottery legend https://bit.ly/loterrydefeater showed his winning formula=
+...<br /><br />And it=E2=80=99s so simple that the complicated minds of mat=
+h teachers could barely conceive...<br /><br />Instead, 5th graders saw rig=
+ht through it!<br /><br />See it for yourself right here: https://bit.ly/lo=
+terrydefeater<br /><br />For your wealth,<br /><br />Dante<br /><br /><br /=
+><br />If you'd like to unsubscribe click here https://compressl.ink/websit=
+e-opt-out/<br /><br />333 Summer Street, Delaware. Privacy Policy. Anti-spa=
+m Policy.<br /><br />=C2=A92024 Compressl.Ink, Inc.<br><br>---<br><br>Date:=
+ February 19, 2024<br>Time: 11:19 pm<br>Page URL: https://decisio.co.uk/con=
+tact/<br>User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/=
+537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Saf=
+ari/537.36<br>Remote IP: 38.170.157.78<br>Powered by: Elementor<br>
+
+--1708384794-eximdsn-1372686862--

@@ -1,0 +1,107 @@
+Return-Path: <>
+Delivered-To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Received: from sxb1plzcpnl459836.prod.sxb1.secureserver.net
+	by sxb1plzcpnl459836.prod.sxb1.secureserver.net with LMTP
+	id kH7IGd1YU2W0STYAphIfxA
+	(envelope-from <>)
+	for <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>; Tue, 14 Nov 2023 04:24:13 -0700
+Return-path: <>
+Envelope-to: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+Delivery-date: Tue, 14 Nov 2023 04:24:13 -0700
+Received: from mailnull by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	id 1r2rWf-00EwMM-C0
+	for edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net;
+	Tue, 14 Nov 2023 04:24:13 -0700
+X-Failed-Recipients: hello@decisio.CO.uk
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+To: edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net
+References: <xJMtHabWLQWUezYidHzDSGo2qcAp1RRbrmTuLP4VHg@decisio.co.uk>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1699961053-eximdsn-148384370
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1r2rWf-00EwMM-C0@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Date: Tue, 14 Nov 2023 04:24:13 -0700
+
+--1699961053-eximdsn-148384370
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hello@decisio.CO.uk
+    host sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net [92.204.64.10]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 2rWfrcnqrMLIq :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TbpQ9zch c=1 sm=1 tr=0 ts=655358dd p=jrdVRCPdAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=BNY50KLci1gA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=84cTXm3vAAAA:8 a=Yw8x-AqIO_bkL4HR5CQA:9 a=2_o8NAV59kciWyTR:21 a=QEXdDO2ut3YA:10 a=_JNsin0xDJQA:10 a=3b1v51bnfRHCWh3k3zcy:22 a=3gWm3jAn84ENXaBijsEo:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1699961053-eximdsn-148384370
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sxb1plzcpnl459836.prod.sxb1.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;hello@decisio.CO.uk
+Status: 5.0.0
+Remote-MTA: dns; sxb1nlsmtpcp-v01.prod.sxb1.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 2rWfrcnqrMLIq :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TbpQ9zch c=1 sm=1 tr=0 ts=655358dd p=jrdVRCPdAAAA:20 a=2uSUjv5BztTmlorSEOrjUQ==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=dHlgu/J3N0dIE80XNg8v0esTehs=:19 a=IkcTkHD0fZMA:10 a=OZSDWHtyF3AA:10 a=BNY50KLci1gA:10 a=c7naqG_xe-4A:10 a=mK_AVkanAAAA:8 a=84cTXm3vAAAA:8 a=Yw8x-AqIO_bkL4HR5CQA:9 a=2_o8NAV59kciWyTR:21 a=QEXdDO2ut3YA:10 a=_JNsin0xDJQA:10 a=3b1v51bnfRHCWh3k3zcy:22 a=3gWm3jAn84ENXaBijsEo:22 a=Uld2o_lDHMsVkxPV-dx0:22 a=ASGqDSWa1uVckBUHRTv3:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1699961053-eximdsn-148384370
+Content-type: message/rfc822
+
+Return-path: <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Received: from edfa6tzuu6ys by sxb1plzcpnl459836.prod.sxb1.secureserver.net with local (Exim 4.95)
+	(envelope-from <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>)
+	id 1r2rWU-00Ew52-6v
+	for hello@decisio.CO.uk;
+	Tue, 14 Nov 2023 04:24:13 -0700
+To: hello@decisio.CO.uk
+Subject: New message from "Decisio"
+X-PHP-Script: decisio.co.uk/wp-admin/admin-ajax.php for 23.82.104.4
+X-PHP-Filename: /home/edfa6tzuu6ys/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 23.82.104.4
+Date: Tue, 14 Nov 2023 11:24:02 +0000
+From: Decisio Contact Form <edfa6tzuu6ys@sxb1plzcpnl459836.prod.sxb1.secureserver.net>
+Message-ID: <xJMtHabWLQWUezYidHzDSGo2qcAp1RRbrmTuLP4VHg@decisio.co.uk>
+X-Mailer: PHPMailer 6.5.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+Name: Michael Sinclair<br>Email: howard.repass66@googlemail.com<br>Message:=
+ Hello,<br />  <br />I was looking at your site and wanted to ask if you wo=
+uld be interested in getting two-hundred and fifty thousand (250,000) email=
+s sent out within 48 hours for just $48 - we call it our 48-Special.<br /> =
+<br />I=E2=80=99m with HiveMailers, we use a robust email system to get cli=
+ents daily leads and/or sales 24/7.<br /> <br />WE DO ALL THE WORK:<br /><b=
+r />- We create the content for the email(s).<br />- We provide the email l=
+ist (contacts).<br />- We forward leads to you daily.<br />- We manage your=
+ email campaigns 24/7.<br />- We make changes to the list and content until=
+ we get results.<br /><br />WHO THIS IS FOR:<br /><br />- Companies who off=
+er products/services to businesses (B2B).<br />- Companies who provide a pr=
+oduct/service with wide appeal (not a small niche).<br />- Companies who pr=
+oduct/service can be sold across the USA and/or international.<br /><br />J=
+ust imagine, getting hot leads within days of getting started with us. <br =
+/><br />You might be wondering if our system works, well if you are reading=
+ this message, it works. <br /><br />Get started now!!!!! We will send out =
+two-hundred and fifty thousand (250,000) emails for just $48.<br /><br />Ta=
+ke action today and let=E2=80=99s get you some leads. This offer is good fo=
+r the first 20 clients, don=E2=80=99t miss out.<br /><br />Simply book a ti=
+me to talk on our calendar: https://bit.ly/hivemailer-special <br /><br />N=
+OTE: To buy an email list and hire an in-house email manager to run your ca=
+mpaign (like our system) would cost around $3,500 a month, but with us, you=
+ pay just $48. So, you save over $3,450.<br /><br />Sincerely,<br /><br />M=
+ichael<br />HiveMailers<br /><br />Calendar: https://bit.ly/hivemailer-spec=
+ial<br><br>---<br><br>Date: November 14, 2023<br>Time: 11:24 am<br>Page URL=
+: https://decisio.co.uk/contact/<br>User Agent: Mozilla/5.0 (Macintosh; Int=
+el Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 S=
+afari/537.36 Edg/114.0.1264.71<br>Remote IP: 23.82.104.4<br>Powered by: Ele=
+mentor<br>
+
+--1699961053-eximdsn-148384370--
